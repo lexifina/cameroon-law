@@ -1,0 +1,5 @@
+# Visas
+
+DÉCRET N°98/031 DU 9 MARS 1998 PORTANT ORGANISATION DES PLANS D’URGENCE ET DES SECOURS EN CAS DE CATASTROPHE OU DE RISQUE MAJEUR LE PRÉSIDENT DE LA RÉPUBLIQUE, Vu la Constitution :
+Vu la loi n°86/16 du 6 décembre 1986 portant réorganisation générale de la protection civile. DÉCRÈTE :
+Chapitre I DES DISPOSITIONS GÉNÉRALES
