@@ -1,0 +1,3 @@
+# Visas
+
+REPUBLIQUE DU CAMEROUN PAIX-TRAVAIL-PATRIE DÉCRET N° 78/283 DU 10 JUIN 1978 Fixant les taux de cotisation pour la branche des accidents du travail et des maladies professionnelles LE PRESIDENT DE LA REPUBLIQUE, Vu la constitution du 2 juin 1972 modifiée et complétée par la loi n° 75/ 1 du 9 mai 1975 ; Vu l'ordonnance n° 73/ 17 du 22 mai 1973 portant organisation de la prévoyance sociale ; Vu la loi n° 77/11 du 13 juillet 1977 portant réparation et prévention des accidents du travail et des maladies professionnelles, notamment ses articles 9 et 54 ; Sur avis du Conseil National du Travail ; DÉCRÈTE :
