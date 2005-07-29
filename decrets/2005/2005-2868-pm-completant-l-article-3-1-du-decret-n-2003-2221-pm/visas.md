@@ -1,0 +1,3 @@
+# Visas
+
+de mise en œuvre du Document de Stratégie de Réduction de la Pauvreté Le Premier Ministre, Chef du Gouvernement, Vu la Constitution, Vu le décret n° 92/089 du 4 mai 1992 précisant les attributions du Premier Ministre, modifié et complété par le décret n° 95/145 du 4 août1995 ; Vu le décret n° 2004/320 du 8 décembre 2004 portant organisation du Gouvernement ; Vu le décret n° 2004/321 du 8 décembre 2004 portant nomination d'un Premier Ministre ; Vu le décret n° 2003/2221/PM du 29 septembre 2003 portant création, organisation et fonctionnement du Comité technique de suivi et d'évaluation des activités de mise en œuvre du Document de Stratégie de Réduction de la Pauvreté, Décrète :
