@@ -1,0 +1,4 @@
+# Visas
+
+et la République du Cameroun pour l’actualisation de l’étude de faisabilité du projet d’aménagement hydroélectrique de Memve’Ele Le Président de la République, Vu la Constitution ;
+Vu la loi n° 2004/026 du 30 décembre 2004 portant loi des Finances de la République du Cameroun pour l’exercice 2005 ; Vu le décret n° 2004/320 du 8 décembre 2004 portant organisation du gouvernement ; Vu le décret n° 2004/322 du 8 décembre 2004 portant formation du gouvernement ; Vu le décret n° 2005/436 du 26 octobre 2005 habilitant le ministre de l’Economie et des Finances à signer avec faculté de délégation un accord de prêt d’un montant de deux cent trente millions (230.000.000) de FCFA avec la Banque de développement des Etats de l’Afrique Centrale pour l’actualisation de l’étude de faisabilité du projet d’aménagement hydroélectrique de Memve’Ele Décrète :
