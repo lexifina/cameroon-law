@@ -1,0 +1,4 @@
+# Visas
+
+Le Premier Ministre, Chef du Gouvernement, Vu la Constitution ;
+Vu le décret n° 2004/320 du 08 décembre 2004 portant organisation du Gouvernement ; Vu le décret n° 2004/321 du 08 décembre 2004 portant nomination d'un Premier Ministre ; Vu le décret n° 92/089 du 04 mai 1992 précisant les attributions du Premier Ministre, modifié et complété par le décret n° 95/145 (bis) du 05 août 1995 ; En application des dispositions du document du Programme National de Gouvernance au Cameroun signé le 03 juillet 1997 entre le Gouvernement Camerounais et le Programme des Nations Unies pour le Développement (PNUD) ; Vu le Programme National de Gouvernance approuvé le 29 Juin 2000 par le Président de la République, ensemble son Plan d'Action ; Vu le document d'appui au Programme National de Gouvernance et de lutte contre la corruption (phase Il) signé le 04 mai 2001 entre le Gouvernement Camerounais et le Programme des Nations Unies pour le Développement (PNUD) ; Décide :
