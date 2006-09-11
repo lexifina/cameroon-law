@@ -1,0 +1,5 @@
+# Visas
+
+Décret n° 2006/1577/PM du 11 septembre 2006 modifiant et complétant certaines dispositions du décret n° 2001/718/PM du 3 septembre 2001 portant organisation et fonctionnement du Comité interministériel de l'environnement Le Premier Ministre, Chef du Gouvernement, Vu la Constitution ;
+Vu la loi n° 96/12 du 5 août 1996 portant loi-cadre relative à la gestion de l'environnement ; Vu le décret n° 92/089 du 4 mai 1992 précisant les attributions du Premier Ministre, modifié et complété par le décret n° 95/145 bis du 4 août 1995 ;
+Vu le décret n° 2004/320 du 8 décembre 2004 portant organisation du Gouvernement ; Vu le décret n° 2004/321 du 8 décembre 2004 portant nomination d'un Premier Ministre ; Vu le décret n° 2005/117 du 14 avril 2005 portant organisation du Ministère de l'Environnement et de la Protection de la Nature, modifié et complété par le décret n° 2005/496 du 31 décembte 2005 ; Vu le décret n° 2001/718/PM du 3 septembre 2001 portant organisation et fonctionnement du Comité interministériel de l'environnement, Décrète :
