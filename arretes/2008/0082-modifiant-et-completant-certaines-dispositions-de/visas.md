@@ -1,0 +1,6 @@
+# Visas
+
+ARRÊTÉ N°0082/MINFOF DU 06 FEVRIER 2008MODIFIANT ET COMPLÉTANT CERTAINES DISPOSITIONS DE L’ARRÊTÉ N°0649/ MINFOFDU 18 DÉCEMBRE 2006 PORTANT RÉPARTITION DES ESPÈCES DE FAUNES EN GROUPEDE PROTECTION ET FIXANT LES LATITUDES D’ABATTAGE PAR TYPE DE PERMIS SPORTIF DE CHASSE LE MINISTRE DES FORETS ET DE LA FAUNE, Vu la constitution ;
+Vu la loi n°94/01 du 20 janvier 1994 portant régime des forêts, de la faune et de la pèche, modifiée et complétée par l’ordonnance n°99/001 du 31 aout 1999 ;
+Vu le décret n°95/466 PM du 20 juillet 1995 fixant les modalités d’application du régime de la faune ; Vu le décret n°95/531/PM du 23 aout 1995 fixant les modalités d’application du régime des forets ; Vu le décret n° 2004/320 du 08 décembre 2004 portant organisation du gouvernement modifie et complété par le décret n°2007/268 du 07 septembre 2007 Vu le décret n°2005/099 du 06 avril 2005 portant organisation du ministère des forets et de la faune modifié et complété par le décret n°2005/495 du 31 décembre 2005;
+Vu le décret n°2006/308 du 22 septembre 2006 portant réaménagement du gouvernement ; Vu l’arrêté n°0649/MINFOF du 18 décembre 2006 portant répartition des espèce de faunes en groupe de protection et fixant les latitudes d’abattage par type de permis sportif de chasse ; ARRETE
