@@ -1,0 +1,4 @@
+# Visas
+
+de partenariat économique « Union Européenne-Pays ACP » LE PREMIER MINISTRE, CHEF DU GOUVERNEMENT, VU la Constitution;
+VU le décret n° 92/089 du 04 mai 1992 précisant les attributions du Premier Ministre, modifié et complété par le décret n° 95/145 bis du 04 août 1995 ; VU le décret n° 2004/320 du 08 décembre 2004 portant organisation du Gouvernement, modifié et complété par le décret n° 2007/268 du 07 septembre 2007 ; VU le décret n° 2004/321 du 08 décembre 2004 portant nomination d'un Premier Ministre; VU l'arrêté n0061/CAB/PM du 12 juin 2003 portant création, organisation et fonctionnement du Comité national de suivi et de coordination des négociations des accords de partenariat économique «Union Européenne Pays ACP», modifié et complété par l'arrêté n°114/CAB/PM du 1er septembre 2005. ARRETE:
