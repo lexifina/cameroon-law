@@ -1,0 +1,4 @@
+# Visas
+
+LE PREMIER MINISTRE, CHEF DU GOUVERNEMENT, Vu la Constitution;
+Vu le décret n° 92/089 du 4 mai 1992 précisant les attributions du Premier Ministre modifié et complété par le décret n° 95/145 bis du 04 août 1995 ; Vu le décret n° 2004/320 du 8 décembre 2004 portant organisation du Gouvernement, modifié et complété par le décret n° 2007/268 du 07 septembre 2007 ; Vu le décret n° 2004/321 du 08 décembre 2004 portant nomination d'un Premier Ministre; Vu la décision n°12/06-UEAC-160-CM-14 du 11 mars 2006 du Conseil des Ministres de la CEMAC portant création d'un Comité de Coordination et de suivi de la mise en œuvre du programme régional de facilitation des transports et du transit en zone CEMAC; Vu l'arrêté n° 039/CAB/PM du 03 mars 2008 portant création d'un Comité National de Facilitation des Transports et du Transit Inter-Etats, ARRETE:
