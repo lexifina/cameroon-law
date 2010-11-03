@@ -1,0 +1,4 @@
+# Visas
+
+DECRET N° 2010/2996/PM DU 03 NOVEMBRE 2010 FIXANT LES MODALITES D’APPLICATION DE LA LOI N° 2007/004 DU 03 JUILLET 2007 REGISSANT L’ARTISANAT AU CAMEROUN Le premier ministre, Chef du Gouvernement Décrète :
+Chapitre I : Dispositions générales
