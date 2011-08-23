@@ -1,0 +1,4 @@
+# Visas
+
+DECRET N° 2011/2585/PM DU 23 AOUT 2011 FIXANT LA LISTE DES SUBSTANCES NOCIVES OU DANGEREUSES ET LE REGIME DE LEUR REJET DANS LES EAUX CONTINENTALES Le Premier ministre, chef du gouvernement, Décrète :
+Chapitre I : Des dispositions générales
