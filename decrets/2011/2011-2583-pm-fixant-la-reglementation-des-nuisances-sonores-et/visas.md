@@ -1,0 +1,3 @@
+# Visas
+
+DECRET N° 2011/2583/PM DU 23 AOUT 2011 FIXANT LA REGLEMENTATION DES NUISANCES SONORES ET OLFACTIVES Le premier ministre, chef du gouvernement, Décrète :
