@@ -1,0 +1,5 @@
+# Visas
+
+Décret n° 2013/391 du 31 octobre 2013 portant création, organisation et fonctionnement du Comité National de suivi de la mise en œuvre des décisions issues du Sommet des Chefs d'Etat et de Gouvernement de la CEEAC, de la CEDEAO et de la CGG LE PRESIDENT DE LA REPUBLIQUE, Vu la Constitution;
+Vu le décret n° 2011/408 du 09 décembre 2011 portant organisation du Gouvernement; Vu le décret n° 2011/410 du 09 décembre 2011 portant formation du Gouvernement; Vu la Déclaration des Chefs d'Etat et de Gouvernement des Etats de l'Afrique Centrale et de l'Afrique de l'Ouest sur la sûreté et la sécurité dans l'espace maritime commun, signée à Yaoundé le 25 juin 2013 ; Vu Le Mémorandum d'Entente entre la Communauté Economique des Etats de l'Afrique Centrale (CEEAC), la Communauté Economique des Etats de l'Afrique de l'Ouest (CEDEAO) et la Commission du Golfe de Guinée (CGG) sur la sûreté et la sécurité dans l'espace maritime de l'Afrique Centrale et de l'Afrique de l'Ouest, signé à Yaoundé le 25 juin 2013, DECRETE:
+CHAPITRE I : DISPOSITIONS GENERALES
