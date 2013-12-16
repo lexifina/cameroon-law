@@ -1,0 +1,3 @@
+# Visas
+
+Loi n° 2013/011 du 16 décembre 2013 Régissant les zones économiques au Cameroun Le parlement a délibéré et adopté, le président de la République promulgue la loi dont la teneur suit : Chapitre I DISPOSITIONS GENERALES ARTICLE PREMIER.- (1) la présente loi régit les zones économiques en république du Cameroun. (2) Elle fixe le cadre général de la création, de l’aménagement et la gestion des zones économiques, ainsi que les modalités d’admission des entreprises désireuses de s’y installer. (3) Elle constitue un outil d’incitation et/ou de promotion de l’investissement, des exportations, de la compétitivité, de l’emploi, de la croissance économique et de l’aménagement du territoire.
