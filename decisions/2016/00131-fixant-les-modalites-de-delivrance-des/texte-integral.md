@@ -1,0 +1,38 @@
+# Décision 00131/D/MINEPDED/CAB du 26 août 2016 fixant les modalités de délivrance des attestations de respect des obligations environnementales (AROE) dans le cadre du régime d’autorisation FLEGT
+
+DÉCISION 00131/D/MINEPDED/CAB DU 26 AOÛT 2016 FIXANT LES MODALITÉS DE DÉLIVRANCE DES ATTESTATIONS DE RESPECT DES OBLIGATIONS ENVIRONNEMENTALES (AROE) DANS LE CADRE DU RÉGIME D’AUTORISATION FLEGT LE MINISTRE DE L’ENVIRONNEMENT, DE LA PROTECTION DE LA NATURE ET DU DÉVELOPPEMENT DURABLE Vu la Consttuton ;
+Vu l’Accord de Partenariat Volontaire entre l’Union Européenne et la République du Cameroun sur l’applicaton des réglementatons forestères, la gouvernance et les échanges commerciaux des bois et produits dérivés vers l’Union Européenne (APV/FLEGT) du 06 octobre 2010 ;
+Vu la loi n°94/01 du 20 janvier 1994 portant régime des forêts, de la faune et de la pêche ; Vu la loi n°96/12 du 05 août 1996 portant loi-cadre relatve à la geston l’environnement ; Vu le décret n°95/531/PM du 23 août 1995 fxant les modalités d’applicaton du régime des forêts ;
+Vu le décret n°2011/ 238 du 09 août 2011 portant ratfcaton de l’Accord de Partenariat Volontaire entre l’Union Européenne et la République du Cameroun sur l’applicaton des réglementatons forestères, la gouvernance et les échanges commerciaux des bois et produits dérivés vers l’Union Européenne (APV/FLEGT) ;
+Vu le décret n°2011/408 du 09 décembre 2011 portant organisaton du Gouvernement ; Vu le décret n°2011/410 du 09 décembre 2011 portant formaton du Gouvernement ; Vu le décret n°2012/431 du 1er octobre 2012 portant organisaton du Ministère de l’Environnement, de la Protecton de la Nature et du Développement Durable ; Vu le décret n°2013/0171/PM du 14 février 2013 fxant les modalités de réalisaton des études d’impact environnemental et social ;
+Vu le décret n°2013/0l 72 /PM du 14 février 2013 fxant les modalités de réalisaton des audits environnementaux et sociaux ;
+Vu l’arrêté 00001/MINEPDED du 09 février 2016 fxant les diﬀérentes catégories d’opératon dont la réalisaton est soumise à une évaluaton environnementale stratégique ou à une étude d’impact environnemental et social.
+DÉCIDE:hapitre I DES DISPOSITIONS GÉNÉRALES Artcle 1er :
+La présente Décision fxe les modalités de délivrance des atestatons de respect des obligatons environnementales (AROE) de manière générale, et dans le cadre du régime d’autorisaton FLEGT en partculier.
+Artcle 2 :
+(1) L’AROE certfe du respect des obligatons environnementales par un opérateur dont les actvités ont bénéfcié d’une évaluaton environnementale (évaluaton environnementale stratégique, étude d’impact environnemental et social, audit environnemental et social, notce d’impact environnemental).
+(2) L’AROE est délivrée aux promoteurs de projet qui en expriment le besoin. Elle a une durée de validité de douze (12) mois à compter de la date de signature pour les ttres d’exploitaton permanents et les usines de transformaton du bois, et de 6 mois pour les autres (vente de coupe, forêt communautaire etc.) (3) L’AROE consttue une des pièces exigées pour la délivrance du certfcat de légalité et de l’autorisaton FLEGT pour l’exportaton du bois vers l’Union Européenne. Artcle 3 :
+Au sens de la présente Décision, on entend par opérateur forester, toute personne physique ou morale détentrice d’un ttre, d’un permis d’exploitaton forestère ou d’une unité de transformaton de bois.
+Chapitre II DES MODALITÉS DE DÉLIVRANCE DES ATTESTATIONS DE RESPECT DES OBLIGATIONS ENVIRONNEMENTALES (AROE) Artcle 4 :
+L’AROE est délivrée sur la base des vérifcateurs ci-après :
+(1) la letre d’approbaton des termes de référence de l’évaluaton environnementale stratégique, étude d’impact environnemental et social, audit environnemental et social, notce d’impact environnemental;
+(2) le Certfcat de Conformité Environnementale (CCE) délivré par le Ministre en charge de l’environnement qui ateste de l’approbaton du rapport de l’étude ou l’atestaton de Conformité Environnementale (ACE) délivrée par le Maire concerné qui ateste de l’approbaton du rapport de la notce ; (3) la mise en œuvre eﬀectve des mesures environnementales prévues dans le plan de geston environnementale et sociale (PGES) ou dans le cahier de charges environnementales; (4) le respect de toutes autres obligatons réglementaires en matère d’environnement. PROCÉDURE DE DÉLIVRANCE DE L’ATTESTATION DE RESPECT DES OBLIGATIONS ENVIRONNEMENTALES (AROE) Artcle 5 :
+Le dossier de demande d’une AROE comprend les pièces suivantes :
+– une demande sur papier en tête tmbrée, adressée au Ministre en charge de l’environnement, comportant la raison sociale de l’entreprise ;
+– le rapport de la mise en œuvre du plan de geston environnementale et sociale (PGES) ou du cahier de charges environnementales datant de moins de 6 mois, et accompagné du procès verbal de vérifcaton de l’eﬀectvité de la mise en œuvre des mesures contenues dans ledit rapport, certfé par le président du comité départemental du suivi des PGES ou du Délégué départemental du MINEPDED le cas échéant ;
+– une photocopie de la letre d’approbaton des termes de référence de l’évaluaton environnementale stratégique, de l’étude d’impact environnemental et social, de l’audit environnemental et social ou de la notce d’impact environnemental ;
+– une photocopie du certfcat de conformité environnementale (CCE) délivré par le Ministre en charge de l’environnement ou de l’Atestaton de Conformité environnementale délivrée par le Maire compétent.
+Artcle 6 :
+Toute demande incomplète est rejetée avec une notfcaton au demandeur.
+Artcle 7:
+Une mission de vérifcaton de l’eﬀectvité de la mise en œuvre du PGES ou du cahier de charges et des obligatons environnementales réglementaires est eﬀectuée en tant que de besoin par les services compétents (personnels des services centraux et déconcentrés, Comité départemental du suivi des PGES).
+Artcle 8 :
+La mission de vérifcaton de la mise en œuvre du PGES ou du cahier de charges environnementales est précédée par une analyse au niveau du service compétent, du sommier des infractons environnementales, des rapports du promoteur sur la mise en œuvre du (PGES) et du dernier rapport des instances compétentes du suivi des plans de geston environnementale et sociale (PGES) de l’actvité concernée. Cete analyse fait l’objet d’un pré-rapport servant de base de travail à la Commission ad hoc mise en place à cet eﬀet. Artcle 9 :
+(1) L’AROE est délivrée à l’opérateur par le Ministre en charge de l’environnement dans un délai de deux (02) mois suivant la date de dépôt de la demande.
+(2) Une AROE est délivrée pour chaque projet/installatons ou groupe de projets installatons bénéfciant d’un certfcat de Conformité Environnementale (CCE) ou d’une atestaton de Conformité Environnementale.Chapitre IV DES DISPOSITIONS FINALES Artcle 11 :
+Le comité départemental de suivi des PGES et le cas échéant le délégué départemental est chargé du suivi du respect des obligatons environnementales auprès des opérateurs après la délivrance de l’atestaton de respect des obligatons environnementales (AROE) par le Ministre en charge de l’environnement.
+Artcle 12 :
+(1) Un fchier annuel actualisé des atestatons de respect des obligatons environnementales délivrées par le Ministre en charge de l’environnement est établi en tant que de besoin et mis à la dispositon des Administratons qui en expriment le besoin.
+Artcle 13 :
+La présente Décision sera enregistrée, publiée suivant la procédure d’urgence, puis insérée au journal officiel en français et en anglais.
+Yaoundé le 26 Août 2016 Le Ministre de l’Environnement, de la Protection de la Nature et du Développement Durable HELE PIERRE
