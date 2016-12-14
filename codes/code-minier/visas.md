@@ -1,3 +1,3 @@
 # Visas
 
-Loi n° 001 du 1 6 Avril 2001 portant code minier L'Assemblée Nationale a délibéré et adopté, le Président de la République promulgue la loi dont la teneur suit : : TITRE I DES DISPOSITIONS GENERALES CHAPITRE I DU CHAMP D'APPLICATION ET DES DEFINITIONS
+www.droit‐afrique.com Cameroun Code minier 2016 Cameroun Code minier 2016 Loi n°2016‐17 du 14 décembre 2016 [NB ‐ Loi n°2016‐17 du 14 décembre 2016 portant Code minier] Titre 1 ‐ Dispositions générales Chapitre 1 ‐ De l’objet et du domaine d’application
