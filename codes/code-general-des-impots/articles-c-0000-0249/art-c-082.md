@@ -1,0 +1,14 @@
+# Article C 82
+
+(1) Un contrat est obligatoirement établi entre la commune et l’occupant permanent de la boutique ou du stand.
+(2) Ce contrat comporte notam- ment les mentions suivantes :
+- l’identité du locataire ;
+- le numéro d’identifiant unique de l’occupant ;
+- la localisation du marché (ville, quartier, lieu-dit) ;
+- la référence cadastrale du mar- ché ;
+- le numéro de la boutique ;
+- la superficie du local ;
+- le montant du droit mensuel ;
+- la durée du bail ;
+- la nature de l’activité.
+(3) Toute sous-location est for- mellement interdite. Elle est sanc- tionnée par une amende de 200 % des droits dus sans préjudice des sanctions administratives et des poursuites de droit.

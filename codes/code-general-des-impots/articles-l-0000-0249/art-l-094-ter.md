@@ -1,0 +1,4 @@
+# Article L 94 ter
+
+(1) Toute personne physique ou morale redevable d’un impôt, droit ou taxe, qui sollicite des administrations publiques ou parapu- bliques, un titre, une licence, une cer- tification, une attestation, une autori- sation ou un agrément quelconque dans le cadre de l’exercice de son activité, doit obligatoirement men- tionner sur sa demande son numéro identifiant unique (NIU) et joindre à celle-ci une attestation de non rede- vance en cours de validité. L’absence de ce document entraîne l’irrecevabilité de sa requête.
+(2) L’attestation de non redevance tient lieu de certificat d’imposition ou de non-imposition et de bordereau de situation fiscale. Elle est l’unique document valable dans toute procé- dure administrative à titre de justifica- tif de la situation fiscale d’un contri- buable.

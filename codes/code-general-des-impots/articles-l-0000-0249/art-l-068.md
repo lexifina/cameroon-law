@@ -1,0 +1,5 @@
+# Article L 68
+
+Chacun des actes de poursuite délivrés par les porteurs de contraintes doit, sous peine de nullité, mentionner le montant des frais de poursuites fixé à 1% du montant de la dette pénalités comprises, plafonné à F CFA 100 000, destiné à la rémunéra- tion des porteurs de contraintes dans les conditions fixées par arrêté du ministre chargé des finances.
+Les actes et pièces relatifs aux com- mandements, saisies et ventes et tous actes ayant pour objet le recouvrement des impôts, droits, taxes et pénalités dus, ainsi que les actes et pièces rela- tifs aux poursuites, sont exemptés de la formalité du timbre et de l’enregistrement.
+Cette exemption s’étend aux originaux et copies des actes accessoires et s’applique au timbre des placards exigés pour la vente par les dispositions de l’Acte uniforme OHADA portant organisa- tion des procédures simplifiées de recouvrement et des voies d’exécution.

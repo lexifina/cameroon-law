@@ -1,0 +1,7 @@
+# Article L 86
+
+L’Avis de Mise en Re- couvrement régulièrement établi est exécutoire non seulement à l’encontre du contribuable qui y est inscrit, mais à l’encontre de ses représentants ou ayants droit.
+A ce titre, sont tenus de payer en l’acquit du redevable sur la demande qui en est faite par l’agent chargé du recouvrement et à concurrence des sommes dont ils sont ou seront déposi- taires ou débirentiers, tout employeur, tout fermier ou locataire et, d’une manière générale, tout débiteur ou tout tiers détenteur.
+Le tiers détenteur est solidaire du paiement des sommes réclamées en cas de négligence coupable, défail- lance avérée ou complicité établie.
+Lorsque la cession des droits portant sur les ressources naturelles ou des actions ou parts sociales d’une entre- prise de droit camerounais est réalisée à l’étranger, l’entreprise de droit ca- merounais est solidaire, avec le cé- dant, du paiement des droits dus au titre de la cession.
+En cas de cession, quelles que soient les conditions, le cessionnaire peut être tenu pour responsable solidaire- ment avec le cédant du montant des impôts émis et restant à émettre. Il ne peut être mis en cause qu’au titre de la période non prescrite et seulement jusqu’à concurrence du prix de cession si celle-ci est faite à titre onéreux ou de la valeur retenue pour la liquidation des droits de transmission entre vifs si elle a lieu à titre gratuit.

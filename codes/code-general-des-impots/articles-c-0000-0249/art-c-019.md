@@ -1,0 +1,6 @@
+# Article C 19
+
+(1) Les personnes qui entreprennent en cours d’année une activité soumise à la patente ne doi- vent cette contribution qu’à partir du premier jour du mois dans lequel elles ont commencé d’exercer, à moins que par sa nature, l’activité ne soit suscep- tible d’être exercée pendant toute l’année. Dans ce cas, la patente est due pour l’année entière quelle que soit l’époque à laquelle l’activité est entreprise.
+(2) Le chiffre d’affaires à prendre en compte pour le calcul de la patente est :
+- pour les activités nouvelles, celui déclaré au premier jour du commen- cement de l’activité ;
+- pour les activités datant d’un ou de plus d’un an, celui réalisé au cours de l’exercice précédent.

@@ -1,0 +1,6 @@
+# Article C 28
+
+Il est tenu dans chaque Centre des Impôts et par Collectivité Territoriale Décentralisée ou orga- nisme bénéficiaire, conformément aux dispositions du Livre de Procédures Fiscales du Code Général des Impôts :
+- un livre-journal des émissions et des recouvrements ;
+- un état de rapprochement journalier des impôts et taxes levés au profit de différents bénéficiaires ;
+- un registre de contrôle permettant l’identification et la relance des re- devables qui ne se seraient pas ac- quittés de leurs droits.

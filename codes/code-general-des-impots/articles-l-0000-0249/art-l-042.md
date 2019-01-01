@@ -1,0 +1,3 @@
+# Article L 42
+
+Les agents des impôts ayant au moins le grade de contrôleur ou assimilé, dûment mandatés à cet effet, ont le droit d’obtenir sous forme matérielle et immatérielle, communication de documents déte- nus par les personnes et organismes énumérés à l’article L 43 ci-dessous, afin d’effectuer le contrôle des décla- rations souscrites par les contribuables ou d’obtenir les renseignements pour le compte d’une administration fiscale étrangère, sans que puissent leur être opposés les dispositions de la loi sur le secret bancaire, ainsi que le secret professionnel sous réserve des disposi- tions de l’article L 47 du présent Le droit de communication ne peut en lui-même donner lieu à une notifica- tion de redressements.

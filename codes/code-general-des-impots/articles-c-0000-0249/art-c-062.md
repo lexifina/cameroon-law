@@ -1,0 +1,23 @@
+# Article C 62
+
+Les taxes commu- nales comprennent :
+- la taxe d’abattage du bétail ;
+- la taxe communale sur le bétail ;
+- la taxe sur les armes à feu ;
+- la taxe d’hygiène et de salubrité ;
+- les droits de fourrière ;
+- les droits de place sur les mar- chés ;
+- les droits sur les permis de bâtir ou d’implanter ;
+- les droits d’occupation tempo- raire de la voie publique ;
+- la taxe de stationnement ;
+- les droits d’occupation des parcs de stationnement ;
+- les tickets de quai ;
+- la taxe sur les spectacles ;
+- les droits de stades ;
+- la taxe sur la publicité ;
+- le droit de timbre communal ;
+- la redevance pour dégradation de la chaussée ;
+- la taxe communale de transit ou de transhumance ;
+- la taxe sur le transport des pro- duits de carrières ;
+- les droits de parkings ;
+- la taxe sur les produits de récu- pération.
