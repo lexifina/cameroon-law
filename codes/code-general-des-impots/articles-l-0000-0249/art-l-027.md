@@ -1,3 +1,3 @@
 # Article L 27
 
-La réponse aux observa- tions du contribuable fera apparaître, pour information, la liquidation des droits dus suite au contrôle et la moti- vation des pénalités appliquées ainsi que leur montant.
+La réponse aux obser- vations du contribuable fera appa- raître, pour information, la liquida- tion des droits dus suite au contrôle et la motivation des pénalités appli- quées ainsi que leur montant.

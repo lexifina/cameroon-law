@@ -1,8 +1,8 @@
 # Article L 127
 
-Les demandes doivent être adressées au greffe du Tribunal administratif où elles sont enregistrées contre décharge. Un certificat de dé- pôt de recours est délivré aux per- sonnes qui en font la demande.
+Les demandes doi- vent être adressées au greffe du Tri- bunal administratif où elles sont en- registrées contre décharge. Un certi- ficat de dépôt de recours est délivré aux personnes qui en font la de- mande.
 Article 128.- peine d’irrecevabilité, la requête doit satis- faire aux conditions de forme et de fond suivantes :
-- être présentée par écrit, signée par le requérant ou son représentant dû- ment habilité et être accompagnée de deux copies de la requête sur pa- pier libre ;
+- être présentée par écrit, signée par le requérant ou son représentant dûment habilité et être accompa- gnée de deux copies de la requête sur papier libre ;
 - contenir l’exposé sommaire des faits et moyens et des conclusions de la partie ;
-- préciser le montant des dégrève- ments en droits et pénalités sollicités ;
+- préciser le montant des dégrève- ments en droits et pénalités sollici- tés ;
 - être accompagnée d’une copie de la décision contestée.

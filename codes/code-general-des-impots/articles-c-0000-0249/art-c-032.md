@@ -1,6 +1,6 @@
 # Article C 32
 
-Le défaut de présenta- tion de la patente de transport à l’autorité chargée du contrôle entraîne la mise en fourrière du véhicule.
+Le défaut de présen- tation de la patente de transport à l’autorité chargée du contrôle en- traîne la mise en fourrière du véhi- cule.
 Acheteur ou collecteur non producteur d’or ou de pierres précieuses ;
 Administrateur de biens ;
 Agence d’affaires ;
@@ -53,7 +53,7 @@ Entrepreneur de sauvetage ou de remorquage fluvial ou maritime ;
 Entrepreneur de transports fluviaux ;
 Entrepreneur de transports terrestres ;
 Entrepreneur de travaux aériens ;
-Expert comptable ou comptable agréé ;
+Expert-comptable ou comptable agréé ;
 Expert près des tribunaux ;
 Expert technique ;
 Exploitant d’entrepôt frigorifique ;

@@ -13,7 +13,7 @@ Les taux maxima de la taxe de développement local sont fixés comme suit :
 - salaire de base mensuel compris entre 200 001 et 250 000 F CFA : 18 000 F CFA/an ;
 - salaire de base mensuel compris entre 250 001 et 300 000 F CFA : 24 000 F CFA/an ;
 - salaire de base mensuel compris entre 300 001 et 500 000 F CFA : 27 000 F CFA/an ;
-- salaire de base mensuel supé- rieur à 500 000 F CFA : 30 000 F CFA/an.
+- salaire de base mensuel supérieur à 500 000 F CFA : 30 000 F CFA/an.
 • Pour les assujettis à l’Impôt Libératoire ou à la contribu- tion à la patente :
 - impôt en principal égal ou infé- rieur à 30 000 F CFA : 7 500 F CFA/an ;
 - impôt en principal compris entre 30 001 et 60 000 F CFA : 9 000 F CFA/an ;

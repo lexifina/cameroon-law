@@ -1,11 +1,11 @@
 # Article C 130
 
-(1) A défaut de paiement dans les délais prescrits, les impôts locaux font l’objet de recouvrement forcé conformément au Livre de Procédures Fiscales du Code Général des Impôts, sous réserve des spécificités prévues par la présente loi.
-(2) En cas de non-paiement d’une taxe communale dans les délais légaux, la commune émet un titre exécutoire à effet immé- diat et procède à la saisie des mar- chandises, des biens ou des bêtes.
+(1) A défaut de paiement dans les délais prescrits, les impôts locaux font l’objet de recouvrement forcé conformément au Livre de Procédures Fiscales du Code Général des Impôts, sous ré- serve des spécificités prévues par la présente loi.
+(2) En cas de non-paiement d’une taxe communale dans les délais légaux, la commune émet un titre exécutoire à effet immédiat et pro- cède à la saisie des marchandises, des biens ou des bêtes.
 (3) La commune peut, dans un délai de trente (30) jours à comp- ter du jour de la saisie, procéder à la vente aux enchères des mar- chandises, des biens ou des bêtes confisqués.
 (4) Pendant toute la durée de la saisie, l’alimentation et les soins à administrer le cas échéant aux animaux saisis sont à la charge de leur propriétaire défaillant.
 (5) Les frais inhérents à la con- servation de biens et denrées pé- rissables saisis sont à la charge de leur propriétaire défaillant.
-(6) La vente des biens saisis est autorisée par le chef de l’exécutif municipal et exécutée par le por- teur de contrainte dans la forme des ventes effectuées par voie judiciaire.
+(6) La vente des biens saisis est autorisée par le chef de l’exécutif municipal et exécutée par le por- teur de contrainte dans la forme des ventes effectuées par voie ju- diciaire.
 (7) Le produit de la vente est immédiatement versé au Receveur municipal qui donne quittance au saisi et conserve le surplus jusqu’à la liquidation des frais.
 (8) Chaque vente est effectuée par le receveur municipal et donne lieu à établissement d’un procès- verbal.
 (9) Toute saisie ou vente con- traire aux formalités prescrites par le présent livre peut donner lieu à des poursuites judiciaires contre ceux qui y ont procédé et les frais restent à leur charge.

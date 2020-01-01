@@ -4,8 +4,8 @@
 (2) Les entreprises doivent préci- ser dans leurs déclarations et le cas échéant dans leurs supports de paiement les quotes-parts revenant aux collectivités territoriales et aux organismes.
 (3) La répartition et le reverse- ment du produit des impôts locaux émis et recouvrés par l’Administration fiscale sont assu- rés par les services compétents du Trésor Public.
 (4) Supprimé.
-(5) Pour le suivi de leurs recettes fiscales en général, et en particu- lier dans les Centres des Impôts et à la structure chargée de grandes entreprises, les collectivités terri- toriales et autres personnes mo- rales de droit public tiennent une comptabilité analytique des émis- sions et des recouvrements des impôts, droits, taxes et redevances établis à leur profit.
-(6) Il est tenu dans chaque Centre des Impôts et pour chaque collec- tivité territoriale ou organisme bénéficiaire, un livre journal des émissions et des recouvrements ainsi qu’un état de rapprochement journalier des impôts et taxes levés au profit de différents bénéfi- ciaires.
+(5) Pour le suivi de leurs recettes fiscales en général, et en particu- lier dans les Centres des Impôts et à la structure chargée de grandes entreprises, les collectivités territo- riales et autres personnes morales de droit public tiennent une comp- tabilité analytique des émissions et des recouvrements des impôts, droits, taxes et redevances établis à leur profit.
+(6) Il est tenu dans chaque Centre des Impôts et pour chaque collec- tivité territoriale ou organisme bé- néficiaire, un livre journal des émissions et des recouvrements ainsi qu’un état de rapprochement journalier des impôts et taxes levés au profit de différents bénéfi- ciaires.
 (7) Le livre-journal comporte :
 - le numéro et la date du bulletin d’émission ;
 - la dénomination sociale ou les nom(s), prénom(s) et adresse du contribuable ;

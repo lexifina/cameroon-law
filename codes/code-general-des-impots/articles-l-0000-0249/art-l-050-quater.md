@@ -1,6 +1,6 @@
 # Article L 50 quater
 
-(1) Les agents des impôts assermentés ayant au moins le grade d’inspecteur peuvent, sur autorisation du juge, procéder à des visites des locaux et lieux à usage professionnel, ainsi que des terrains et des entrepôts ou des locaux privés.
+(1) Les agents des impôts assermentés ayant au moins le grade d’inspecteur peuvent, sur autorisation du juge, procéder à des visites des locaux et lieux à usage professionnel, ainsi que des terrains et des entrepôts ou des lo- caux privés.
 (2) Ces visites s’effectuent entre 8 heures et 20 heures ou en dehors de ces heures lorsque l’accès au public est autorisé.
 (3) Lors de la visite, l’administration peut mettre en œuvre toutes mesures conservatoires utiles.
 (4) La visite est sanctionnée par un procès-verbal constatant les faits ma- tériels relevés. Ce procès-verbal est signé par les agents ayant participé à la visite et par le contribuable. Men- tion est faite de son éventuel refus de signer.

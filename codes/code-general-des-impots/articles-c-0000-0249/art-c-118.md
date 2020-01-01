@@ -4,9 +4,9 @@ Les produits des impôts ci-après sont en totalité ou en partie affectés aux 
 - des droits de timbre sur les cartes grises ;
 - du droit de timbre d’aéroport ;
 - de la taxe à l’essieu ;
-- des redevances sur les res- sources de la forêt, de la faune et de la pêche ;
-- des redevances sur les res- sources en eau ;
-- des redevances sur les res- sources pétrolières ;
+- des redevances sur les ressources de la forêt, de la faune et de la pêche ;
+- des redevances sur les ressources en eau ;
+- des redevances sur les ressources pétrolières ;
 - des taxes ou redevances sur les ressources minières ;
 - de la redevance sur les res- sources halieutiques et d’élevage ;
 - des taxes et/ou redevances sur les ressources énergétiques ;
@@ -14,5 +14,5 @@ Les produits des impôts ci-après sont en totalité ou en partie affectés aux 
 - des taxes et/ou redevances aé- rospatiales ;
 - des taxes et/ou redevances sur les ressources du secteur gazier ;
 - de la redevance d’usage de la route ;
-- des droits d’exploitation des établissements classés dange- reux, insalubres ou incom- modes ;
-- de tout autre impôt, droit ou redevance affecté par l’Etat.
+- des droits d’exploitation des éta- blissements classés dangereux, insalubres ou incommodes ;
+- de tout autre impôt, droit ou re- devance affecté par l’Etat.

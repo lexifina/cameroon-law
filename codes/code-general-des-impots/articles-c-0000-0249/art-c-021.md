@@ -1,6 +1,6 @@
 # Article C 21
 
-(1) Les personnes exerçant une activité soumise à la contribution des patentes, même en cas d’exonération, sont tenues d’en faire la déclaration par écrit, au Centre des Impôts compétent dans les quinze (15) jours suivant le démarrage de l’activité.
+(1) Les personnes exerçant une activité soumise à la contribution des patentes, même en cas d’exonération, sont tenues d’en faire la déclaration par écrit, au Centre des Impôts compétent dans les quinze (15) jours suivant le dé- marrage de l’activité.
 (2) Cette déclaration doit mentionner les renseignements suivants :
 - nom, prénoms ou raison sociale ;
 - date de naissance ou de constitu- tion ;
@@ -10,7 +10,7 @@
 - nationalité ;
 - numéro de registre de commerce ;
 - numéro d’immatriculation de l’entreprise ;
-- références de localisation (du siège social et des établissements respec- tifs par ville, quartier, rue, numéro de porte) ;
+- références de localisation (du siège social et des établissements respectifs par ville, quartier, rue, numéro de porte) ;
 - numéro de la boîte postale ;
 - numéro du téléphone et, le cas échéant, son adresse électronique ;
 - nature de l’activité ;

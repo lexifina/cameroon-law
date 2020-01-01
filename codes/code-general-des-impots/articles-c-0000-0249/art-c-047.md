@@ -1,8 +1,8 @@
 # Article C 47
 
-(1) L’Impôt Libéra- toire est dû par commune, par établissement, et par activité dans le cas de l’exercice de plusieurs activités distinctes dans le même établissement.
+(1) L’Impôt Libéra- toire est dû par commune, par éta- blissement, et par activité dans le cas de l’exercice de plusieurs acti- vités distinctes dans le même éta- blissement.
 (2) Toutefois, le marchand ambu- lant qui justifie du paiement de l’Impôt Libératoire dans la com- mune de son domicile n’est plus imposable dans les autres com- munes pour cette même activité.
-(3) L’Impôt Libératoire est ac- quitté trimestriellement et dans les quinze jours qui suivent la fin de chaque trimestre à la caisse de la recette municipale, à l’aide d’une fiche comprenant :
+(3) L’Impôt Libératoire est ac- quitté trimestriellement et dans les quinze jours qui suivent la fin de chaque trimestre à la caisse de la Recette municipale, à l’aide d’une fiche comprenant :
 - nom, prénoms ou raison sociale ;
 - date de naissance ou de constitu- tion ;
 - lieu de naissance ou de constitu- tion ;
@@ -17,17 +17,17 @@
 - montant du chiffre d’affaires et tous autres renseignements né- cessaires à l’établissement de l’impôt libératoire ;
 - numéro du centre des impôts compétent ;
 - chiffre d’affaires requis ;
-- groupe et catégorie à l’impôt libératoire ;
+- groupe et catégorie à l’impôt li- bératoire ;
 - trimestre auquel se rapporte le paiement.
 (4) Ceux qui entreprennent une activité soumise à l’Impôt Libéra- toire sont tenus d’en faire la décla- ration au service des impôts ou au bureau de la mairie dans les lieux où le service des impôts n’est pas installé, dans les quinze jours qui suivent le début de l’activité. Cette demande doit comporter les mêmes renseignements que ceux prévus à l’alinéa (3) ci-dessus.
 (5) Ceux qui entreprennent au cours de l’année une activité su- jette à l’Impôt Libératoire ne doi- vent cet impôt qu’à compter du 1er jour du trimestre au cours duquel ils ont commencé d’exercer.
 (6) L’Impôt Libératoire donne droit à la délivrance d’une fiche de paiement signée par les services des impôts ou par le chef de l’exécutif municipal dans la com- mune ne disposant pas de services fiscaux.
 (7) Tout assujetti à l’Impôt Libé- ratoire est tenu d’afficher sa fiche de paiement dans son établisse- ment. Pour être valable, la fiche de paiement ainsi affichée doit être appuyée de la quittance constatant le règlement de l’Impôt Libéra- toire.
 (8) Le défaut d’affichage de la fiche de paiement de l’Impôt Libé- ratoire entraîne la fermeture de l’établissement. Il est en outre sanctionné par une amende fiscale de 5 000 F CFA.
-(9) Tout assujetti est tenu de présenter sa fiche de paiement de l’Impôt Libératoire à toute réquisi- tion des autorités compétentes en matière d’assiette et de recouvre- ment des impôts et taxes.
-(10) Toutefois, pour les mar- chands ambulants et les transpor- teurs, le défaut de présentation de la fiche de paiement entraîne la saisie des biens meubles non pé- rissables ou du véhicule et leur conservation à la fourrière muni- cipale, dans les conditions fixées par la loi.
+(9) Tout assujetti est tenu de pré- senter sa fiche de paiement de l’Impôt Libératoire à toute réquisi- tion des autorités compétentes en matière d’assiette et de recouvre- ment des impôts et taxes.
+(10) Toutefois, pour les marchands ambulants et les transporteurs, le défaut de présentation de la fiche de paiement entraîne la saisie des biens meubles non périssables ou du véhicule et leur conservation à la fourrière municipale, dans les conditions fixées par la loi.
 (11) Le non-règlement des sommes dues au titre de l’Impôt Libératoire dans les délais prévus ci-dessus entraîne concomitam- ment, la fermeture d’office et im- médiate de l’établissement ou des établissements, et une pénalité de 30 % du montant de l’impôt exi- gible, sans préjudice des sanctions.
-(12) Lorsque, pour un contri- buable soumis à l’Impôt Libéra- toire, des éléments positifs permet- tent de déterminer un chiffre d’affaires supérieur à 10 millions, ledit contribuable est soumis à la contribution des patentes, et selon le cas au régime simplifié ou au régime réel.
+(12) Lorsque, pour un contribuable soumis à l’Impôt Libératoire, des éléments positifs permettent de dé- terminer un chiffre d’affaires supé- rieur à 10 millions, ledit contri- buable est soumis à la contribution des patentes, et selon le cas au ré- gime simplifié ou au régime réel.
 (13) Supprimé.
 Classification des activités sou- mises à l’Impôt Libératoire :
 a) Relèvent de la catégorie A :
@@ -89,7 +89,7 @@ c) Relèvent de la catégorie C :
 - Artisan fabricant de maroqui- nerie ;
 - Exploitant de taxi et par taxi ;
 - Transporteur de personnes par véhicule à la périphérie des centres urbains ;
-- Marchands de boissons non alcoolisées.
+- Marchands de boissons non al- coolisées.
 d) Relèvent de la catégorie D :
 - Marchands de boissons alcooli- sées ;
 - Marchand de sable, de graviers ou de moellons ;

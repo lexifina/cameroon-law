@@ -1,3 +1,3 @@
 # Article C 35
 
-Ne donnent pas lieu à la contribution des licences, la vente des eaux minérales, eaux gazeuses, aromatisées ou non par extraits non alcoolisés et la vente de jus de fruits frais non fermentés, lorsqu’elles sont effectuées dans un établissement distinct de celui comportant des boissons impo- sables.
+Ne donnent pas lieu à la contribution des licences, la vente des eaux minérales, eaux ga- zeuses, aromatisées ou non par ex- traits non alcoolisés et la vente de jus de fruits frais non fermentés, lorsqu’elles sont effectuées dans un établissement distinct de celui comportant des boissons impo- sables.

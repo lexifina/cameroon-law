@@ -9,14 +9,14 @@
 - le produit de la taxe sur la publi- cité ;
 - le produit des droits d’occupation des parcs de sta- tionnement de la communauté urbaine ;
 - le produit de la taxe sur les jeux de hasard et de divertissement ;
-- le produit des droits de places sur les marchés de la commu- nauté urbaine ;
+- le produit des droits de places sur les marchés de la communau- té urbaine ;
 - le produit des droits de fourrière de la communauté urbaine ;
 - le produit des droits de permis de bâtir ou d’implanter ;
 - le produit de la taxe de station- nement ;
 - le produit des droits de timbre communal.
 (2) Les recettes fiscales de la commune d’arrondissement com- prennent :
 - le produit de l’impôt libératoire ;
-- le produit des centimes addi- tionnels communaux ;
+- le produit des centimes addition- nels communaux ;
 - le produit de la taxe communale sur le bétail ;
 - le produit de la redevance fores- tière issue de la péréquation ;
 - le produit de la taxe d’abattage du bétail ;

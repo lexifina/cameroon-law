@@ -1,7 +1,7 @@
 # Article 116 quater
 
-(1) Les impôts et taxes dus sur les dépenses exécutées suivant les procédures de caisse d’avance, d’avances de trésorerie, de déblocage de fonds, de travaux en régie, d’interventions directes, de travaux exécutés à travers des orga- nismes de missions de l’Etat et les comptes d’affectation spéciale sont collectés par voie de retenue à la source opérée lors de la mise à dispo- sition des fonds.
+(1) Les impôts et taxes dus sur les dépenses exécutées suivant les procédures de caisse d’avance, d’avances de trésorerie, de déblocage de fonds, de travaux en ré- gie, d’interventions directes, de tra- vaux exécutés à travers des orga- nismes de missions de l’Etat et les comptes d’affectation spéciale sont collectés par voie de retenue à la source opérée lors de la mise à dispo- sition des fonds.
 Dans le cas particulier de la mise à disposition des fonds, le mandatement au profit de l’ordonnateur est exclusi- vement limité à la partie hors taxes.
-Les montants correspondants aux impôts et taxes sont retenus à la source par le comptable public.
+Les montants correspondants aux im- pôts et taxes sont retenus à la source par le comptable public.
 (2) Les impôts et taxes dus à l’occasion des procédures exception- nelles d’exécution de la dépense sont liquidés sur la base des mémoires de dépenses. Ils donnent lieu à des régu- larisations par le billeteur ou le régis- seur des fonds au terme de l’exécution effective des dépenses. Ces régularisa- tions peuvent donner lieu au reverse- ment d’impôts et taxes complémen- taires en cas d’insuffisance de la rete- nue à la source initiale effectuée par le comptable public.
 (3) Les impôts et taxes retenus à la source à titre de régularisation doivent être déclarés et reversés par les bille- teurs et régisseurs des deniers publics auprès de leur centre des impôts de rattachement au plus tard le 15 du mois suivant la retenue à la source.
