@@ -1,6 +1,6 @@
 # Article C 7
 
-Les produits des im- pôts communaux perçus par l’Etat proviennent de :
+Les produits des impôts communaux perçus par l’Etat proviennent de :
 - la contribution des patentes ;
 - la contribution des licences ;
 - l’impôt libératoire ;

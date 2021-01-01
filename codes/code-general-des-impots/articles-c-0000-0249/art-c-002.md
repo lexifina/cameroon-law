@@ -2,7 +2,7 @@
 
 Les impôts locaux comprennent :
 - les impôts communaux ;
-- les centimes additionnels commu- naux sur les impôts et taxes de l’Etat ;
+- les centimes additionnels communaux sur les impôts et taxes de l’Etat ;
 - les taxes communales ;
 - les impôts et taxes des régions ;
 - tout autre type de prélèvements prévus par la loi.

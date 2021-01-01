@@ -1,6 +1,6 @@
 # Article C 32
 
-Le défaut de présen- tation de la patente de transport à l’autorité chargée du contrôle en- traîne la mise en fourrière du véhi- cule.
+Le défaut de présentation de la patente de transport à l’autorité chargée du contrôle entraîne la mise en fourrière du véhicule.
 Acheteur ou collecteur non producteur d’or ou de pierres précieuses ;
 Administrateur de biens ;
 Agence d’affaires ;
@@ -70,7 +70,7 @@ Exploitant de débits de boissons hygiéniques et vins ;
 Exploitant de jeux et amusements publics ;
 Exploitant de magasins généraux de dépôts, entrepôts ou stocks ;
 Exploitant de salle de cinéma ;
-Exploitant de téléboutique Exploitant de wagon-lit ou wagon-restaurant Exploitant des jeux de hasard et de divertissement Exploitant forestier Fabricant de sirop, limonades ou d’eaux gazeuses Fabricant de yaourts, de glaces alimentaires ou de sucettes Géomètre Guichet d’assurance Guide de tourisme Hôtel classé Hôtel non classé Huissier de justice Importateur ou exportateur Industrie de conditionnement des produits Industrie de fabrication ou de transformation Intermédiaire agréé pour l’achat des produits du cru Kinésithérapeute Laboratoire d’analyse, d’essais d’études Laboratoire de biologie ou d’analyses médicales Laboratoire de développement de photographies Loueur d’aéronefs Loueur d’ordinateur ou de machine à cartes perforées Loueur de bâches, de chaises ou de vaisselle Loueur de bicyclette Loueur de cassettes-vidéo Loueur de cyclomoteur Loueur de fonds de commerce, d’installation de local aménagé, de station-service Loueur de main-d’œuvre Loueur de salles ou de locaux aménagés pour les réunions, cérémonies, fêtes, spectacles, etc.
+Exploitant de téléboutique Exploitant de wagon-lit ou wagon-restaurant Exploitant des jeux de hasard et de divertissement Exploitant forestier Fabricant de sirop, limonades ou d’eaux gazeuses Fabricant de yaourts, de glaces alimentaires ou de sucettes Géomètre Guichet d’assurance Guide de tourisme Hôtel classé Hôtel non classé Huissier de justice Importateur ou exportateur Industrie de conditionnement des produits Industrie de fabrication ou de transformation Intermédiaire agréé pour l’achat des produits du cru Kinésithérapeute Laboratoire d’analyse, d’essais d’études Laboratoire de biologie ou d’analyses médicales Laboratoire de développement de photographies Loueur d’aéronefs Loueur d’ordinateur ou de machine à cartes perforées Loueur de bâches, de chaises ou de vaisselle Loueur de bicyclette Loueur de cassettes-vidéo Loueur de cyclomoteur Loueur de fonds de commerce, d’installation de local aménagé, de station- service Loueur de main-d’œuvre Loueur de salles ou de locaux aménagés pour les réunions, cérémonies, fêtes, spectacles, etc.
 Loueur de véhicules ou d’engins Loueur en meuble Manucure, pédicure donnant des soins de beauté Marchand ambulant par voiture automobile Marchand de sable, de graviers ou de moellons Mécanicien-réparateur, électricien automobile Médecin ou exploitant d’un cabinet médical ou d’une clinique Exploitant de taxi et par taxi Notaire ;
 Organisateur de spectacles et concerts ;
 Pâtissier ou confiseur ;
@@ -82,8 +82,10 @@ Représentant de commerce ;
 Restaurant classé ;
 Restaurant non classé ;
 Syndic de faillite ;
-Teinturier dégraisseur ou blanchisseur utilisant des moyens mécaniques ; Tenant d’un salon de coiffure et vendant des cosmétiques ou donnant des soins de beauté ; Tenant d’une garderie d’enfants ;
+Teinturier dégraisseur ou blanchisseur utilisant des moyens mécaniques ; Tenant d’un salon de coiffure et vendant des cosmétiques ou donnant des soins de beauté ;
+Tenant d’une garderie d’enfants ;
 Transitaire ou acconier ;
-Transport mixte de personnes et de la marchandise à la périphérie des centres urbains ; Transport urbain de masse et par véhicule ;
+Transport mixte de personnes et de la marchandise à la périphérie des centres urbains ;
+Transport urbain de masse et par véhicule ;
 Usine de raffinage de sel ou de sucre ;
 Vétérinaire.

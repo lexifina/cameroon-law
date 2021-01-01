@@ -1,3 +1,13 @@
 # Article 557 bis
 
 Le tarif du droit de timbre spécifique visé à l’article 470 bis du présent Code est fixé à F CFA 25 000 par demande.
+Article 558.- Les délais d’enregistre- ment des actes et déclarations dont la fourchette a été donnée à l’article 276 sont précisés ainsi qu’il suit :
+• le délai à considérer à l’alinéa 1 de l’article 276 est d’un (1) mois ;
+• le délai à considérer à l’alinéa 2 du même article est de trois (3) mois ;
+• le délai à considérer aux alinéas 3 et 4 du même Article est de six (6) mois.
+Pour l’application des dispositions de l’article 276 alinéa 1er ci- dessus, le délai d’enregistrement des actes judiciaires est décompté à partir de la date de leur transmission au greffe.
+A défaut d’enregistrer les actes et déclarations de mutation d’immeubles auprès de leur Centre des Impôts de rattachement, les notaires ou les parties paient une amende équivalente à 50 % des droits dus par infraction.
+Les marchés publics sont enregistrés auprès du Centre des Impôts gestionnaire du contribuable, à l’exception des commandes publiques dont l’enregistrement relève de la compétence des Cellules Spéciales d’Enregistrement.
+Obligations des parties, des officiers ministériels et des inspecteurs Les actes portant mutation de propriété ou de jouissance d’immeubles ou de fonds de commerce doivent en plus comporter, le cas échéant, la valeur vénale ou estimée du bien lors de sa dernière mutation ou de son immatriculation.
+De même, il sera annexé en plus, à chaque copie de l’acte, une copie de bordereau analytique du titre foncier, dûment certifiée par le notaire.
+Dans le cas des mutations de propriété des immeubles bâtis, les prix déclarés du terrain et celui des différentes constructions, doivent être distinctement exprimés.

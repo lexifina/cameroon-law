@@ -1,6 +1,6 @@
 # Article C 141
 
-La juridiction gra- cieuse connaît des demandes ten- dant à obtenir :
-- la remise ou modération de taxes communales régulièrement éta- blies, en cas de gêne ou d’indigence mettant les rede- vables dans l’impossibilité de se libérer envers la recette munici- pale ;
+La juridiction gracieuse connaît des demandes tendant à obtenir :
+- la remise ou modération de taxes communales régulièrement établies, en cas de gêne ou d’indigence mettant les redevables dans l’impossibilité de se libérer envers la recette municipale ;
 - la remise ou modération d’amendes ou de majorations fiscales, lorsque ces pénalités, intérêts de retard, sont défini- tifs ;
 - la décharge de la responsabilité incombant à certaines personnes quant au paiement de taxes dues par un tiers.

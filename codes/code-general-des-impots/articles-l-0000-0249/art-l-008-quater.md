@@ -1,3 +1,3 @@
 # Article L 8 quater
 
-Les pièces affé- rentes aux différentes procédures fis- cales peuvent être notifiées par l’administration fiscale aux contri- buables par voie électronique selon les modalités prévues par voie régle- mentaire.
+Les pièces afférentes aux différentes procédures fiscales peuvent être notifiées par l’administration fiscale aux contribuables par voie électronique selon les modalités prévues par voie réglementaire.

@@ -1,3 +1,9 @@
 # Article L 73
 
-Tout avis à tiers déten- teur reste valable jusqu’à l’extinction de la dette pour laquelle il a été établi ou à l’obtention d’une mainlevée établie par ceux qui l’ont émis.
+Tout avis à tiers détenteur reste valable jusqu’à l’extinction de la dette pour laquelle il a été établi ou à l’obtention d’une mainlevée établie par ceux qui l’ont émis.
+Article 74.- La contrainte extérieure est établie par le Receveur des Impôts assignataire à l’adresse d’un comptable du Trésor Public ou d’un autre Receveur des Impôts pour le recouvrement des impôts et taxes, y compris ceux retenus à la source et non reversés.
+Elle est exercée lorsque les redevables, notamment les collectivités territoriales décentralisées ou les établissements publics administratifs disposent de créances ou de subventions domiciliées chez lesdits comptables ou en cas de changement de domicile des redevables concernés.
+Elle est également exercée à l’adresse de l’organisme chargé de la centralisation et de la péréquation des impôts locaux, en cas de non- reversement par les collectivités territoriales décentralisées des impôts et taxes retenus à la source.
+Elle est également exercée à l’adresse du receveur des douanes lorsque le redevable est un importateur. Dans ce cas, le service des douanes compétent peut procéder à la rétention des marchandises importées par le redevable.
+Article 75.- La contrainte extérieure donne mandat au Comptable du Trésor Public assignataire d’affecter, dès réception, les sommes dont le versement est ainsi demandé au paiement des dettes fiscales dues.
+Elle donne également mandat au Receveur des Impôts assignataire d’avoir à exercer les poursuites à l’encontre des redevables concernés.

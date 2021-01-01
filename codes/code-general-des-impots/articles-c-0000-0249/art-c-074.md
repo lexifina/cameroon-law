@@ -3,4 +3,4 @@
 Sont exemptés de la présente taxe :
 - les armes appartenant à l’Etat ;
 - les revolvers et pistolets d’ordonnance appartenant aux militaires en activité de service et aux officiers de réserve ;
-- les armes à feu existant dans les magasins et entrepôts du com- merce tant qu’elles n’ont pas été mises en usage.
+- les armes à feu existant dans les magasins et entrepôts du commerce tant qu’elles n’ont pas été mises en usage.

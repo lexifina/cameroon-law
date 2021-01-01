@@ -1,4 +1,0 @@
-# Article C 68
-
-(1) La taxe commu- nale sur le bétail est payée par les redevables sur déclaration auprès de la Commune de localisation du troupeau.
-(2) Le recensement des bêtes est effectué par la Commune de loca- lisation du troupeau, en rapport avec les services de l’élevage.
