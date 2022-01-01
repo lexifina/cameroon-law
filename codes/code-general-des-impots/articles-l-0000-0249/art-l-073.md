@@ -7,3 +7,4 @@ Elle est également exercée à l’adresse de l’organisme chargé de la centr
 Elle est également exercée à l’adresse du receveur des douanes lorsque le redevable est un importateur. Dans ce cas, le service des douanes compétent peut procéder à la rétention des marchandises importées par le redevable.
 Article 75.- La contrainte extérieure donne mandat au Comptable du Trésor Public assignataire d’affecter, dès réception, les sommes dont le versement est ainsi demandé au paiement des dettes fiscales dues.
 Elle donne également mandat au Receveur des Impôts assignataire d’avoir à exercer les poursuites à l’encontre des redevables concernés.
+Code Général des Impôts Ŕ Edition 2022

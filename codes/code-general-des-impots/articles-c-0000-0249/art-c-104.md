@@ -9,3 +9,4 @@
 - les factures des prestataires adressées à la commune ;
 - toute requête introduite à l’attention du magistrat municipal.
 (3) Tout document de dimension supérieure au format de base ci- dessus est assujetti au paiement d’un droit de timbre de 1 000 F CFA.
+Code Général des Impôts Ŕ Edition 2022

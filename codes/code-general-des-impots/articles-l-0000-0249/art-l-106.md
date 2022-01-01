@@ -13,3 +13,4 @@ Le point d’arrivée du calcul de l’intérêt de retard est fixé au dernier 
 - de 5 000 001 à 25 000 000 : F CFA deux millions (2 000 000) ;
 - de 25 000 001 à 50 000 000 : F CFA cinq millions (5 000 000) ;
 - plus de 50 000 000 : F CFA dix millions (10 000 000).
+Code Général des Impôts Ŕ Edition 2022

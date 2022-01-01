@@ -15,6 +15,7 @@
 - numéro du téléphone et, le cas échéant, son adresse électronique ;
 - nature de l’activité ;
 - montant du chiffre d’affaires ;
+Code Général des Impôts Ŕ Edition 2022
 - référence de la dernière quittance de taxe foncière ou d’enregistrement du contrat de bail ;
 - tous autres renseignements nécessaires à l’établissement de la patente.
 (3) Une déclaration sur le même modèle complétée doit être adressée au Centre des Impôts en cas soit de paiement de la patente annuelle ou trimestrielle, soit d’arrêt ou de cessation d’activités.

@@ -4,6 +4,7 @@ Les produits des impôts ci-après sont en totalité ou en partie affectés aux 
 - des droits de timbre sur les cartes grises ;
 - du droit de timbre d’aéroport ;
 - supprimé ;
+Code Général des Impôts Ŕ Edition 2022
 - des redevances sur les ressources de la forêt, de la faune et de la pêche ;
 - des redevances sur les ressources en eau ;
 - des redevances sur les ressources pétrolières ;

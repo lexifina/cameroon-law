@@ -8,3 +8,4 @@
 000) F CFA la non-immatriculation des personnes ne disposant que de revenus salariaux et non immatriculées dans un délai de trois (03 mois).
 (5) Donne lieu à l’application d’une amende de cinq millions (5 000 000) FCFA par opération, la réalisation des démarches visées à l’article L 1 bis (3) avec les personnes ne disposant pas d’un numéro Identifiant unique.
 Article 101.- L’absence d’indication sur une facture, du Numéro d’Identifiant Unique, entraîne la non déduction de la TVA mentionnée sur cette facture.
+Code Général des Impôts Ŕ Edition 2022

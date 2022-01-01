@@ -8,6 +8,6 @@
 La taxe de régénération est acquittée en quatre (04) versements d’égal montant aux dates limites ci-après :
 mars pour le premier versement ;
 - 15 juin pour le second ;
-septembre pour le troisième ;
+- 15 septembre pour le troisième ;
 - 15 décembre pour le quatrième.
 (3) Lorsque l’attribution d’un quota d’exploitation de produits forestiers non ligneux et de produits forestiers spéciaux intervient après le 30 juin, la taxe de régénération est liquidée au prorata temporis et est acquittée dans les quarante-cinq (45) jours suivant la date de signature de l’arrêté portant attribution d’un quota d’exploitation.

@@ -1,3 +1,3 @@
 # Article 239 sexies
 
-Le contrôle des impôts et taxes miniers est assuré par l’Administration fiscale avec l’appui du ministère en charge des mines, conformément aux règles du Livre des procédures fiscales.
+Le contrôle des impôts et taxes miniers est assuré par l’Administration fiscale avec l’appui du ministère en charge des mines, conformément aux règles du

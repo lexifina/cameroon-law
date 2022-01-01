@@ -4,6 +4,7 @@
 - le produit de la contribution des patentes et licences ;
 - le produit des centimes additionnels communaux ;
 - le produit des droits des stades omnisports ;
+Code Général des Impôts Ŕ Edition 2022
 - le produit des droits de timbre automobile affecté conformément au plafond annuel arrêté par la loi de finances ;
 - le produit de la taxe de développement local ;
 - le produit de la taxe sur la publicité ;
@@ -37,6 +38,6 @@
 * 20% au profit des communes d’arrondissement ;
 * 20% au profit du FEICOM.
 - le produit des droits de mutations immobilières à raison de :
-* 60% au profit de la communauté urbaine ;
+Code Général des Impôts Ŕ Edition 2022 * 60% au profit de la communauté urbaine ;
 * 20% au profit des communes d’arrondissement ;
 * 20% au profit du FEICOM.
