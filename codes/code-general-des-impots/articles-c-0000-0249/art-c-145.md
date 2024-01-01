@@ -7,4 +7,3 @@ l’occasion des enquêtes cadastrales, l’Administration fiscale peut se faire
 (5) Un recensement fiscal est organisé dans les trois (3) mois qui précèdent le début de chaque exercice, en vue de la mise à jour du fichier fiscal susvisé.
 (6) Les opérations d’enquêtes cadastrales sont organisées tous les cinq (05) ans.
 (7) Les agents chargés des opérations susvisées et des résultats du cadastre fiscal sont astreints aux obligations de réserve et de confidentialité.
-Code Général des Impôts Ŕ Edition 2022

@@ -8,6 +8,6 @@ c. des sociétés ou organismes reconnus d’utilité publique ;
 d. des offices publics d’habitation à bon marché ;
 e. des associations de toute nature, de droit ou de fait, les mutuelles, les clubs et cercles privés ;
 f. des organismes de prévoyance et de sécurité sociale ;
-g. des établissements publics et confessionnels d’enseigne- ment et de santé ;
-Code Général des Impôts Ŕ Edition 2022 h. d’une manière générale, tout organisme ayant ou non une personnalité juridique et dont la mission principale n’est pas la réalisation d’activités commerciales.
+g. des établissements publics et confessionnels d’enseignement et de santé ;
+h. d’une manière générale, tout organisme ayant ou non une personnalité juridique et dont la mission principale n’est pas la réalisation d’activités commerciales.
 (2) Les organismes sans but lucratif sont soumis à l’obligation d’immatriculation fiscale visée à l’article L 1 du présent Code.

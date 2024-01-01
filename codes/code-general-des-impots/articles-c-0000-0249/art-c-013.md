@@ -1,6 +1,6 @@
 # Article C 13
 
-(1) La contribution des patentes est liquidée par application d’un taux au Code Général des Impôts Ŕ Edition 2022 chiffre d’affaires du dernier exercice clos, tel que défini ci-dessous :
+(1) La contribution des patentes est liquidée par application d’un taux au chiffre d’affaires du dernier exercice clos, tel que défini ci-dessous :
 - 0,159 % sur le chiffre d’affaires des grandes entreprises, pour une contribution plancher de F CFA 5 000 000 et un plafond de F CFA 2,5 milliards ;
 - 0,283 % sur le chiffre d’affaires des moyennes entreprises, pour une contribution plancher de F CFA 141 500 et un plafond de F CFA 4 500 000 ;
 - 0,494 % sur le chiffre d’affaires des petites entreprises, pour une contribution plancher de F CFA 50 000 et un plafond de F CFA 140 000.

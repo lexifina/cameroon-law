@@ -7,5 +7,5 @@ Sont considérés comme constituant des établissements distincts : les immeuble
 (4) Les opérations effectuées par un patenté pour le compte d’un tiers soit en consignation, soit sous contrôle de son commettant, que celui-ci exige des rapports, comptes rendus, comptabilités spéciales ou fassent surveiller périodiquement lesdites opérations, donnent également lieu à imposition distincte établie au nom des commettants.
 (5) Le mari et la femme, même séparés de biens, ne sont redevables que d’une seule patente lorsqu’ils exercent une même activité dans un même établissement.
 (6) L’industriel vendant exclusivement en gros dans un local séparé, les seuls produits de sa fabrication, est exempt de la patente pour les ventes effectuées dans ce local.
-(7) Dans le cas de pluralité de magasins, l’exemption est limitée à Code Général des Impôts Ŕ Edition 2022 celui qui est le plus proche de l’usine.
+(7) Dans le cas de pluralité de magasins, l’exemption est limitée à celui qui est le plus proche de l’usine.
 (8) En ce qui concerne les professionnels de transport routier qui sont soumis au régime du bénéfice réel, il est dû une patente par exploitant calculée en fonction du chiffre d’affaires.

@@ -11,7 +11,5 @@
 (3) Les compétences des autorités fiscales sont établies en fonction du montant de la réclamation ainsi qu’il suit :
 - le Chef de Centre Régional des Impôts territorialement compétent pour les réclamations de montant inférieur ou égal à cinquante (50) millions de F CFA en principal ;
 - le Directeur en charge des grandes entreprises pour les réclamations n’excédant pas cent (100) millions de F CFA en principal ;
-Code Général des Impôts Ŕ Edition 2022
 - le Directeur Général des Impôts pour les réclamations de montant supérieur aux seuils prévus pour les Centres régionaux des impôts et la Direction en charge de la gestion de grandes entreprises.
-(4) Le Chef de Centre régional des impôts, le Directeur en charge des grandes entreprises et le Directeur Général des impôts disposent chacun d’un délai de trente (30) jours pour répondre à la réclamation du contribuable.
-Ces réponses doivent être motivées en fait et en droit.
+(4) Le Chef de Centre régional des impôts et le Directeur en charge des grandes entreprises disposent chacun d’un délai de trente (30) jours pour répondre à la réclamation du contribuable. Ce délai est porté à quarante-cinq (45) jours pour le Directeur Général des impôts. Ces réponses doivent être motivées en fait et en droit.

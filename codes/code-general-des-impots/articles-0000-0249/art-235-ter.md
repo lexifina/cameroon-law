@@ -1,4 +1,3 @@
 # Article 235 ter
 
-Nonobstant les dispositions de l’article 233 du présent Code, la dette est constatée par Avis de Mise en Recouvrement et les mesures de recouvrement forcé prévues par le Livre des Procédures Fiscales initiées à l’encontre des marketers, redevables réels de la Taxe Spéciale sur les Produits Pétroliers dans le cadre de la mise en œuvre de la procédure de solidarité de paiement.
-Article quater.- Tout enlèvement ultérieur de produits fait en violation des dispositions de l’alinéa 1 de l’article 235 bis ci- dessus entraine l’émission d’un Avis de Mise en Recouvrement à l’égard de la société en charge de la gestion des dépôts pétroliers ou de raffinage le cas échéant en sa qualité de redevable légal, et la mise en œuvre immédiate des mesures de recouvrement forcé à l’encontre de celle-ci.
+Nonobstant les dispositions de l’article 233 du présent Code, la dette est constatée par Avis de Mise en Recouvrement et les mesures de recouvrement forcé prévues par le l’encontre des marketers, redevables réels de la Taxe Spéciale sur les Produits Pétroliers dans le cadre de la mise en œuvre de la procédure de solidarité de paiement.

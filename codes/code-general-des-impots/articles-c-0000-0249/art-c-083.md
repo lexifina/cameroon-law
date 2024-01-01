@@ -11,7 +11,7 @@
 - de 16,01 m2 à 18 m2 : 40 001 F CFA à 45 000 F CFA par mois ;
 - de 18,01 m2 à 20 m2 : 45 001 F CFA à 50 000 F CFA par mois ;
 - de 20,01 m2 à 22 m2 : 50 001 F CFA à 55 000 F CFA par mois ;
-- de 22,01 m2 à 24 m2 : 55 001 F CFA à 60 000 F CFA par mois ;
+- de 22,01 m2 à 24 m2 : 55 000 F CFA à 60 000 F CFA par mois ;
 - de plus de 24 m2 : 60 001 F CFA à 70 000 F CFA par mois.
-(2) Faute de paiement d’un terme de loyer des boutiques et après mise en demeure de quinze (15) jours demeurée infructueuse, il est procédé à la pose des scellés sur la Code Général des Impôts Ŕ Edition 2022 boutique, dans les formes prévues par les textes en vigueur.
+(2) Faute de paiement d’un terme de loyer des boutiques et après mise en demeure de quinze (15) jours demeurée infructueuse, il est procédé à la pose des scellés sur la boutique, dans les formes prévues par les textes en vigueur.
 (3) Les scellés ne peuvent être levés qu’après paiement d’une amende de 5 000 F CFA, en sus du droit régulièrement dû.

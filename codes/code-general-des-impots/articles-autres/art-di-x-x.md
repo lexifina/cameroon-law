@@ -1,3 +1,11 @@
 # Article DI X
 
-HUITIÈME : Amnistie fiscale au profit des contribuables qui régularisent spontanément leur situation au regard de l’impôt sur les revenus fonciers et de la taxe sur la propriété foncière Les contribuables qui procèdent spontanément au cours de l’exercice 2022 à la régularisation de leur situation au regard de l’impôt sur les revenus fonciers et de la Taxe sur la propriété foncière, sont dispensés des rappels d’impôts sur la période non prescrite ainsi que des pénalités.
+SEPTIÈME.- - Instauration d'une redevance pour le financement de la transformation digitale de l'administration fiscale
+1. Il est institué une redevance pour le financement de la transformation digitale de l'administration fiscale.
+2. La redevance pour le financement de la transformation digitale de l'administration fiscale, est perçue sur tous les documents générés à partir du système informatique de l'administration fiscale, notamment :
+- l’attestation d'immatriculation ;
+- l’attestation de conformité fiscale.
+3. Le tarif de la redevance prévue au premier alinéa du présent article est fixé à 1000 FCFA.
+4. Le produit de la redevance pour le financement de la transformation digitale de l'administration fiscale est affecté ainsi qu’il suit :
+- 40% au profit du budget de l’État ;
+- 60% pour le financement de la transformation digitale de la Direction Générale des Impôts.

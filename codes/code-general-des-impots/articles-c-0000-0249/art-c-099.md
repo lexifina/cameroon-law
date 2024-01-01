@@ -4,8 +4,7 @@
 a) Gare routière : 250 F CFA par chargement.
 b) Débarcadère :
 - pirogue sans moteur : 200 F CFA par chargement ;
-- pirogue à moteur de moins de 10 places :
-par chargement ;
+- pirogue à moteur de moins de 10 places : 500 F CFA par chargement ;
 - pirogue à moteur de plus de 10 places : 1 000 F CFA par chargement.
 (2) Le ticket de quai est payé exclusivement à la commune de chargement.
 (3) Les véhicules n’embarquant pas dans les gares routières aménagées, à l’exception des agences de voyages agréées, sont également assujettis au paiement du ticket de quai.

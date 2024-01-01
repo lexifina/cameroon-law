@@ -3,7 +3,7 @@
 (1) Les taux de droits de fourrière sont fixés dans les limites maximales ci-après :
 - gros bétail: de 5 000 F CFA à 10 000 F CFA par tête et par jour ;
 - petit bétail: de 2 000 F CFA à 5 000 F CFA par tête et par jour ;
-- animaux de compagnie : de 2 000 F CFA à 5 000 F par tête et par jour ;
+- animaux de compagnie : de 2 000 F CFA à 5 000 F par tête et par jour;
 - camions et engins lourds : de 10 000 F CFA à 50 000 F CFA par véhicule et par jour ;
 - autres véhicules : de 5 000 F CFA à 15 000 F CFA par véhicule et par jour ;
 - motocyclettes : de 1 000 F CFA à 5000 F CFA par motocyclette et par jour ;

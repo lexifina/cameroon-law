@@ -3,4 +3,4 @@
 Il est institué au profit des communes, des centimes additionnels sur les impôts et taxes ci-après :
 - l’impôt sur le revenu des personnes physiques ;
 - l’impôt sur les sociétés ;
-- la taxe sur la valeur ajoutée
+- la taxe sur la valeur ajoutée (TVA).

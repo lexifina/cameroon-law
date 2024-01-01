@@ -1,10 +1,14 @@
 # Article C 45
 
 Les contribuables exerçant une activité commerciale, industrielle, artisanale ou agropastorale ne relevant ni du régime du bénéfice réel, ni du régime simplifié, sont soumis à un Impôt Libératoire exclusif du paiement de la patente, de l’Impôt sur le Revenu des Personnes Physiques et de la Taxe sur la Valeur Ajoutée sauf en cas de retenue à la source.
-Nature de l’activité Activités assujetties à la patente Activités soumises à l’Impôt Libératoire Classe de Licence Elément de base Contribution de la patente Montant de l’impôt libératoire 1re classe Boissons non alcoolisées 02 fois la contribution de la patente 1 fois le montant de l’impôt libératoire 2e classe Boissons alcoolisées 04 fois la contribution de la patente 2 fois le montant de l’impôt libératoire Code Général des Impôts Ŕ Edition 2022 Article 46.- (1) L’Impôt Libératoire est liquidé et émis par les services des impôts.
+Nature de l’activité Activités assujetties à la patente Activités soumises à l’Impôt Libératoire Classe de Licence Elément de base Contribution de la patente Montant de l’impôt libératoire 1re classe Boissons non alcoolisées 02 fois la contribution de la patente 1 fois le montant de l’impôt libératoire 2e classe Boissons alcoolisées 04 fois la contribution de la patente 2 fois le montant de l’impôt libératoire Article 46.- (1) L’Impôt Libératoire est liquidé et émis par les services des impôts.
 (2) Les tarifs de l’Impôt Libératoire sont arrêtés par les Collectivités Territoriales, bénéficiaires du produit de cet impôt à l’intérieur d’une fourchette fixée par catégorie d’activité ainsi qu’il suit :
 Catégories :
-A : de 0 F CFA à 20 000 F CFA B : de 20 001 F CFA à 40 000 F C : de 40 001 F CFA à 50 000 F D : de 50 001 F CFA à 100 000 F Les communes peuvent, à l’intérieur de chaque catégorie, appliquer des taux spécifiques à chaque activité dans la limite de la fourchette concernée.
+- A : de 0 F CFA à 20 000 F CFA
+- B : de 20 001 F CFA à 40 000 F CFA ;
+- C : de 40 001 F CFA à 50 000 F CFA ;
+- D : de 50 001 F CFA à 100 000 F CFA ;
+Les communes peuvent, à l’intérieur de chaque catégorie, appliquer des taux spécifiques à chaque activité dans la limite de la fourchette concernée.
 a) Relèvent de la catégorie A, les producteurs, prestataires de services et commerçants réalisant un chiffre d’affaires annuel inférieur à F CFA 2 500 000.
 b) Relèvent de la catégorie B, les producteurs, prestataires de services et commerçants réalisant un chiffre d’affaires annuel égal ou supérieur à F CFA 2 500 000 et inférieur à F CFA 5 000 000.
 c) Relèvent de la catégorie C, les producteurs, prestataires de services et commerçants réalisant un chiffre d’affaires annuel égal ou supérieur à F CFA 5 000 000 et inférieur à F CFA 7 500 000.
@@ -16,10 +20,11 @@ d) Relèvent de la catégorie D :
 (3) Toutefois, les tarifs de l’impôt libératoire pour les transporteurs sont arrêtés par les collectivités territoriales décentralisées, bénéficiaires du produit de cet impôt à l’intérieur d’une fourchette ainsi qu’il suit :
 Catégories :
 - A : de 0 F CFA à 10 000 F CFA ;
--B : de 10 001 F CFA à 20 000
-- C : de 20 001 F CFA à 25 000
-- D : de 25 001 F CFA à 50 000 (4) A défaut de détermination du chiffre d’affaires, les activités relevant de l’impôt libératoire font l’objet d’une classification à l’annexe I du présent chapitre.
-Article 47.- (1) L’Impôt Libératoire est dû par commune, par établissement, et par activité dans le Code Général des Impôts Ŕ Edition 2022 cas de l’exercice de plusieurs activités distinctes dans le même établissement.
+- B : de 10 001 F CFA à 20 000 F CFA ;
+- C : de 20 001 F CFA à 25 000 F CFA ;
+- D : de 25 001 F CFA à 50 000 F CFA.
+(4) A défaut de détermination du chiffre d’affaires, les activités relevant de l’impôt libératoire font l’objet d’une classification à l’annexe I du présent chapitre.
+Article 47.- (1) L’Impôt Libératoire est dû par commune, par établissement, et par activité dans le cas de l’exercice de plusieurs activités distinctes dans le même établissement.
 (2) Toutefois, le marchand ambulant qui justifie du paiement de l’Impôt Libératoire dans la commune de son domicile n’est plus imposable dans les autres communes pour cette même activité.
 (3) L’Impôt Libératoire est acquitté trimestriellement et dans les quinze jours qui suivent la fin de chaque trimestre à la caisse de la Recette municipale, à l’aide d’une fiche comprenant :
 - nom, prénoms ou raison sociale ;
@@ -42,11 +47,11 @@ Article 47.- (1) L’Impôt Libératoire est dû par commune, par établissement
 (5) Ceux qui entreprennent au cours de l’année une activité sujette à l’Impôt Libératoire ne doivent cet impôt qu’à compter du 1er jour du trimestre au cours duquel ils ont commencé d’exercer.
 (6) L’Impôt Libératoire donne droit à la délivrance d’une fiche de paiement signée par les services des impôts ou par le chef de l’exécutif municipal dans la commune ne disposant pas de services fiscaux.
 (7) Tout assujetti à l’Impôt Libératoire est tenu d’afficher sa fiche de paiement dans son établissement. Pour être valable, la fiche de paiement ainsi affichée doit être appuyée de la quittance constatant le règlement de l’Impôt Libératoire.
-(8) Le défaut d’affichage de la fiche de paiement de l’Impôt Libératoire entraîne la fermeture de Code Général des Impôts Ŕ Edition 2022 l’établissement. Il est en outre sanctionné par une amende fiscale de 5 000 F CFA.
+(8) Le défaut d’affichage de la fiche de paiement de l’Impôt Libératoire entraîne la fermeture de l’établissement. Il est en outre sanctionné par une amende fiscale de 5 000 F CFA.
 (9) Tout assujetti est tenu de présenter sa fiche de paiement de l’Impôt Libératoire à toute réquisition des autorités compétentes en matière d’assiette et de recouvrement des impôts et taxes.
 (10) Toutefois, pour les marchands ambulants et les transporteurs, le défaut de présentation de la fiche de paiement entraîne la saisie des biens meubles non périssables ou du véhicule et leur conservation à la fourrière municipale, dans les conditions fixées par la loi.
-(11) Le non-règlement des sommes dues au titre de l’Impôt Libératoire dans les délais prévus ci- dessus entraîne concomitamment, la fermeture d’office et immédiate de l’établissement ou des établissements, et une pénalité de 30 % du montant de l’impôt exigible, sans préjudice des sanctions.
-(12) Lorsque, pour un contribuable soumis à l’Impôt Libératoire, des éléments positifs permettent de déterminer un chiffre d’affaires supérieur à 10 millions, ledit contribuable est soumis à la contribution des patentes, et selon le cas au régime simplifié ou au régime réel.
+(11) Le non-règlement des sommes dues au titre de l’Impôt Libératoire dans les délais prévus ci-dessus entraîne concomitamment, la fermeture d’office et immédiate de l’établissement ou des établissements, et une pénalité de 30 % du montant de l’impôt exigible, sans préjudice des sanctions.
+(12) Lorsque, pour un contribuable soumis à l’Impôt Libératoire, des éléments positifs permettent de déterminer un chiffre d’affaires supérieur à millions, ledit contribuable est soumis à la contribution des patentes, et selon le cas au régime simplifié ou au régime réel.
 (13) Supprimé.
 Classification des activités soumises à l’Impôt Libératoire
 a) Relèvent de la catégorie A :
@@ -67,8 +72,7 @@ a) Relèvent de la catégorie A :
 - Vendeur de vin de raphia ou de palme ;
 - Forgeron ;
 - Vendeur de fleurs ambulant ;
-Code Général des Impôts Ŕ Edition 2022
-- Chargeurs de batteries, réparateur de roues ne vendant pas de roues ;
+- Chargeurs de batteries, réparateur de roues ne vendant pas de roues;
 - Marchand de bois à brûler au détail ;
 - Vendeur ambulant de CD ou de montres ;
 - Marchand de charbon de bois au détail ;
@@ -82,7 +86,7 @@ b) Relèvent de la catégorie B :
 - Sculpteur sur bois ;
 - Horloger à demeure ;
 - Graveur à domicile ;
-- Revendeurs non-salariés de tickets ou billets de loterie et
+- Revendeurs non-salariés de tickets ou billets de loterie et PMUC ;
 - Vendeur de fleur à demeure ;
 - Kiosque à journaux ;
 - Libraire ambulant ;
@@ -97,7 +101,7 @@ c) Relèvent de la catégorie C :
 - Vannier ;
 - Exploitant de jeux de hasard à trois cartes ;
 - Tenant un salon de coiffure ayant de 3 à 5 employés ;
-- Exploitant d’une laverie avec compteur d’eau et sans gardiennage ;
+- Exploitant d’une laverie avec compteur d’eau et sans gardiennage;
 - Tenancier d’une cantine scolaire ;
 - Vendeurs de yaourts de glaces alimentaires ou de sucettes ;
 - Vendeurs de fleurs à demeure ;
@@ -108,11 +112,10 @@ c) Relèvent de la catégorie C :
 - Marchand de bétail et volaille avec local ;
 - Artisan fabricant de maroquinerie ;
 - Exploitant de taxi et par taxi ;
-Code Général des Impôts Ŕ Edition 2022
 - Transporteur de personnes par véhicule à la périphérie des centres urbains ;
 - Marchands de boissons non alcoolisées.
 d) Relèvent de la catégorie D :
-- Marchands de boissons alcoolisées ;
+- Marchands de boissons alcoolisées;
 - Marchand de sable, de graviers ou de moellons ;
 - Club de danse ou de musique, de sports, de culture physique, moniteur de gymnastique ;
 - Marchand de piquets, de bambous et de planches ;

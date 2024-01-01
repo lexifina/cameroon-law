@@ -3,7 +3,7 @@
 (1) Le taux forfaitaire maximum au titre de la redevance pour la dégradation de la chaussée est fixé comme suit :
 a) terrassements, canalisation et autres dégradations :
 - route en enrobée grave bitume : 90 000 F CFA à 200 000 F CFA par m2 ;
-- route revêtue de bitume : 45 000 F CFA à 100 000 F CFA par m2 ;
+- route revêtue de bitume : 45 000 F CFA à 100 000 F CFA par m2;
 - route en terre : 15 000 F CFA à 50 000 F CFA par m2.
 b) dégradation par les engins à chenille :
 - route revêtue de bitume : 50 000 F CFA à 100 000 F CFA par m2 ;

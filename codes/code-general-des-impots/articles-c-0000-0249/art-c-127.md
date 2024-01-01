@@ -1,7 +1,7 @@
 # Article C 127
 
 (1) Les impôts communaux, liquidés et émis par les services fiscaux de l’Etat sont payés spontanément par les contribuables à la caisse du Receveur des impôts compétent, sous réserve des dispositions relatives à l’Impôt Libératoire.
-(2) Les entreprises doivent préciser dans leurs déclarations et le cas échéant dans leurs supports de paiement les quotes-parts revenant Code Général des Impôts Ŕ Edition 2022 aux collectivités territoriales et aux organismes.
+(2) Les entreprises doivent préciser dans leurs déclarations et le cas échéant dans leurs supports de paiement les quotes-parts revenant aux collectivités territoriales et aux organismes.
 (3) La répartition et le reversement du produit des impôts locaux émis et recouvrés par l’Administration fiscale sont assurés par les services compétents du Trésor Public.
 (4) Supprimé.
 (5) Pour le suivi de leurs recettes fiscales en général, et en particulier dans les Centres des Impôts et à la structure chargée de grandes entreprises, les collectivités territoriales et autres personnes morales de droit public tiennent une comptabilité analytique des émissions et des recouvrements des impôts, droits, taxes et redevances établis à leur profit.

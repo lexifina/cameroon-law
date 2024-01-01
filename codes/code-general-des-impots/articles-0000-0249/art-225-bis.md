@@ -1,6 +1,6 @@
 # Article 225 bis
 
-(1) L’admission d’une entreprise à la Code Général des Impôts Ŕ Edition 2022 Taxe Spéciale sur le Revenu libératoire ne la dispense pas des obligations :
+(1) L’admission d’une entreprise à la Taxe Spéciale sur le Revenu libératoire ne la dispense pas des obligations :
 - de paiement des impôts autres que l’impôt sur les sociétés dont elle est le redevable réel ;
 - de retenue à la source des impôts, droits et taxes dont elle n’est que le redevable légal.
 (2) L’entreprise admise au régime de la Taxe Spéciale sur le Revenu libératoire doit en outre :

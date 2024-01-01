@@ -13,7 +13,7 @@ Ne sont pas assujettis à la contribution des patentes :
 10) les économats, syndicats agricoles, et sociétés coopératives de consommation, à la condition qu’ils ne possèdent pas de magasins de vente et se bornent à grouper les commandes de leurs adhérents et à distribuer, dans leurs magasins de dépôt, les denrées, produits ou marchandises qui ont fait l’objet de la commande ;
 11) les établissements privés ayant pour but de recueillir des enfants pauvres et de leur dispenser une formation ;
 12) les établissements d’enseignement ;
-Code Général des Impôts Ŕ Edition 2022 13) les explorateurs, les chasseurs ;
+13) les explorateurs, les chasseurs ;
 14) les pêcheurs et inscrits maritimes se livrant personnellement à la pêche et effectuant eux-mêmes la vente des produits de leur pêche ;
 15) les personnes assujetties à l’impôt libératoire ;
 16) les piroguiers à l’exception de ceux qui utilisent un bateau à moteur ou à vapeur ;

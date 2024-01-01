@@ -3,7 +3,7 @@
 (1) Les personnes exerçant une activité soumise à la contribution des patentes, même en cas d’exonération, sont tenues d’en faire la déclaration par écrit, au Centre des Impôts compétent dans les quinze (15) jours suivant le démarrage de l’activité.
 (2) Cette déclaration doit mentionner les renseignements suivants :
 - nom, prénoms ou raison sociale ;
-- date de naissance ou de constitution ;
+- date de naissance ou de constitution;
 - lieu de naissance ou siège ;
 - nom, prénom(s) et adresse du père ou du gérant ;
 - nom, prénom(s) et adresse de la mère ;
@@ -15,7 +15,6 @@
 - numéro du téléphone et, le cas échéant, son adresse électronique ;
 - nature de l’activité ;
 - montant du chiffre d’affaires ;
-Code Général des Impôts Ŕ Edition 2022
 - référence de la dernière quittance de taxe foncière ou d’enregistrement du contrat de bail ;
 - tous autres renseignements nécessaires à l’établissement de la patente.
 (3) Une déclaration sur le même modèle complétée doit être adressée au Centre des Impôts en cas soit de paiement de la patente annuelle ou trimestrielle, soit d’arrêt ou de cessation d’activités.

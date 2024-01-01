@@ -4,8 +4,7 @@ Les taux maxima de la taxe de développement local sont fixés comme suit :
 • pour les employés du secteur public et privé :
 - salaire de base mensuel compris entre 62 000 et 75 000 F CFA : 3 000 F CFA/an ;
 - salaire de base mensuel compris entre 75 001 et 100 000 F CFA : 6 000 F CFA/an ;
-- salaire de base mensuel compris entre 100 001 et 125 000 F CFA :
-9 000 F CFA/an ;
+- salaire de base mensuel compris entre 100 001 et 125 000 F CFA : 9 000 F CFA/an ;
 - salaire de base mensuel jusqu’à 125 001 et 150 000 F CFA : 12 000 F CFA/an ;
 - salaire de base mensuel compris entre 150 001 F CFA et 200 000 F CFA : 15 000 F CFA/an ;
 - salaire de base mensuel compris entre 200 001 et 250 000 F CFA :
@@ -22,7 +21,6 @@ Les taux maxima de la taxe de développement local sont fixés comme suit :
 - impôt en principal compris entre 100 001 et 150 000 F CFA : 22 500 F CFA/an ;
 - impôt en principal compris entre 150 001 et 200 000 F CFA : 30 000 F CFA/an ;
 - impôt en principal compris entre 200 001 et 300 000 F CFA : 45 000 F CFA/an ;
-Code Général des Impôts Ŕ Edition 2022
 - impôt en principal compris entre 300 001 et 400 000 F CFA : 60 000 F CFA/an ;
 - impôt en principal compris entre 400 001 et 500 000 F CFA : 75 000 F CFA/an ;
 - impôt en principal supérieur à 500 000 F CFA : 90 000 F CFA/an.

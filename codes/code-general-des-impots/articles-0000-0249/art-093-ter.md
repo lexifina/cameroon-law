@@ -4,4 +4,5 @@ Les personnes physiques ou morales sont imposables suivant les régimes ci- apr�
 - Régime de l’impôt libératoire ;
 - Régime simplifié ;
 - Régime réel ;
-- Régime des organismes à but non lucratif.
+- Régime des organismes à but non lucratif ;
+- Régime des contribuables non professionnels.
