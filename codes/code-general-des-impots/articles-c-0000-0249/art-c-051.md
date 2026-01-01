@@ -1,3 +1,4 @@
 # Article C 51
 
-Le produit des droits de timbre automobile prévus par le Code Général des Impôts, est affecté en totalité au FEICOM ou à tout autre organisme chargé de la centralisation et de la péréquation, pour redistribution intégrale aux communes.
+(1) Le fait générateur de la taxe sur la propriété foncière est constitué par la propriété de droit ou de fait d’un immeuble.
+(2) La taxe sur la propriété foncière est exigible le 1er janvier de l’année d’imposition. Elle doit être acquittée spontanément au plus tard le 30 juin sur déclaration du redevable ou de son représentant, ou sur la base d’une déclaration préremplie.

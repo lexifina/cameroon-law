@@ -1,4 +1,5 @@
 # Article L 20 bis
 
-Les redressements fiscaux sont de la compétence exclusive de l’Administration fiscale.
-Tout autre organisme public de contrôle des comptes financiers et sociaux autre que l’Administration fiscale, qui constate à l’occasion de ses missions de contrôle, des infractions à la législation fiscale, doit en informer d’office l’administration fiscale. Celle- ci engage immédiatement une opération de contrôle fiscal dans les conditions fixées par le Code Général des Impôts.
+(1) Les redressements fiscaux sont de la compétence exclusive de l’Administration fiscale. Tout autre organisme public de contrôle des comptes financiers et sociaux autre que l’Administration fiscale, qui constate à l’occasion de ses missions de contrôle, des infractions à la législation fiscale, doit en informer d’office l’administration fiscale.
+Celle-ci engage immédiatement une opération de contrôle fiscal dans les conditions fixées par le Code Général des Impôts.
+(2) Lorsque dans l’exercice normal de leurs missions, les services fiscaux constatent des cas de fraudes ou de manquements aux avantages fiscaux concédés, ou de non-respect aux engagements pris dans le cadre de l’agrément à un régime dérogatoire ou spécifique, il est immédiatement procédé à la suspension desdits avantages et au rappel des droits, au titre de la période non prescrite, selon les modalités prévues par le présent Code, sans préjudice des autres sanctions prévues par la réglementation en vigueur.

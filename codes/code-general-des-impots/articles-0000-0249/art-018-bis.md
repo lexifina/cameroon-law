@@ -1,7 +1,7 @@
 # Article 18 bis
 
 (1) Les sociétés anonymes doivent également tenir un registre des titres nominatifs qu’elles émettent. Le registre est tenu et mis à jour par chaque société ou par chaque personne habilitée à cet effet.
-(2) Le registre côté et paraphé par le greffe du tribunal du lieu de situation de l’entreprise contient les mentions ci-après :
+(2) Le registre côté et paraphé par le greffe du tribunal du lieu de situation de l’entreprise contient les mentions ci- après :
 - les opérations relatives aux opérations de transfert, de conversion, de nantissement et de séquestre des titres ;
 - la date de l’opération ;
 - les noms, prénoms et domicile de l’ancien et du nouveau titulaire des titres, en cas de transfert ;

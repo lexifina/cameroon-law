@@ -1,3 +1,9 @@
 # Article C 72
 
-Toute dissimulation de bétail imposable ou toute fausse déclaration entraîne application d’une de pénalité de 100 %.
+Sont assujettis à un droit de timbre sur la publicité :
+les affiches ;
+les tracts ou prospectus ;
+les panneaux publicitaires ;
+la publicité par presse, la radio, le cinéma, la télévision et les véhicules munis de haut-parleurs ;
+les distributions gratuites dans le cadre commercial ;
+tout autre support matériel ou immatériel.

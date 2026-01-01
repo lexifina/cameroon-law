@@ -1,4 +1,3 @@
 # Article C 31
 
-(1) Supprimé.
-(2) Le non-règlement des sommes dues au titre de la patente dans les délais prévus ci-dessus entraîne la fermeture d’office et immédiate de l’établissement ou des établissements, sans préjudice des sanctions prévue par ailleurs.
+En cas de cumul d’une activité donnant lieu à la contribution des licences avec un autre commerce dans le même établissement, le chiffre d’affaires à prendre en compte pour le calcul de ladite contribution est celui déclaré au titre de l’activité soumise à la licence.

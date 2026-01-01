@@ -1,5 +1,11 @@
 # Article C 57
 
-(1) Il est institué, au profit des communes, une taxe communale appelée taxe de développement local.
-(2) Cette taxe est perçue en contrepartie des services de base et des prestations rendus aux populations, notamment l’éclairage public, l’assainissement, l’enlèvement des ordures ménagères, le fonctionnement des ambulances, l’adduction d’eau et l’électrification.
-(3) Le produit de la taxe de développement local est consacré en priorité au financement des infrastructures visées à l’alinéa (2) ci-dessus.
+Il est institué au profit des Communes, un droit de mutation d’immeubles tel que prévu par le Code Général des Impôts, applicable ainsi qu’il suit :
+a) au taux intermédiaire de 10 % :
+- les actes et mutations d’immeubles urbains bâtis.
+b) au taux moyen de 5 % :
+- les actes et mutations d’immeubles urbains non bâtis et ruraux bâtis.
+c) au taux réduit de 2 % :
+- les actes et mutations d’immeubles ruraux non bâtis.
+d) au taux super réduit de 1 % :
+- nonobstant les dispositions de l’article 344 du Code Général des Impôts, les actes et mutations d’immeubles au profit des associations reconnues d’utilité publique et des organismes confessionnels régulièrement autorisés.

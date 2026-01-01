@@ -1,4 +1,3 @@
 # Article C 20
 
-En cas de cessation d’activité par suite de décès, de règlement judiciaire, de faillite déclarée ou pour cause d’expropriation ou d’expulsion, les droits ne sont dus que jusqu’à l’expiration du mois en cours.
-Décharge du surplus est accordée sur déclaration du redevable présentée dans les trois mois suivant l’événement.
+Les contribuables disposant de plusieurs établissements doivent communiquer aux services fiscaux de l’Etat, avant le 15 janvier de chaque année, le détail du chiffre d'affaires de chaque établissement, ainsi que leur localisation par commune.

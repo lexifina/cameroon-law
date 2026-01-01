@@ -1,9 +1,11 @@
 # Article L144
 
 (1) Sous réserve des dispositions de l’article L96 bis du Livre des Procédures Fiscales, les remises et modérations sont automatiquement accordées au contribuable suivant les modalités ci- après :
-- pour les contribuables du circuit vert : abattement de 50% du montant des pénalités et intérêts de retard dus ;
+- pour les contribuables du circuit vert :
+abattement de 50% du montant des pénalités et intérêts de retard dus ;
 - pour les contribuables du circuit orange : abattement de 25% du montant des pénalités et intérêts de retard dus ;
-- pour les contribuables du circuit rouge : aucun abattement du montant des pénalités et intérêts de retard dus.
+- pour les contribuables du circuit rouge :
+aucun abattement du montant des pénalités et intérêts de retard dus.
 (2) Au sens des dispositions de l’alinéa 1 ci-dessus :
 a. Sont considérés comme contribuables du circuit vert, ceux à jour de leurs obligations déclaratives et de paiement et relevant d’un partenariat intégré ou d’un Centre de gestion agréé.
 Relèvent également du circuit vert, les contribuables remplissant à la date d’introduction de leurs demandes les critères cumulatifs ci-après :

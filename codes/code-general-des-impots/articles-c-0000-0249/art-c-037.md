@@ -1,8 +1,7 @@
 # Article C 37
 
-(1) Le tarif de la contribution des licences est fixé comme suit :
-- deux (2) fois le montant de la contribution des patentes pour les boissons non alcoolisées ;
-- quatre (4) fois le montant de la contribution des patentes pour les boissons alcoolisées.
-(2) Toutefois, pour les débitants de boissons donnant lieu à licence et relevant de l’Impôt Libératoire, la contribution des licences est établie ainsi qu’il suit :
-- une (1) fois le montant de l’impôt libératoire pour les boissons non alcoolisées ;
-- deux (2) fois le montant de l’Impôt Libératoire pour les boissons alcoolisées.
+(1) Les tarifs de la contribution des licences sont regroupés dans le tableau ci-après :
+Nature de l’activité Activités assujetties à la patente Activités soumises à l’Impôt Libératoire Classe de Licence Elément de base Contribution de la patente 1 fois le montant de l’impôt général synthétique 1re classe Boissons non alcoolisées 02 fois la contribution de la patente 01 fois le montant de l’impôt général synthétique 2e classe
+- boissons alcoolisées ;
+- armes à feu, munitions et explosifs ;
+- exploitation des jeux de hasard et de divertissement 04 fois la contribution de la patente 02 fois le montant de l’impôt général synthétique

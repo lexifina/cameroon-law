@@ -1,3 +1,3 @@
 # Article C 33
 
-Toute personne physique ou morale autorisée à se livrer à la vente en gros ou au détail à un titre quelconque ou à la fabrication des boissons alcoolisées ou non alcoolisées, est soumise à la contribution des licences.
+Lorsque, dans un même établissement, il est réalisé des opérations pouvant donner lieu à des licences différentes, cet établissement est imposé à la licence la plus élevée pour l’ensemble des opérations qui y sont réalisées.

@@ -1,3 +1,5 @@
 # Article C 27
 
-Les omissions totales ou partielles constatées dans les émissions de la contribution des patentes ainsi que les erreurs commises dans la détermination des bases d’imposition ou dans l’application du tarif, peuvent être réparées par le service des impôts jusqu’à l’expiration de la période non prescrite.
+Sont considérés comme jeux de hasard et divertissement, les jeux qui, sous quelque dénomination que ce soit :
+- sont fondés sur l’espérance d’un gain en nature ou en argent susceptible d’être acquis par la voie du sort ou d’une autre façon ;
+- sont destinés à procurer un simple divertissement..

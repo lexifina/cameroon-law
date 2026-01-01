@@ -1,3 +1,3 @@
 # Article C 87
 
-Les droits sur le permis de bâtir ou d’implanter sont perçus sur toute construction élevée au chef-lieu de la commune ou dans les agglomérations ayant fait l’objet du plan d’urbanisme approuvé.
+La taxe de développement local est perçue en même temps que l’Impôt sur le Revenu des Personnes Physiques, la patente et l’impôt général synthétique.

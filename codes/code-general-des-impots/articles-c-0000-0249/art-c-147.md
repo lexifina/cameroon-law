@@ -1,3 +1,3 @@
 # Article C 147
 
-Le produit des impôts issus de la péréquation continue d’être centralisé au FEICOM en attendant la création de tout autre organisme public telle que prévue par la loi.
+Le non-paiement des taxes et impôts locaux dans les délais légaux entraîne l’application des sanctions prévues par le Livre des Procédures Fiscales du Code Général des Impôts, sous réserve des dispositions particulières prévues par la présente loi.

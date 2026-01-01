@@ -1,4 +1,3 @@
 # Article C 110
 
-(1) La taxe sur le transport des produits de carrières est collectée par la recette municipale contre délivrance d’un reçu tiré d’un carnet à souche sécurisé et portant une valeur faciale indiquant le tarif voté par le Conseil municipal.
-(2) Le non-paiement de la taxe de transport des produits de carrières entraîne la mise en fourrière du véhicule.
+Le défaut de paiement des droits ci-dessus entraîne paiement d’une pénalité de cent pour cent (100 %) du montant dû en principal.

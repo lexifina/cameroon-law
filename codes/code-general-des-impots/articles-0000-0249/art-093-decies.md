@@ -1,9 +1,9 @@
 # Article 93 decies
 
-(1) Sous réserve des dispositions de l’alinéa 4 ci- dessous, les organismes à but non lucratif définis à l’article 93 nonies bis du présent Code sont exonérés de :
-la contribution de patente ;
-l’impôt sur les sociétés ;
-la taxe sur la propriété foncière.
+(1) Sous réserve des dispositions de l’alinéa 4 ci-dessous, les organismes à but non lucratif définis à l’article 93 nonies bis du présent Code sont exonérés de:
+- la contribution de patente ;
+- l’impôt sur les sociétés ;
+- la taxe sur la propriété foncière.
 (2) Sous réserve des exonérations prévues par le présent Code, les organismes visés à l’alinéa 1 de l’article 93 nonies bis du présent Code demeurent passibles :
 - de la Taxe sur la Valeur Ajoutée sur les biens et services acquis dans le cadre de leur fonctionnement ;
 - des droits d’enregistrement et de timbre ;

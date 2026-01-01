@@ -19,8 +19,7 @@
 - ne pas avoir d’arriérés fiscaux autres que ceux contestés ;
 - ne pas faire l’objet de poursuites pénales pour fraude fiscale.
 (2) Lorsque les conditions ci-dessus sont réunies, le sursis de paiement administratif est délivré de façon informatisée en ligne selon les modalités précisées par voie réglementaire.
-(3) Le sursis de paiement peut être délivré de façon manuelle dans un délai de quinze (15) jours à compter de la date de la réception de la demande.
-L’absence de réponse de l’administration dans ce délai équivaut à l’acceptation tacite du sursis de paiement.
+(3) Le sursis de paiement peut être délivré de façon manuelle dans un délai de quinze (15) jours à compter de la date de la réception de la demande. L’absence de réponse de l’administration dans ce délai équivaut à l’acceptation tacite du sursis de paiement.
 (4) Le sursis de paiement cesse d’avoir effet huit (08) jours après notification de la décision de l’autorité saisie ou, en cas de silence, après l’expiration du délai imparti à cette dernière pour se prononcer.
 (5) L’introduction d’une demande de sursis de paiement en appui à une réclamation contentieuse au terme de la décision en premier ressort du juge administratif, n’est recevable qu’après acquittement de 50% du montant des impositions contestées et consignation de 50% de la partie restante.
 (6) Sauf le cas des contribuables relevant de l’impôt libératoire, l’assistance judiciaire, prévue à l’article 5 (2-b) de la loi n°2009/004 du 14 avril 2009 portant organisation de l’assistance judiciaire, ne s’applique pas aux consignations fiscales fixées au présent article pour la saisine des juridictions administratives.

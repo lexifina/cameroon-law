@@ -1,5 +1,3 @@
 # Article C 24
 
-(1) La contribution des patentes est déclarée et liquidée par le redevable à l’aide d’un imprimé servi par l’administration ou directement en ligne via l’application de télé-déclaration.
-(2) Elle est payée à l’aide d’un bulletin d’émission ou d’un avis d’imposition.
-(3) Supprimé.
+Tout contribuable qui exerce une activité soumise à la patente sans en avoir acquitté les droits, est taxé d’office pour l’année entière et sa cotisation est assortie d’une majoration de cinquante (50) à cent pour cent (100%), selon que sa bonne foi est établie ou non.

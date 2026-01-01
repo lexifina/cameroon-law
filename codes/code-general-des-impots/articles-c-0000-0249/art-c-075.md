@@ -1,3 +1,60 @@
 # Article C 75
 
-La taxe sur les armes est liquidée, émise et payée au profit de la commune de localisation du détenteur contre délivrance d’une quittance.
+Le paiement des droits de timbre sur la publicité se fait ainsi qu’il suit :
+1) Affiches, tracts et prospectus :
+Le paiement des droits de timbre sur la publicité faite par ces moyens est retenu à la source par les entreprises relevant des unités de gestion spécialisées et reversé auprès du centre de rattachement dans les mêmes conditions que les autres impôts, droits et taxes.
+Les autres annonceurs déclarent et paient les droits de timbre sur la publicité auprès d’une régie publicitaire, à charge pour cette dernière de reverser le montant des droits perçus dans les quinze (15) jours qui suivent le mois au cours duquel les droits sur la publicité ont été payés.
+a) Affiches, prospectus imprimés au Cameroun : Les imprimeurs de tracts imprimés installés au Cameroun tiennent un registre visé et paraphé par le service chargé de l’enregistrement sur lequel ils reportent toutes les impressions d’affiches et tracts effectuées par leurs soins.
+Les affiches, tracts et prospectus portent le nom de l’imprimeur et leur numéro dans le registre d’impression correspondant au timbre perçu.
+b) Affiches, tracts et prospectus imprimés hors du Cameroun :
+Avant leur importation, les utilisateurs de ces documents en déclarent la nature et la quantité au Centre des Impôts de leur domicile ou siège social.
+Le paiement est effectué dans le mois de l’entrée des affiches, tracts ou prospectus au Cameroun au Centre des Impôts ayant reçu la déclaration avant importation.
+Aucun usage ne peut être fait de ces documents avant paiement des droits.
+2) Panneaux publicitaires :
+Les entreprises et particuliers relevant des unités de gestion spécialisées qui utilisent les panneaux publicitaires font la déclaration et le paiement des droits de timbre auprès du centre de rattachement dans les mêmes conditions que les autres impôts, droits et taxes.
+À l’exception des entreprises citées plus haut, les autres annonceurs déclarent et paient auprès d’une régie publicitaire en même temps que les frais de publicité, le montant du droit de timbre exigible à charge pour cette dernière d’effectuer le reversement des droits ainsi prélevés dans quinze (15) jours qui suivent le mois précédent.
+La déclaration visée ci-dessus mentionne :
+a) l’objet de la publicité ;
+b) les nom (s), prénom(s), profession ou raison sociale, le domicile ou le siège social des personnes ou collectivité dans l’intérêt desquelles la publicité est effectuée et, éventuellement de l’entrepreneur de la publicité ;
+c) la désignation précise de l’emplacement du panneau.
+3) Publicité par voie de presse :
+a) Journaux imprimés au Cameroun :
+Les éditeurs de journaux imprimés au Cameroun perçoivent en même temps que le prix de l’insertion le montant des droits de timbre exigibles et le reversent, sur déclaration, au Centre des Impôts de rattachement en même temps que les impôts à versement spontané, les perceptions faites au cours du mois précédent.
+Pour les entreprises relevant des unités de gestion spécialisées, les droits de timbre sur la publicité sont retenus à la source au moment de l’insertion.
+Les droits ainsi retenus font l’objet de déclaration et de reversement auprès du centre de rattachement dans les mêmes conditions que les impôts à versement spontané.
+b) Journaux édités hors du Cameroun, mais distribués au Cameroun :
+L’insertion d’une publicité dans un journal édité hors du Cameroun, mais distribué sur le territoire camerounais, donne lieu à la déclaration et au paiement des droits de timbre sur la publicité au moment du paiement des frais de publicité correspondants à cette insertion.
+4) Publicité par radio et télévision :
+Les stations de radio et télévision perçoivent en même temps que les frais de publicité, le montant du droit de timbre exigible. Elles le reversent sur déclaration au Centre des Impôts de rattachement en même temps que les impôts à versement spontané, les perceptions faites au cours du mois précédent.
+Pour les entreprises relevant des unités de gestion spécialisées, les droits de timbre sur la publicité sont retenus à la source au moment de l’insertion.
+Les droits ainsi retenus font l’objet de déclaration et de reversement auprès du centre de rattachement dans les mêmes conditions que les autres impôts, droits et taxes.
+La déclaration précise :
+• l’objet de la publicité ;
+• les noms, adresse et localisation du bénéficiaire de la publicité ;
+• le coût unitaire ou forfaitaire et le nombre des insertions ;
+• la durée, date ou période de l’insertion.
+Les stations de radio et de télévision tiennent un registre visé et paraphé par le service en charge de l’enregistrement pour les besoins de contrôle de cette publicité.
+Ce registre fait ressortir pour chaque insertion le montant des droits prélevés et les références de la quittance de paiement.
+5) Publicité par le cinéma :
+Les exploitants de salles de cinéma perçoivent en même temps que le prix de la projection publicitaire le montant des droits de timbre exigible.
+Elles le reversent sur déclaration au Centre des Impôts de rattachement en même temps que les impôts à versement spontané, les perceptions faites au cours du mois précédent.
+Pour les entreprises relevant des unités de gestion spécialisées, les droits de timbre sur la publicité sont retenus à la source au moment de l’insertion.
+Les droits ainsi retenus font l’objet de déclaration et de reversement auprès du centre de rattachement dans les mêmes conditions que les autres impôts, droits et taxes.
+Cette déclaration précise :
+• l’objet de la publicité ;
+• les noms, adresse et localisation du bénéficiaire de la publicité, • le coût unitaire ou forfaitaire et le nombre de projections ;
+• la durée, date ou période de la projection ;
+• l’existence éventuelle d’un contrat entre les parties.
+Les exploitants de salles de cinéma tiennent un registre visé et paraphé par le service chargé de l’enregistrement qui fera ressortir les différentes projections effectuées, leur coût, le montant des droits prélevés et les références de leur paiement.
+6) Publicité par véhicule muni de haut- parleurs ou non Avant de mettre en service à des fins publicitaires, un véhicule muni de haut-parleurs, le propriétaire doit en faire la déclaration. Le service lui délivre un récépissé à présenter à chaque contrôle des impôts. La déclaration précise :
+• les noms, adresse et localisation du propriétaire du véhicule ;
+• les caractéristiques du véhicule et sa date de mise en circulation au Cameroun ;
+• son numéro d’immatriculation ;
+• la date de mise en service pour les besoins de publicité par haut- parleurs.
+Les droits de timbre sur la publicité par véhicule muni de haut-parleurs fixé ou non à la carrosserie, sont payés sur déclaration du propriétaire :
+dans le mois qui suit le trimestre au cours duquel le véhicule a été affecté à ce service ;
+dans le premier mois de chaque trimestre pour les paiements ultérieurs.
+La déclaration est faite au Centre des Impôts du domicile ou du siège social des propriétaires.
+7) Publicité par support immatériel Pour la perception du droit de timbre sur publicité immatériel par support, les annonceurs souscrivent mensuellement leurs déclarations auprès de leur centre des impôts de rattachement.
+8) Distributions gratuites dans le cadre de la promotion commerciale.
+Le droit de timbre sur la publicité est dû par les entreprises à l’occasion de leurs distributions gratuites dans le cadre de la promotion commerciale. Il est déclaré et reversé auprès de leur centre des impôts de rattachement au plus tard le 15 du mois suivant celui au cours duquel les distributions ont été faites.

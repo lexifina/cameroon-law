@@ -1,5 +1,4 @@
-# Article C46
+# Article C 46
 
-(3) Toutefois, les tarifs de l’impôt libératoire pour les transporteurs sont arrêtés par les Collectivités Territoriales Décentralisées, bénéficiaires du produit de cet impôt à l’intérieur d’une fourchette ainsi qu’il suit:
-Catégories :
-A : de 0 F CFA à 10 000 F CFA B : de 10 001 F CFA à 20 000 F CFA C : de 20 001 F CFA à 25 000 F CFA D : de 25 001 F CFA à 50 000 F CFA Le reste sans changement.
+(1) Le défaut de présentation de l’attestation de non redevance entraîne la fermeture de l’établissement. Il est en outre sanctionné par une amende fiscale de vingt-cinq mille (25 000) francs CFA.
+(2) Toutefois, pour les marchands ambulants et les transporteurs professionnels, le défaut de justification de la régularité fiscale entraîne la saisie des biens meubles non périssables ou du véhicule et leur conservation à la fourrière municipale, dans le respect des règles de procédures propres en la matière.

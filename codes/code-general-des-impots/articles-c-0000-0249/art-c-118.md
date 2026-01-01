@@ -1,18 +1,3 @@
 # Article C 118
 
-Les produits des impôts ci-après sont en totalité ou en partie affectés aux régions. Il s’agit :
-- des droits de timbre sur les cartes grises ;
-- du droit de timbre d’aéroport ;
-- supprimé ;
-- des redevances sur les ressources de la forêt, de la faune et de la pêche ;
-- des redevances sur les ressources en eau ;
-- des redevances sur les ressources pétrolières ;
-- des taxes ou redevances sur les ressources minières ;
-- de la redevance sur les ressources halieutiques et d’élevage ;
-- des taxes et/ou redevances sur les ressources énergétiques ;
-- des taxes et/ou redevances sur les ressources touristiques ;
-- des taxes et/ou redevances aérospatiales ;
-- des taxes et/ou redevances sur les ressources du secteur gazier ;
-- de la redevance d’usage de la route;
-- des droits d’exploitation des établissements classés dangereux, insalubres ou incommodes ;
-- de tout autre impôt, droit ou redevance affecté par l’Etat.
+Le produit du droit de timbre automobile prévu par le Livre Premier du Code Général des Impôts, est affecté en totalité à l’organisme en charge de la centralisation et de la péréquation, pour redistribution intégrale aux communes.

@@ -1,0 +1,3 @@
+# Article C 97
+
+(1) Les loyers d’espaces aménagés des marchés sont perçus auprès des commerçants réguliers et des vendeurs occasionnels qui occupent un espace préalablement aménagé dans tout marché du ressort territorial d’une commune. (2) La fixation des loyers prend en compte la disparité des niveaux de vie, la spécialisation des marchés concernés et la situation des grands centres d’approvisionnement. Les loyers d’espaces aménagés des marchés sont identiques pour tous les marchands, qu’ils soient domiciliés ou non dans la localité, la différence éventuelle des loyers ne devant provenir que de la superficie occupée.

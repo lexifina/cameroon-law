@@ -12,4 +12,4 @@ Le taux réduit de TSR s’applique aux :
 - rémunérations versées à l’étranger pour la fourniture de l’accès aux prestations audiovisuelles à contenu numérique ;
 - rémunérations des prestations de toutes natures fournies aux compagnies pétrolières lors des phases de recherche et de développement ;
 - rémunérations versées par les sociétés de transport maritime de droit camerounais pour la location et l’affrètement des navires, la location d’espaces sur les navires étrangers et au titre des commissions servies aux agents portuaires à l’étranger ;
-- commissions versées aux entreprises de transfert de fonds situées à l’étranger, déduction faite de la quote-part due aux partenaires locaux.
+- commissions versées aux entreprises de transfert de fonds situées à l’étranger, déduction faite de la quote- part due aux partenaires locaux.

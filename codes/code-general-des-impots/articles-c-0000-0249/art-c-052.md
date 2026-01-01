@@ -1,7 +1,4 @@
 # Article C 52
 
-(1) Une quote-part (40 %) du produit de la redevance forestière annuelle est affectée aux communes conformément aux dispositions du Code Général des Impôts.
-(2) La quote-part communale de la redevance forestière annuelle est répartie ainsi qu’il suit :
-- 50 % au titre de la retenue à la base au profit de la commune de localisation ;
-- 50 % au titre du reliquat centralisés par le FEICOM ou tout autre organisme chargé de la centralisation et de la péréquation des produits des impôts, taxes et redevances dues aux communes.
-(3) Le reliquat centralisé de la redevance forestière annuelle est réparti à toutes les communes, suivant des modalités fixées par voie réglementaire.
+La taxe sur la propriété foncière est assise sur la valeur de la propriété déterminée en fonction des zones, telle que déclarée par le propriétaire. Les valeurs par zone sont fixées par un texte particulier.
+À défaut de déclaration ou en cas de minoration, la valeur administrative de l’immeuble déterminée conformément aux dispositions de l’article 546 bis du Code Général des Impôts, sert de base à l’imposition.

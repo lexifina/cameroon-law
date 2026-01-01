@@ -1,3 +1,3 @@
 # Article C 137
 
-Les réclamations relatives aux taxes communales ressortissent de la juridiction contentieuse lorsqu’elles tendent à obtenir soit la réparation d’erreurs commises dans l’assiette ou le calcul des impositions, soit le bénéfice d’un droit résultant d’une disposition législative ou réglementaire.
+Toute personne physique ou morale assujettie au paiement d’un impôt local est tenue à l’obligation d’immatriculation préalable dans les conditions définies par le Livre Premier du Code Général des Impôts.

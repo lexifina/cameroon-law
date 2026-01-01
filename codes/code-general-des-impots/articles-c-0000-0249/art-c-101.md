@@ -1,7 +1,4 @@
 # Article C 101
 
-(1) Le tarif de la taxe sur les spectacles habituels est fixé en fonction du type de spectacle par délibération du conseil municipal dans la limite de 10 000 F CFA à 100 000 F CFA par trimestre et par établissement.
-(2) Le tarif de la taxe sur les spectacles occasionnels est fixé par le Conseil municipal. Les taux limites sont de 5 000 F CFA à 50 000 F CFA par journée de représentation.
-(3) La taxe sur les spectacles est recouvrée par le receveur municipal après émission d’un titre de recette par l’ordonnateur municipal compétent.
-(4) Le défaut de paiement de la taxe entraîne l’arrêt du spectacle ou la fermeture de la salle, dans les formes prévues par les textes en vigueur.
-(5) Les scellés ne peuvent être levés qu’après paiement d’une amende correspondant à 100 % du montant dû en principal.
+(1) La vente des marchandises sur les trottoirs et autres espaces publics, en dehors des places de marché, demeure interdite.
+Plage des superficies occupées par les boutiques communales Fourchette tarifs loyers mensuel des boutiques communales jusqu’à 4 m2 5 000 FCFA à 10 000 FCFA par mois de 4,01 m2 à 6 m2 10 001 FCFA à 15 000 FCFA par mois de 6,01 m2 à 8 m2 15 001 FCFA à 20 000 FCFA par mois de 8,01 m2 à 10 m2 20 001 FCFA à 25 000 FCFA par mois de 10,01 m2 à 12 m2 25 001 FCFA à 30 000 FCFA par mois de 12,01 m2 à 14 m2 30 001 FCFA à 35 000 FCFA par mois de 14,01 m2 à 16 m2 35 001 F CFA à 40 000 FCFA par mois de 16,01 m2 à 18 m2 40 001 F CFA à 45 000 FCFA par mois de 18,01 m2 à 20 m2 45 001 FCFA à 50 000 FCFA par mois de 20,01 m2 à 22 m2 50 001 FCFA à 55 000 FCFA par mois de 22,01 m2 à 24 m2 55 001 FCFA à 60 000 FCFA par mois de plus de 24 m2 60 001 FCFA à 70 000 FCFA par mois (2) En cas d’occupation constatée du trottoir et autres espaces publics par la commune compétente, les marchandises sont mises en fourrière.

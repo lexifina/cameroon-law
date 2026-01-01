@@ -1,12 +1,5 @@
 # Article C 104
 
-(1) Le droit de timbre communal est voté par le Conseil municipal au profit du budget communal.
-(2) Le droit de timbre communal est fixé à 500 F CFA au profit du budget communal.
-Il s’applique au document de format inférieur ou égal à une page de format A4 notamment :
-- la copie ou l’extrait d’état civil ;
-- la légalisation ou certification matérielle de signature ou de document ;
-- le jugement supplétif ;
-- la procuration ;
-- les factures des prestataires adressées à la commune ;
-- toute requête introduite à l’attention du magistrat municipal.
-(3) Tout document de dimension supérieure au format de base ci- dessus est assujetti au paiement d’un droit de timbre de 1 000 F CFA.
+(1) Le taux des droits sur les permis de construire ou d’implanter voté par le Conseil municipal au profit du budget est fixé à un pour cent (1 %) de la valeur de la construction.
+(2) Il s’applique aussi bien aux aménagements importants qu’aux constructions nouvelles.
+(3) Le montant des droits est établi sur la base d’un devis estimatif approuvé par les services techniques communaux ou, le cas échéant, ceux en tenant lieu.

@@ -1,6 +1,6 @@
 # Article C 141
 
-La juridiction gracieuse connaît des demandes tendant à obtenir :
-- la remise ou modération de taxes communales régulièrement établies, en cas de gêne ou d’indigence mettant les redevables dans l’impossibilité de se libérer envers la recette municipale ;
-- la remise ou modération d’amendes ou de majorations fiscales, lorsque ces pénalités, intérêts de retard, sont défini- tifs ;
-- la décharge de la responsabilité incombant à certaines personnes quant au paiement de taxes dues par un tiers.
+(1) Toute personne tenue au paiement d’un impôt local doit s’acquitter de sa dette auprès de la Recette des Impôts, dans les délais et suivant les modalités fixées par la loi.
+(2) Le paiement des impôts locaux est effectué par voie électronique, par télépaiement, par virement ou en espèces auprès des guichets des établissements financiers agréés.
+(3) Les quittances de paiement sont générées par voie électronique.
+(4) Les modalités de commande, de réception et de gestion des valeurs fiscales locales sont fixées par voie réglementaire.

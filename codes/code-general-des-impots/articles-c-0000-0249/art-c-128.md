@@ -1,6 +1,6 @@
 # Article C 128
 
-(1) Toute personne tenue au paiement d’un impôt ou taxe locale doit s’acquitter de sa dette auprès de la Recette des Impôts ou de la Recette municipale, dans les délais et suivant les modalités fixées par la loi.
-(2) Le paiement des impôts communaux est effectué en numéraire, par chèque ou par virement bancaire.
-(3) Le Receveur municipal, le Receveur des impôts ou à défaut, le comptable du trésor territorialement compétent, délivre des quittances en contrepartie des versements reçus.
-(4) Il peut en être délivré duplicata au contribuable ou à l’agent intermédiaire de recettes qui en fait la demande.
+(1) Par dérogation aux dispositions de la loi n°98/005 du 14 avril 1998 portant régime de l’eau, une quotité des ressources du Fonds pour le financement des projets de développement durable en matière d’eau et d’assainissement est affecté aux régions.
+(2) Les ressources du Fonds prévues à l’alinéa 1 ci-dessus sont recouvrées par les services fiscaux de l’Etat et affectées en totalité à l’organisme chargé de la centralisation et de la péréquation au titre de l’intercommunalité et de l’inter- régionalité, pour la redistribution à l’ensemble des Régions suivant les modalités fixées par un texte particulier.
+(3) La redevance pour le prélèvement des eaux de surface ou souterraines est déclarée et acquittée par les assujettis, via la plateforme informatique de l’administration fiscale, dans les quinze (15) jours qui suivent la fin de chaque trimestre. Cette déclaration trimestrielle récapitule le volume des prélèvements d’eau effectués au cours de la période.
+(4) La taxe d’assainissement sur le déversement des eaux usées industrielles est déclarée et acquittée par les assujettis, via la plateforme informatique de l’administration fiscale, dans les quinze (15) jours qui suivent la fin de chaque trimestre. Cette déclaration trimestrielle récapitule la quantité de charges polluantes déversées au cours de la période.

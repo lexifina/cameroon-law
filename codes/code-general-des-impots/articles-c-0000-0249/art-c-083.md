@@ -1,17 +1,6 @@
 # Article C 83
 
-(1) Les taux de loyers des boutiques communales applicables dans les marchés sont fixés ainsi qu’il suit :
-- jusqu’à 4 m2 : 5 000 F CFA à 10 000 F CFA par mois ;
-- de 4,01 m2 à 6 m2 : 10 001 F CFA à 15 000 F CFA par mois ;
-- de 6,01 m2 à 8 m2 : 15 001 F CFA à 20 000 F CFA par mois ;
-- de 8,01 m2 à 10 m2 : 20 001 F CFA à 25 000 F CFA par mois ;
-- de 10,01 m2 à 12 m2 : 25 001 F CFA à 30 000 F CFA par mois ;
-- de 12,01 m2 à 14 m2 : 30 001 F CFA à 35 000 F CFA par mois ;
-- de 14,01 m2 à 16 m2 : 35 001 F CFA à 40 000 F CFA par mois ;
-- de 16,01 m2 à 18 m2 : 40 001 F CFA à 45 000 F CFA par mois ;
-- de 18,01 m2 à 20 m2 : 45 001 F CFA à 50 000 F CFA par mois ;
-- de 20,01 m2 à 22 m2 : 50 001 F CFA à 55 000 F CFA par mois ;
-- de 22,01 m2 à 24 m2 : 55 000 F CFA à 60 000 F CFA par mois ;
-- de plus de 24 m2 : 60 001 F CFA à 70 000 F CFA par mois.
-(2) Faute de paiement d’un terme de loyer des boutiques et après mise en demeure de quinze (15) jours demeurée infructueuse, il est procédé à la pose des scellés sur la boutique, dans les formes prévues par les textes en vigueur.
-(3) Les scellés ne peuvent être levés qu’après paiement d’une amende de 5 000 F CFA, en sus du droit régulièrement dû.
+(1) Le taux des centimes additionnels est fixé à dix pour cent (10 %) du principal de l’impôt sur le revenu des personnes physiques, de l’impôt sur les sociétés et de la taxe sur la valeur ajoutée.
+(2) Le taux des centimes additionnels est fixé à cinq pour cent (5 %) du principal des droits d’accises, de la taxe spéciale sur le revenu et des droits d’enregistrement sur la commande publique.
+(3) Les centimes additionnels sont calculés tant sur le principal que sur les majorations des impôts auxquels ils s’appliquent et suivent le sort des éléments qui leur servent de base.
+(4) Les procédures d’assiette, d’émission, de recouvrement ainsi que les poursuites et le contentieux relatifs aux centimes additionnels communaux sont les mêmes que pour les impôts et taxes qui leur servent de base.

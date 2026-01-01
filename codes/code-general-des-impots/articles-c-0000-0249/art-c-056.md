@@ -1,3 +1,3 @@
 # Article C 56
 
-Le produit des centimes additionnels communaux est réparti entre l’Etat et le FEICOM ou tout autre organisme chargé de la centralisation et de la péréquation, et les communes et communautés urbaines suivant les modalités fixées par voie réglementaire.
+Les procédures d’assiette, de contrôle, de recouvrement, de contentieux ainsi que les obligations générales et les sanctions applicables en matière de taxe sur la propriété foncière sont celles prévues par le Livre des Procédures Fiscales.

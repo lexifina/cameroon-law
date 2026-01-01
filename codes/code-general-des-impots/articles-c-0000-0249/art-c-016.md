@@ -1,3 +1,3 @@
 # Article C 16
 
-La patente est personnelle et ne peut servir qu’à celui à qui elle a été délivrée.
+La patente est due pour l’année entière par toute personne exerçant au 1er janvier une activité imposable.

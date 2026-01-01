@@ -1,4 +1,3 @@
 # Article C 84
 
-(1) Les vendeurs occasionnels et les commerçants ne disposant pas de places permanentes dans les marchés acquittent un droit de place journalier dont le montant arrêté par délibération du Conseil municipal et compris entre 100 et 500 F CFA par vendeur.
-(2) Faute de paiement, il est, jusqu’à exécution, procédé à la confiscation des marchandises, qui ne peuvent être restituées qu’après paiement d’une amende correspondant à un droit en sus du droit régulièrement dû.
+Le produit des centimes additionnels communaux est réparti entre l’Etat et l’organisme chargé de la centralisation et de la péréquation, pour la redistribution à l’ensemble des Communes suivant les critères à définir par un texte particulier ou tout autre organisme chargé de la centralisation et de la péréquation, et les communes et communautés urbaines suivant les modalités fixées par voie réglementaire.

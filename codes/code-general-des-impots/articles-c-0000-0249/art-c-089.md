@@ -1,5 +1,11 @@
 # Article C 89
 
-(1) Toute exécution de travaux sans paiement préalable des droits rend le constructeur passible d’une amende dont le montant est égal à 30 % des droits dus. L’amende est payée au profit de la commune.
-Elle ne dispense pas le coupable du paiement du principal des droits sur le permis de bâtir.
-(2) Le défaut de permis de bâtir ou d’implanter n’entraîne pas la démolition de l’immeuble, sauf dans les cas prévus à l’article 125 de la loi n° 2004/003 du 21 avril 2004 régissant l’urbanisme au Cameroun.
+- (1) Il est institué un droit de timbre local.
+(2) Le droit de timbre local est fixé à cinq cent (500) francs CFA. Il s’applique au document de format inférieur ou égal à une page de format A4 notamment :
+- la copie ou l’extrait d’acte d’état civil;
+- la légalisation ou certification matérielle de signature ou de document ;
+- le jugement supplétif ;
+- la procuration ;
+- les factures des prestataires adressées aux Collectivités Territoriales Décentralisées;
+- toute requête introduite à l’attention des exécutifs des Collectivités Territoriales Décentralisées.
+(3) Tout document de dimension supérieure au format de base ci-dessus est assujetti au paiement d’un droit de timbre de mille (1 000) francs CFA.

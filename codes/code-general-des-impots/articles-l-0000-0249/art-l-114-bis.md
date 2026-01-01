@@ -1,0 +1,4 @@
+# Article L 114 bis
+
+(1) Nonobstant les dispositions de l’article 142 du Code pénal, les rappels d’impôts, droits, taxes ou pénalités résultant d’une procédure de contrôle régulièrement menés par les agents de l’administration fiscale ne constituent pas l’infraction de concussion, dès lors que ces agents agissent dans le cadre des compétences et des procédures prévues par le présent Code.
+(2) Les impositions supplémentaires émanant d’une procédure fiscale sont, jusqu’à preuve contraire, réputées établies au seul profit du Trésor public, conformément aux règles de compétence et de procédure applicables. La charge de la preuve de l’intention frauduleuse de l’agent d’exiger, de percevoir, d’accorder ou de retenir, pour son propre compte ou pour celui d’un tiers, une somme qu’il savait indue, incombe à la partie poursuivante.

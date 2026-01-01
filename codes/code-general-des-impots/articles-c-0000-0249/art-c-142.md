@@ -1,3 +1,3 @@
 # Article C 142
 
-Les demandes sont introduites auprès du chef de l’exécutif municipal. Elles doivent contenir les indications nécessaires pour identifier l’imposition en cause.
+Le contrôle des impôts locaux est exercé par les services compétents de l’Etat suivant les modalités prévues par le Livre des Procédures Fiscales. Toutefois, certaines opérations de contrôle peuvent être organisées conjointement par les services compétents de l’Etat et des après programmation concertée.

@@ -1,4 +1,3 @@
 # Article C 143
 
-(1) Après examen, le chef de l’exécutif municipal notifie par écrit sa décision de remise, modération ou de rejet dans un délai de trente (30) jours à compter de sa saisine.
-(2) Le silence gardé par le chef de l’exécutif municipal au terme du délai susvisé vaut décision implicite de rejet.
+A défaut de paiement dans les délais prescrits, les impôts locaux font l’objet de recouvrement forcé, conformément au Livre des Procédures Fiscales du Code Général des Impôts, sous réserve des spécificités prévues par la présente loi.

@@ -1,5 +1,3 @@
 # Article C 88
 
-(1) Le taux des droits sur les permis de bâtir ou d’implanter voté par le Conseil municipal au profit du budget est fixé à 1 % de la valeur de la construction.
-(2) Il s’applique aussi bien aux aménagements importants qu’aux constructions nouvelles.
-(3) Le montant des droits est établi sur la base d’un devis estimatif approuvé par les services techniques communaux ou, le cas échéant, ceux en tenant lieu.
+L’assiette, l’émission, le recouvrement, les délais, les sanctions, les poursuites et le contentieux de la taxe de développement local suivent les procédures applicables aux impôts et droits sur lesquels elle est assise.

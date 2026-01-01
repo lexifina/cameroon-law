@@ -1,11 +1,4 @@
 # Article C 14
 
-(1) La patente est due par établissement.
-Sont considérés comme constituant des établissements distincts : les immeubles ou parties d’immeubles nettement séparés. Est également patentable pour un établissement distinct, celui qui fait vendre des marchandises ou des produits, ou fait travailler des artisans pour son compte sur le trottoir, sous l’auvent ou sous la véranda non fermée de son établissement commercial.
-(2) Est considéré comme faisant vendre ou travailler pour son compte, quiconque donne asile comme il est dit ci-dessus, à un vendeur ou à un artisan ne justifiant pas être personnellement patenté.
-(3) Tout chantier ou groupe de chantiers ouverts dans une commune et placés sous la surveillance technique d’un agent, est considéré comme établissement imposable.
-(4) Les opérations effectuées par un patenté pour le compte d’un tiers soit en consignation, soit sous contrôle de son commettant, que celui-ci exige des rapports, comptes rendus, comptabilités spéciales ou fassent surveiller périodiquement lesdites opérations, donnent également lieu à imposition distincte établie au nom des commettants.
-(5) Le mari et la femme, même séparés de biens, ne sont redevables que d’une seule patente lorsqu’ils exercent une même activité dans un même établissement.
-(6) L’industriel vendant exclusivement en gros dans un local séparé, les seuls produits de sa fabrication, est exempt de la patente pour les ventes effectuées dans ce local.
-(7) Dans le cas de pluralité de magasins, l’exemption est limitée à celui qui est le plus proche de l’usine.
-(8) En ce qui concerne les professionnels de transport routier qui sont soumis au régime du bénéfice réel, il est dû une patente par exploitant calculée en fonction du chiffre d’affaires.
+(1) La contribution des patentes est due sur le chiffre d’affaires global du contribuable.
+(2) Pour les contribuables disposant de plus d’un établissement, la contribution des patentes est ventilée à chaque établissement au prorata de son chiffre d’affaires.

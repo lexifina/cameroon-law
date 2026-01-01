@@ -1,7 +1,6 @@
 # Article L 16
 
-Lorsque l’avis ne comporte pas de précision sur les impôts, droits et taxes ou l’indication des années ou périodes soumises à vérification, c’est l’ensemble des impôts dont le contribuable est redevable au titre de la période non prescrite, qui fait l’objet de la vérification ;
-dans ce cas, la vérification est dite «vérification générale».
+Lorsque l’avis ne comporte pas de précision sur les impôts, droits et taxes ou l’indication des années ou périodes soumises à vérification, c’est l’ensemble des impôts dont le contribuable est redevable au titre de la période non prescrite, qui fait l’objet de la vérification ; dans ce cas, la vérification est dite « vérification générale ».
 A condition de le préciser sur l’avis de vérification, l’Administration peut procéder à des vérifications partielles consistant au contrôle de l’ensemble des impôts, droits ou taxes dus au titre d’un exercice fiscal ou d’un impôt donné sur tout ou partie de la période non prescrite.
 La vérification peut néanmoins remonter sur un ou plusieurs exercices au-delà de la période prescrite lorsque ces exercices sont déficitaires, dès lors que les déficits réalisés au titre d’un exercice sont reportables et s’imputent sur les résultats bénéficiaires du premier exercice non prescrit dont ils constituent des charges.
 La vérification peut également remonter sur un ou plusieurs exercices au-delà de la période prescrite lorsque ces exercices font apparaître un crédit de Taxe sur la Valeur Ajoutée reportable sur la première déclaration de la période non prescrite.

@@ -1,3 +1,6 @@
 # Article C 17
 
-Les sociétés par actions et les sociétés à responsabilité limitée ayant pour but une entreprise patentable sont imposées sous la désignation de l’entreprise.
+(1) Les personnes qui entreprennent en cours d’année, une activité soumise à la patente, ne doivent cette contribution qu’à partir du premier jour du mois pendant lequel elles ont commencé à exercer, à moins que par sa nature, l’activité ne soit susceptible d’être exercée pendant toute l’année. Dans ce cas, la patente est due pour l’année entière quelle que soit l’époque à laquelle l’activité est entreprise.
+(2) Le chiffre d’affaires à prendre en compte pour le calcul de la patente est:
+- pour les activités nouvelles, celui déclaré au premier jour du commencement de l’activité ;
+- pour les activités datant d’un ou de plus d’un an, celui réalisé au cours de l’exercice précédent.

@@ -1,3 +1,4 @@
 # Article C 35
 
-Ne donnent pas lieu à la contribution des licences, la vente des eaux minérales, eaux gazeuses, aromatisées ou non par extraits non alcoolisés et la vente de jus de fruits frais non fermentés, lorsqu’elles sont effectuées dans un établissement distinct de celui comportant des boissons imposables.
+(1) Le paiement de la contribution des licences est indépendant de celui de la contribution des patentes ou de l’impôt général synthétique et l’imposition de l’une ne dispense pas du paiement de l’autre.
+(2) Le cumul des activités donnant lieu à contribution des licences avec un autre commerce emporte le paiement de la contribution des licences et de la contribution des patentes ou de l’impôt général synthétique applicable au second commerce.
