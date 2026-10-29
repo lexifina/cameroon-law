@@ -1,0 +1,19 @@
+The legal text comes from a publication of an institution of the Republic of Cameroon:
+
+  Loi n°96/06 du 18 janvier 1996 portant révision de la Constitution du 02 juin 1972, modifiée et complétée par la
+  loi n°2008/001 du 14 avril 2008 (Constitution de la République du Cameroun), French text, as published by the
+  Chambre des comptes de la Cour suprême du Cameroun (La_Constitution.pdf), read from the Internet Archive's copy
+  of 22 April 2024.
+
+The publisher states no licence for the text. It is an official legislative text of the Republic of Cameroon; its
+copyright status is not confirmed here, and it is reproduced with the attribution above.
+
+Changes made by Lexifina: the text was converted to one Markdown file per article, one paragraph per line; spacing,
+quotes and dashes were normalised; page numbers and the consolidation's "(nouveau)" marks were removed; article
+headings were normalised; title and chapter headings were gathered in one structure file; and the text was arranged
+as git commits. The wording of the law was not changed. Neither the Chambre des comptes nor any other institution of
+Cameroon endorses this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
