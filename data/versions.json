@@ -1,0 +1,19 @@
+{
+ "country": "CM",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution de la République du Cameroun (Loi n°96/06 du 18 janvier 1996 portant révision de la Constitution du 02 juin 1972, modifiée et complétée par la loi n°2008/001 du 14 avril 2008)",
+   "url": "https://www.prc.cm/en/cameroon/constitution",
+   "versions": [
+    {
+     "from": "2008-04-14",
+     "units": 68,
+     "source_url": "https://web.archive.org/web/20240422094215id_/https://chambredescomptes.cm/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhPV1IxWTJsbU0yRm9jSEZrTm5GMVkyeG5jV3hvY1hkbmFqVnFlZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpVVdsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWt4aFgwTnZibk4wYVhSMWRHbHZiaTV3WkdZaU95Qm1hV3hsYm1GdFpTbzlWVlJHTFRnbkoweGhYME52Ym5OMGFYUjFkR2x2Ymk1d1pHWUdPd1pVT2hGamIyNTBaVzUwWDNSNWNHVkpJaFJoY0hCc2FXTmhkR2x2Ymk5d1pHWUdPd1pVT2hGelpYSjJhV05sWDI1aGJXVTZDbXh2WTJGcyIsImV4cCI6IjIwMjQtMDQtMjJUMDk6NDc6MTUuMTc3WiIsInB1ciI6ImJsb2Jfa2V5In19--4c0d4390889e0a72ddcbc865ce5c7dd74796e817/La_Constitution.pdf",
+     "sha256": "19d8a75da671e185cc6f8a43a6aa232ec63da91146aa29336267e15508dcd26d"
+    }
+   ]
+  }
+ ]
+}
