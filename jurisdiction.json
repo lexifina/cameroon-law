@@ -4,7 +4,7 @@
   "name": "Cameroon",
   "level": "country",
   "repo": "https://github.com/lexifina/cameroon-law",
-  "build": "built: 3 selected French acts, 1 version each: Constitution (2008-04-14; not today's text because Loi n°2026/002 is omitted), Loi n°91/022 (1991-12-16), and Loi n°2001/016 (2001-07-23); the latter two are single-file official Presidency texts",
+  "build": "built: 3 selected French acts, 1 version each: Constitution (2008-04-14; not today's text because Loi n°2026/002 is omitted), Loi n°91/022 (1991-12-16), and Loi n°2001/016 (2001-07-23); the latter two are single-file texts published by the Présidence de la République du Cameroun",
   "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
   "register_date": "2026-10-28"
 }
