@@ -1,6 +1,6 @@
 # How this repository was made (Cameroon)
 
-This file is written by the build on 2026-10-29, the day the source data was retrieved.
+This file is written by the build on 2026-11-03, the day the source data was retrieved.
 
 ## Sources
 
@@ -25,7 +25,7 @@ The build made 1 commits:
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-10-29.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 2 laws in the record.
 - 1 tags.
@@ -48,7 +48,7 @@ When a law gives no date of its own, the default rule applies: Constitution art.
 
 1 versions of 1 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
-A second build from the same corpus into an empty folder gave identical hashes for all 1 history commits and 1 tags (history tip `ec837fd830ee30735241f01c266632d6805f40af`).
+No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
