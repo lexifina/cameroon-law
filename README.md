@@ -11,6 +11,10 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
 | `constitution/` | Constitution de la République du Cameroun (French) | 1 | Loi n°96/06 du 18 janvier 1996 portant révision de la Constitution du 02 juin 1972, as amended and supplemented by Loi n°2008/001 du 14 avril 2008: the title and enacting formula (`intitule.md`), the preamble, articles 1 to 69, the date and signature (`signature.md`), and the structure of titles and chapters (`structure.md`) |
+| `loi-91-022-rehabilitation/` | Loi n°91/022 du 16 décembre 1991 portant réhabilitation de certaines figures de l'histoire du Cameroun | 1 | Complete French text from the Presidency's official law page, kept as one `texte.md` file |
+| `loi-2001-016-chambres-consulaires/` | Loi n°2001/016 du 23 juillet 2001 fixant le statut des Chambres consulaires | 1 | Complete French text from the Presidency's official law page, kept as one `texte.md` file |
+
+This is a selected-acts record, not a complete collection of Cameroon's legislation. The two single-file acts preserve the official page's paragraph and line order; they are not split into separate article files.
 
 **Why the Constitution has one version.** The open copies of the 1996 law, of Loi n°2008/001 and of Loi n°2026/002, on the Presidency's site, are scanned images, and scans are not transcribed. The only copy with a real text layer is the consolidated French text published by the Chambre des comptes de la Cour suprême. So the Constitution enters the history once, on 14 April 2008, credited to that publisher as the oldest version available; its commit names Loi n°96/06 and Loi n°2008/001.
 
@@ -19,7 +23,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 - **Before 2008**: the Constitution of 1972, its 1996 revision as first enacted, and the words Loi n°2008/001 replaced.
 - **After 2008**: Loi n°2026/002 du 14 avril 2026 (constitutional amendment), a scan only.
 - **The English text.** Cameroon publishes its laws in French and English; no official English copy with a text layer was found.
-- **Other acts.** The Penal Code (Loi n°2016/007) and the personal data law (Loi n°2024/017) are published only as scans; neither is built.
+- **Most other acts.** The official listing contains many laws not yet built. In particular, the Penal Code (Loi n°2016/007) and the personal data law (Loi n°2024/017) are published only as scans; neither is built.
 
 ## A lawyer's questions as git commands
 
@@ -40,6 +44,7 @@ After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch kee
 
 - Each commit is dated at **noon, Africa/Douala, on the day the change took effect**. The day is also in the `In-force:` trailer, which the tools read.
 - **The one version is dated by the promulgation of Loi n°2008/001, 14 April 2008,** as printed in the consolidation's title. Under art. 31 of the Constitution laws are published in the Journal officiel in French and English; the Journal officiel is not openly available, so the day of publication was not found.
+- **Loi n°91/022 and Loi n°2001/016 are dated 16 December 1991 and 23 July 2001, respectively,** the promulgation dates printed in their official texts. Each text requires urgent publication but does not supply its Journal officiel publication day.
 - `--before="YYYY-MM-DD"` alone uses your clock's time of day, so a change that took effect that day may be missed before noon. Use `T23:59:59Z` as above, or the tool.
 
 ## How it is checked
@@ -50,7 +55,7 @@ After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch kee
 
 ## What "author" means
 
-The author of a commit is the law that made the change, with an e-mail address that cannot exist, so `git blame` and `git log --author` name laws. The committer is always Lexifina. Where a version is not the act as enacted, as with the Constitution here, the first commit is credited to the publisher (the Chambre des comptes de la Cour suprême) as the oldest version available. Blame credits whole lines (one paragraph per line); use `git log -p --word-diff` to see exactly which words a change made.
+The author of a commit is the law that made the change, with an e-mail address that cannot exist, so `git blame` and `git log --author` name laws. The committer is always Lexifina. Where a version is not credited as the act as enacted, its first commit is credited to its text publisher as the oldest version available: the Chambre des comptes de la Cour suprême for the Constitution, and the Présidence de la République du Cameroun for Loi n°91/022 and Loi n°2001/016. Blame credits whole lines; use `git log -p --word-diff` to see exactly which words a change made.
 
 ## What it does not show
 
@@ -58,30 +63,31 @@ The author of a commit is the law that made the change, with an e-mail address t
 - **Headings** (titres, chapitres) are not in the article files; they are gathered in `structure.md`, each line naming the article it precedes.
 - **The consolidation's "(nouveau)" marks**, which flag the provisions Loi n°2008/001 changed (arts. 6, 14, 15, 51, 53, 67), and its page numbers.
 - **Typos are kept as printed** in the article text, for example "(2 )" in art. 8 and the item "3-" printed twice in art. 26; only the heading "ARICLE 48" is normalised to "Article 48".
+- **Article-level files for the two Presidency acts.** Each is intentionally a single `texte.md` breadth record, preserving all of the official HTML law body in source order.
 - **No OCR.** Texts published only as scanned images are not included.
 
 ## How it is built
 
 Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
 
-Lexifina's code reads the consolidation's PDF through its own text layer with PyMuPDF, rebuilds paragraphs from the layout (an indented line or a line starting with an item label starts a paragraph), splits the text into one file per article and writes `corpus.json`; the shared builder `tools/build.py` turns it into the commits.
+Lexifina's code reads the Constitution consolidation's PDF through its own text layer with PyMuPDF and splits it into one file per article. The two Presidency acts are read from their complete official HTML law bodies and each retained as one file, including rendered signature line breaks.
 
 ## Sources
 
 | Source | What it gives | Used for |
 | --- | --- | --- |
 | [Chambre des comptes de la Cour suprême](https://chambredescomptes.cm) | The consolidated French text of the Constitution (Word PDF, 30 pages), as kept by the Internet Archive (copy of 22 April 2024) | The Constitution's text |
-| [Présidence de la République](https://www.prc.cm) | Laws and decrees as scanned PDFs, with their titles and dates | The title and date of Loi n°2008/001; Loi n°2026/002 (scan, not used) |
+| [Présidence de la République](https://www.prc.cm) | Official law pages and scanned PDFs | Complete French HTML text of Loi n°91/022 and Loi n°2001/016; title and date of Loi n°2008/001; Loi n°2026/002 (scan, not used) |
 | [Services du Premier Ministre](https://www.spm.gov.cm) | Decrees and appointments | Not used |
 
 Research guides that cover every country: [GlobaLex](https://www.nyulawglobal.org/globalex/) and the [Law Library of Congress Guide to Law Online](https://www.loc.gov/research-centers/law-library-of-congress/researcher-resources/guide-to-law-online/).
 
 ## Licence
 
-See [LICENSE](LICENSE). Text: the Constitution de la République du Cameroun (Loi n°96/06 as amended by Loi n°2008/001), French text as published by the Chambre des comptes de la Cour suprême; an official legislative text of the Republic of Cameroon, reproduced with that attribution. Lexifina's arrangement, messages, tables and tools are CC0.
+See [LICENSE](LICENSE). The Constitution text is attributed to the Chambre des comptes de la Cour suprême. The texts of Loi n°91/022 and Loi n°2001/016 are attributed to the Présidence de la République du Cameroun. The publishers state no licence; the copyright status of these official legislative texts is not confirmed here. Lexifina's arrangement, messages, tables and tools are CC0.
 
 This repository is not legal advice.
 
 ## En français
 
-Ce dépôt retrace l'histoire du droit camerounais dans git : un fichier par article, un commit par loi à la date de son entrée en vigueur, et la loi qui a modifié le texte comme auteur du commit. Il contient pour l'instant la Constitution de la République du Cameroun (loi n°96/06 du 18 janvier 1996 modifiée et complétée par la loi n°2008/001 du 14 avril 2008), texte français publié par la Chambre des comptes de la Cour suprême. **Ce n'est pas le texte en vigueur aujourd'hui** : la loi n°2026/002 du 14 avril 2026, publiée seulement en image numérisée, n'est pas appliquée. `python tools/en_vigueur_au.py 2020-01-01 constitution 6` affiche l'article 6 en vigueur à cette date, et `git blame constitution/art-006.md` indique la loi de chaque paragraphe. Ce dépôt ne constitue pas un conseil juridique.
+Ce dépôt retrace une sélection du droit camerounais dans git. Il contient la Constitution de la République du Cameroun (loi n°96/06 du 18 janvier 1996 modifiée et complétée par la loi n°2008/001 du 14 avril 2008), texte français publié par la Chambre des comptes de la Cour suprême, ainsi que les textes complets de la loi n°91/022 du 16 décembre 1991 et de la loi n°2001/016 du 23 juillet 2001 publiés par la Présidence de la République. Ces deux lois sont conservées chacune dans un seul fichier. **La Constitution n'est pas le texte en vigueur aujourd'hui** : la loi n°2026/002 du 14 avril 2026, publiée seulement en image numérisée, n'est pas appliquée. `python tools/en_vigueur_au.py 2020-01-01 constitution 6` affiche l'article 6 en vigueur à cette date, et `git blame constitution/art-006.md` indique la loi de chaque paragraphe. Ce dépôt ne constitue pas un conseil juridique.

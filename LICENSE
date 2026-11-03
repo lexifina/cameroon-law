@@ -5,14 +5,21 @@ The legal text comes from a publication of an institution of the Republic of Cam
   Chambre des comptes de la Cour suprême du Cameroun (La_Constitution.pdf), read from the Internet Archive's copy
   of 22 April 2024.
 
-The publisher states no licence for the text. It is an official legislative text of the Republic of Cameroon; its
-copyright status is not confirmed here, and it is reproduced with the attribution above.
+  Loi n°91/022 du 16 décembre 1991 portant réhabilitation de certaines figures de l'histoire du Cameroun,
+  French text, as published on the official law pages of the Présidence de la République du Cameroun.
+
+  Loi n°2001/016 du 23 juillet 2001 fixant le statut des Chambres consulaires, French text, as published on the
+  official law pages of the Présidence de la République du Cameroun.
+
+The publishers state no licence for these texts. They are official legislative texts of the Republic of Cameroon;
+their copyright status is not confirmed here, and they are reproduced with the attributions above.
 
 Changes made by Lexifina: the text was converted to one Markdown file per article, one paragraph per line; spacing,
 quotes and dashes were normalised; page numbers and the consolidation's "(nouveau)" marks were removed; article
-headings were normalised; title and chapter headings were gathered in one structure file; and the text was arranged
-as git commits. The wording of the law was not changed. Neither the Chambre des comptes nor any other institution of
-Cameroon endorses this repository.
+headings were normalised; title and chapter headings were gathered in one structure file; the two Presidency HTML
+texts were each retained as one file with source paragraph and rendered line boundaries; and the text was arranged
+as git commits. The wording of the laws was not changed. Neither the Chambre des comptes, the Présidence de la
+République nor any other institution of Cameroon endorses this repository.
 
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
 dedicated to the public domain under CC0 1.0 Universal:

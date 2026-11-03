@@ -4,7 +4,7 @@
   "name": "Cameroon",
   "level": "country",
   "repo": "https://github.com/lexifina/cameroon-law",
-  "build": "built: Constitution de la République du Cameroun, French (1 version, 2008-04-14: Loi n°96/06 as amended by Loi n°2008/001); not today's text (Loi n°2026/002 of 14 April 2026 is published only as a scan)",
+  "build": "built: 3 selected French acts, 1 version each: Constitution (2008-04-14; not today's text because Loi n°2026/002 is omitted), Loi n°91/022 (1991-12-16), and Loi n°2001/016 (2001-07-23); the latter two are single-file official Presidency texts",
   "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
   "register_date": "2026-10-28"
 }
