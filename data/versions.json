@@ -14,6 +14,34 @@
      "sha256": "19d8a75da671e185cc6f8a43a6aa232ec63da91146aa29336267e15508dcd26d"
     }
    ]
+  },
+  {
+   "slug": "loi-91-022-rehabilitation",
+   "short": "Loi n°91/022",
+   "title": "Loi n°91/022 du 16 décembre 1991 portant réhabilitation de certaines figures de l'histoire du Cameroun",
+   "url": "https://www.prc.cm/fr/actualites/actes/lois/1317-loi-n-91-022-du-16-decembre-1991-portant-rehabilitation-de-certaines-figures-de-l-histoire-du-cameroun",
+   "versions": [
+    {
+     "from": "1991-12-16",
+     "units": 1,
+     "source_url": "https://www.prc.cm/fr/actualites/actes/lois/1317-loi-n-91-022-du-16-decembre-1991-portant-rehabilitation-de-certaines-figures-de-l-histoire-du-cameroun",
+     "sha256": "f0e2e17b33a3b6b75593059bccf0dba47d0c52a95e0ac58b50cc65cee53639d1"
+    }
+   ]
+  },
+  {
+   "slug": "loi-2001-016-chambres-consulaires",
+   "short": "Loi n°2001/016",
+   "title": "Loi n° 2001/016 du 23 juillet 2001 fixant le statut des Chambres consulaires",
+   "url": "https://www.prc.cm/fr/actualites/actes/lois/193-loi-n-2001-016-du-23-juillet-2001-fixant-le-statut-des-chambres-consulaires",
+   "versions": [
+    {
+     "from": "2001-07-23",
+     "units": 1,
+     "source_url": "https://www.prc.cm/fr/actualites/actes/lois/193-loi-n-2001-016-du-23-juillet-2001-fixant-le-statut-des-chambres-consulaires",
+     "sha256": "6ca0b5eb2b013819e6598b0decccea4af7e96d76b8dbce35a98044370a4c02fd"
+    }
+   ]
   }
  ]
 }

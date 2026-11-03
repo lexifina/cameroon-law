@@ -1,4 +1,12 @@
 {
- "parts": {},
+ "parts": {
+  "10-q373-html.json": {
+   "acts": [
+    "loi-2001-016-chambres-consulaires",
+    "loi-91-022-rehabilitation"
+   ],
+   "sha256": "af68d81a8ed33048081c3598f92ef2bfba5bfadc5fbadebf136eed2468bc1444"
+  }
+ },
  "schema": 1
 }
