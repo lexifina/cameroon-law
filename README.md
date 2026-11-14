@@ -1,95 +1,93 @@
 # Cameroon: law history in git
 
+
+The law of Cameroon as a git history: one file per article (the two laws here are one file each), each version committed on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Cameroon's national law, which global-law reads at `cameroon/national/acts/`.
 
-The law of Cameroon as a git history. Each provision is one file, each law gets one commit on the day it took effect, and the law that made each change is the commit's author. `git blame` names the law behind every paragraph, `git log` lists every change to an article, and `tools/en_vigueur_au.py` gives the text in force on any day.
+**What is in it now:** three acts, one version each: the Constitution (Loi n°96/06 of 18 January 1996 revising the Constitution of 2 June 1972, as amended by Loi n°2008/001 of 14 April 2008), in force from 14 April 2008, with the preamble and 69 articles; Loi n°91/022 of 16 December 1991, rehabilitating certain figures of Cameroon's history; and Loi n°2001/016 of 23 July 2001, on the status of the Chambres consulaires. [`constitution/README.md`](constitution/README.md) lists every provision.
 
-It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `cm/`.
+**Not today's text.** Loi n°2026/002 of 14 April 2026 amended the Constitution again and is not applied (see [What it does not show](#what-it-does-not-show)), so for any day after 14 April 2008 this record gives the 2008 text.
 
-> **Not today's text.** The Constitution here is the text of 1996 as amended in 2008. Loi n°2026/002 du 14 avril 2026 amended the Constitution again, but it is published only as a scanned image, so it is not applied (see below). This record ends with the 2008 text: for any later date it shows that text, not the Constitution as amended in 2026.
+Each article of the Constitution is one file in `constitution/` (`art-006.md` is Article 6, the election and term of the President); the preamble is `preambule.md`, and [`constitution/structure.md`](constitution/structure.md) names the article each title and chapter heading precedes. Each of the two laws is one file, `texte.md`, in its own folder (`loi-91-022-rehabilitation/`, `loi-2001-016-chambres-consulaires/`), in the official page's paragraph order.
 
-**What is in it now**
+The text is in French, as its publishers print it. Cameroon publishes its laws in French and English; the English text is not part of this record.
 
-| Folder | Act | Versions | History |
-| --- | --- | ---: | --- |
-| `constitution/` | Constitution de la République du Cameroun (French) | 1 | Loi n°96/06 du 18 janvier 1996 portant révision de la Constitution du 02 juin 1972, as amended and supplemented by Loi n°2008/001 du 14 avril 2008: the title and enacting formula (`intitule.md`), the preamble, articles 1 to 69, the date and signature (`signature.md`), and the structure of titles and chapters (`structure.md`) |
-| `loi-91-022-rehabilitation/` | Loi n°91/022 du 16 décembre 1991 portant réhabilitation de certaines figures de l'histoire du Cameroun | 1 | Complete French text from the Presidency's official law page, kept as one `texte.md` file |
-| `loi-2001-016-chambres-consulaires/` | Loi n°2001/016 du 23 juillet 2001 fixant le statut des Chambres consulaires | 1 | Complete French text from the Presidency's official law page, kept as one `texte.md` file |
-
-This is a selected-acts record, not a complete collection of Cameroon's legislation. The two single-file acts preserve the official page's paragraph and line order; they are not split into separate article files.
-
-**Why the Constitution has one version.** The open copies of the 1996 law, of Loi n°2008/001 and of Loi n°2026/002, on the Presidency's site, are scanned images, and scans are not transcribed. The only copy with a real text layer is the consolidated French text published by the Chambre des comptes de la Cour suprême. So the Constitution enters the history once, on 14 April 2008, credited to that publisher as the oldest version available; its commit names Loi n°96/06 and Loi n°2008/001.
-
-**What is missing**
-
-- **Before 2008**: the Constitution of 1972, its 1996 revision as first enacted, and the words Loi n°2008/001 replaced.
-- **After 2008**: Loi n°2026/002 du 14 avril 2026 (constitutional amendment), a scan only.
-- **The English text.** Cameroon publishes its laws in French and English; no official English copy with a text layer was found.
-- **Most other acts.** The official listing contains many laws not yet built. In particular, the Penal Code (Loi n°2016/007) and the personal data law (Loi n°2024/017) are published only as scans; neither is built.
-
-## A lawyer's questions as git commands
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did art. 6 say on 1 January 2020? | `python tools/en_vigueur_au.py 2020-01-01 constitution 6` |
-| The same, with raw git (bash) | `git show $(git rev-list -1 --before="2020-01-01T23:59:59Z" HEAD -- constitution/art-006.md):constitution/art-006.md` |
-| The same, in PowerShell | `$r = git rev-list -1 --before="2020-01-01T23:59:59Z" HEAD -- constitution/art-006.md; git show "$($r):constitution/art-006.md"` |
-| Which law wrote each paragraph of art. 6? | `git blame constitution/art-006.md` |
-| Every change to an article, word by word | `git log -p --word-diff constitution/art-006.md` |
-| Every law in the record, in order | `git log --reverse --format="%ad %an" --date=short` |
-| The whole Constitution on a date | `python tools/en_vigueur_au.py 2020-01-01 constitution` |
-| Where an article sits (title, chapter) | `constitution/structure.md` |
+| Every change to Article 6 of the Constitution (the President's term) | `git log -p --word-diff -- constitution/art-006.md` |
+| Which law wrote each line of Article 6? | `git blame constitution/art-006.md` |
+| Every version of Article 6, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitution/art-006.md` |
+| Article 6 as in force on 1 January 2020 | `python tools/en_vigueur_au.py 2020-01-01 constitution 6` |
 
-After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
+**Outside git**, we also host this record publicly, for free:
+
+- **[Ask Claude about Cameroonian law](https://global-law.lexifina.com/v1/try_claude?country=cameroon)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=cameroon)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=droit+de+gr%C3%A8ve&jurisdictions=cameroon)**: a search of Cameroonian law for "droit de grève" (the right to strike), returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in French or in English.
+
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add cameroon/national/acts
+python3 tools/law.py show 2026-01-01 cameroon/national/acts/constitution/art-006.md
+```
+
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
-- Each commit is dated at **noon, Africa/Douala, on the day the change took effect**. The day is also in the `In-force:` trailer, which the tools read.
-- **The one version is dated by the promulgation of Loi n°2008/001, 14 April 2008,** as printed in the consolidation's title. Under art. 31 of the Constitution laws are published in the Journal officiel in French and English; the Journal officiel is not openly available, so the day of publication was not found.
-- **Loi n°91/022 and Loi n°2001/016 are dated 16 December 1991 and 23 July 2001, respectively,** the promulgation dates printed in their official texts. Each text requires urgent publication but does not supply its Journal officiel publication day.
-- `--before="YYYY-MM-DD"` alone uses your clock's time of day, so a change that took effect that day may be missed before noon. Use `T23:59:59Z` as above, or the tool.
+Each commit is dated at noon, Africa/Douala, on the day the version took effect, and carries it in its `In-force:` trailer:
+
+- the Constitution: 14 April 2008, the promulgation of Loi n°2008/001, as the consolidation's title prints it;
+- Loi n°91/022 and Loi n°2001/016: 16 December 1991 and 23 July 2001, the promulgation dates their texts print;
+- laws are published in the Journal officiel in French and English (article 31 of the Constitution), but the Journal officiel is not openly available, so no day of publication was found.
+
+Each first commit is credited to its publisher as the oldest version available, and names the laws that produced the text: the Chambre des comptes de la Cour suprême for the Constitution (Loi n°96/06 and Loi n°2008/001), the Présidence de la République for the two laws. The committer is always Lexifina.
 
 ## How it is checked
 
-- Every version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`); both must match `corpus.json`. Results are in `REPRODUCE.md`.
-- The repository is rebuilt from the same data a second time and must give identical hashes.
-- The text is read from the PDF's own text layer (the file was made with Word, not scanned). Every article was compared, character for character with spacing ignored, with a second, independent extraction of the same PDF (pdftotext): every character of every file is in the PDF in the same place, and the only text the PDF has besides the files is page numbers, the article and title headings, and the "(nouveau)" marks.
-
-## What "author" means
-
-The author of a commit is the law that made the change, with an e-mail address that cannot exist, so `git blame` and `git log --author` name laws. The committer is always Lexifina. Where a version is not credited as the act as enacted, its first commit is credited to its text publisher as the oldest version available: the Chambre des comptes de la Cour suprême for the Constitution, and the Présidence de la République du Cameroun for Loi n°91/022 and Loi n°2001/016. Blame credits whole lines; use `git log -p --word-diff` to see exactly which words a change made.
+- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and both must match the corpus the history was built from; it also checks that every commit's trailers parse and that there are no merge commits.
+- `tools/build.py` writes the history from that corpus in one pass; a second build into an empty folder gave identical hashes. New acts are appended on top of `main` by `tools/append.py`, which rewrites nothing. The results are in [`REPRODUCE.md`](REPRODUCE.md), and [`data/corpus.sha256`](data/corpus.sha256) gives the corpus's hash.
+- The Constitution is the PDF's own text layer (the file was made with Word, not scanned), compared character by character with a second, independent extraction; the two laws' official HTML texts were read by two independent parsers, and every line matched.
 
 ## What it does not show
 
-- **The Constitution before 2008 and after 2008** (see above).
-- **Headings** (titres, chapitres) are not in the article files; they are gathered in `structure.md`, each line naming the article it precedes.
-- **The consolidation's "(nouveau)" marks**, which flag the provisions Loi n°2008/001 changed (arts. 6, 14, 15, 51, 53, 67), and its page numbers.
-- **Typos are kept as printed** in the article text, for example "(2 )" in art. 8 and the item "3-" printed twice in art. 26; only the heading "ARICLE 48" is normalised to "Article 48".
-- **Article-level files for the two Presidency acts.** Each is intentionally a single `texte.md` breadth record, preserving all of the official HTML law body in source order.
-- **No OCR.** Texts published only as scanned images are not included.
-
-## How it is built
-
-Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
-
-Lexifina's code reads the Constitution consolidation's PDF through its own text layer with PyMuPDF and splits it into one file per article. The two Presidency acts are read from their complete official HTML law bodies and each retained as one file, including rendered signature line breaks.
+- **The Constitution in force today.** Loi n°2026/002 of 14 April 2026 amended it, but it is published only as a scan, and scans are not transcribed.
+- **The Constitution before 2008**: the Constitution of 1972, its 1996 revision as enacted and the words Loi n°2008/001 replaced; the Presidency's copies of both laws are scans.
+- **The English text**, of equal standing with the French (article 1): no official English copy with a text layer was found.
+- **Most other laws.** The Presidency's official list has 213 entries (checked 2026-11-03); for most it gives only an image or a PDF, and those checked are scans, among them the Penal Code (Loi n°2016/007) and the personal data law (Loi n°2024/017).
+- **Headings and marks.** Title and chapter headings are in `structure.md`, not in the article files; the consolidation's "(nouveau)" marks, which flag the provisions Loi n°2008/001 changed, and its page numbers are left out. Typos are kept as printed.
 
 ## Sources
 
-| Source | What it gives | Used for |
-| --- | --- | --- |
-| [Chambre des comptes de la Cour suprême](https://chambredescomptes.cm) | The consolidated French text of the Constitution (Word PDF, 30 pages), as kept by the Internet Archive (copy of 22 April 2024) | The Constitution's text |
-| [Présidence de la République](https://www.prc.cm) | Official law pages and scanned PDFs | Complete French HTML text of Loi n°91/022 and Loi n°2001/016; title and date of Loi n°2008/001; Loi n°2026/002 (scan, not used) |
-| [Services du Premier Ministre](https://www.spm.gov.cm) | Decrees and appointments | Not used |
-
-Research guides that cover every country: [GlobaLex](https://www.nyulawglobal.org/globalex/) and the [Law Library of Congress Guide to Law Online](https://www.loc.gov/research-centers/law-library-of-congress/researcher-resources/guide-to-law-online/).
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Chambre des comptes de la Cour suprême](https://chambredescomptes.cm) | The consolidated French text of the Constitution, a Word PDF of 30 pages, as kept by the Internet Archive on 22 April 2024 | no, the 2008 text only | The Constitution's text and its date |
+| [Présidence de la République](https://www.prc.cm/fr/actualites/actes/lois) | Official law pages: HTML texts and scanned PDFs | no, each text as published | The texts and dates of Loi n°91/022 and Loi n°2001/016, and the title and date of Loi n°2008/001; Loi n°2026/002 is a scan, not used |
 
 ## Licence
 
-See [LICENSE](LICENSE). The Constitution text is attributed to the Chambre des comptes de la Cour suprême. The texts of Loi n°91/022 and Loi n°2001/016 are attributed to the Présidence de la République du Cameroun. The publishers state no licence; the copyright status of these official legislative texts is not confirmed here. Lexifina's arrangement, messages, tables and tools are CC0.
+See [`LICENSE`](LICENSE). The texts are official legislative texts of the Republic of Cameroon, reproduced with attribution to the Chambre des comptes de la Cour suprême (the Constitution) and the Présidence de la République (the two laws); the publishers state no licence, and their copyright status is not confirmed here. The history, commit messages, tables and tools are CC0 1.0.
 
-This repository is not legal advice.
+No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## En français
 
-Ce dépôt retrace une sélection du droit camerounais dans git. Il contient la Constitution de la République du Cameroun (loi n°96/06 du 18 janvier 1996 modifiée et complétée par la loi n°2008/001 du 14 avril 2008), texte français publié par la Chambre des comptes de la Cour suprême, ainsi que les textes complets de la loi n°91/022 du 16 décembre 1991 et de la loi n°2001/016 du 23 juillet 2001 publiés par la Présidence de la République. Ces deux lois sont conservées chacune dans un seul fichier. **La Constitution n'est pas le texte en vigueur aujourd'hui** : la loi n°2026/002 du 14 avril 2026, publiée seulement en image numérisée, n'est pas appliquée. `python tools/en_vigueur_au.py 2020-01-01 constitution 6` affiche l'article 6 en vigueur à cette date, et `git blame constitution/art-006.md` indique la loi de chaque paragraphe. Ce dépôt ne constitue pas un conseil juridique.
+L'histoire du droit camerounais dans git : un fichier par article, chaque version enregistrée au jour de son entrée en vigueur, avec pour auteur la loi qui a modifié le texte. Le dépôt contient trois textes en français, chacun en une version : la Constitution (loi n°96/06 du 18 janvier 1996 modifiée et complétée par la loi n°2008/001 du 14 avril 2008), publiée par la Chambre des comptes de la Cour suprême, et les lois n°91/022 du 16 décembre 1991 et n°2001/016 du 23 juillet 2001, publiées par la Présidence de la République, chacune en un seul fichier. **Ce n'est pas la Constitution en vigueur aujourd'hui** : la loi n°2026/002 du 14 avril 2026, publiée seulement en image numérisée, n'est pas appliquée. Texte en vigueur à une date : `python tools/en_vigueur_au.py 2020-01-01 constitution 6`.
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
