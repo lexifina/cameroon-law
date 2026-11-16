@@ -62,6 +62,7 @@ Each first commit is credited to its publisher as the oldest version available, 
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and both must match the corpus the history was built from; it also checks that every commit's trailers parse and that there are no merge commits.
 - `tools/build.py` writes the history from that corpus in one pass; a second build into an empty folder gave identical hashes. New acts are appended on top of `main` by `tools/append.py`, which rewrites nothing. The results are in [`REPRODUCE.md`](REPRODUCE.md), and [`data/corpus.sha256`](data/corpus.sha256) gives the corpus's hash.
 - The Constitution is the PDF's own text layer (the file was made with Word, not scanned), compared character by character with a second, independent extraction; the two laws' official HTML texts were read by two independent parsers, and every line matched.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -83,6 +84,10 @@ Each first commit is credited to its publisher as the oldest version available, 
 See [`LICENSE`](LICENSE). The texts are official legislative texts of the Republic of Cameroon, reproduced with attribution to the Chambre des comptes de la Cour suprême (the Constitution) and the Présidence de la République (the two laws); the publishers state no licence, and their copyright status is not confirmed here. The history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 

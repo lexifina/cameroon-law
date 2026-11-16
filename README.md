@@ -62,6 +62,7 @@ Chaque premier commit est attribué à son éditeur en tant que plus ancienne ve
 - `tools/check_repo.py` relit chaque version depuis git au jour de son entrée en vigueur et la veille, et les deux doivent correspondre au corpus à partir duquel l’historique a été construit ; il vérifie aussi que les trailers de chaque commit se lisent sans erreur et qu’il n’existe aucun commit de fusion.
 - `tools/build.py` écrit l’historique à partir de ce corpus en une seule passe ; une seconde construction dans un dossier vide a donné des empreintes identiques. Les nouveaux textes sont ajoutés au-dessus de `main` par `tools/append.py`, qui ne réécrit rien. Les résultats figurent dans [`REPRODUCE.md`](REPRODUCE.md), et [`data/corpus.sha256`](data/corpus.sha256) donne l’empreinte du corpus.
 - La Constitution est la couche texte propre au PDF (le fichier a été produit avec Word, et non numérisé), comparée caractère par caractère avec une seconde extraction indépendante ; les textes HTML officiels des deux lois ont été lus par deux analyseurs indépendants, et chaque ligne concordait.
+- [vulnerabilities/](vulnerabilities/): erreurs de rédaction possibles dans ce droit, trouvées par les détecteurs de global-law et vérifiées à la main. Pas encore lancé.
 
 ## Ce qu’il ne montre pas
 
@@ -85,6 +86,10 @@ Voir [`LICENSE`](LICENSE). Les textes sont des textes législatifs officiels de 
 Aucun modèle d’IA n’a écrit, traduit ou corrigé de texte juridique, et aucun n’est exécuté lors de la construction de l’historique ; les scripts ont été écrits par un modèle d’IA (voir [`REPRODUCE.md`](REPRODUCE.md)).
 
 Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
+
+## Visualisations
+
+- [visualisations/](visualisations/): graphiques tirés de ce dépôt. Pas encore dessinés.
 
 ## En savoir plus
 
