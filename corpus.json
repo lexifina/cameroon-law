@@ -961,6 +961,28 @@
    "articles": 23
   },
   {
+   "id": "arretes/2020/043-pm-portant-creation-organisation-et-fonctionnement-d",
+   "kind": "arrete",
+   "number": "043/PM",
+   "date": "2020-04-22",
+   "title": "ARRETE N° 043/PM DU 22 AVR 2020 Portant création, organisation et fonctionnement d'une Commission Spéciale des Contrats de Partenariat pour le projet de financement, de conception, de construction, d'exploitation, d'équipement et de maintenance du",
+   "source": "https://www.spm.gov.cm/site/?q=fr/content/arrete-n%C2%B0-043pm-du-22-avr-2020-portant-cr%C3%A9ation-organisation-et-fonctionnement-dune",
+   "file": "https://www.spm.gov.cm/site/sites/default/files/arrete_ndeg_043_pm.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "arretes/2020/046-pm-portant-creation-organisation-et-fonctionnement",
+   "kind": "arrete",
+   "number": "046/CAB/PM",
+   "date": "2020-05-08",
+   "title": "ARRÊTE N° 046/CAB/PM du 08 MAI 2020 Portant création, organisation et fonctionnement du Comité de Pilotage des Projets exécutés sur financement du Fonds de Consolidation de la Paix des Nations Unies",
+   "source": "https://www.spm.gov.cm/site/?q=fr/content/arr%C3%AAte-n%C2%B0-046cabpm-du-08-mai-2020-portant-cr%C3%A9ation-organisation-et-fonctionnement-du-comit%C3%A9",
+   "file": "https://www.spm.gov.cm/site/sites/default/files/arrete_ndeg_046_cab_pm.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 11
+  },
+  {
    "id": "arretes/2020/051-pm-portant-mise-en-place-du-centre-de-coordination",
    "kind": "arrete",
    "number": "051/PM",
@@ -1040,13 +1062,13 @@
   {
    "id": "codes/code-minier",
    "kind": "loi",
-   "number": "001",
-   "date": "2001-04-16",
-   "title": "Loi n° 001 du 16 avril 2001 portant code minier",
-   "source": "https://faolex.fao.org/en/documents/LEX-FAOC039391/loi-n-001-portant-code-minier-cmr-2001",
-   "file": "https://faolex.fao.org/docs/pdf/cmr39391.pdf",
-   "text_layer": "born-digital",
-   "articles": 116
+   "number": "2023-014",
+   "date": "2023-12-19",
+   "title": "Loi n° 2023-014 du 19 décembre 2023 portant Code minier",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC223180/loi-n-2023-014-du-19-decembre-2023-portant-code-minier-cmr-2023",
+   "file": "https://faolex.fao.org/docs/pdf/cmr223180.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 162
   },
   {
    "id": "codes/code-penal",
@@ -1062,13 +1084,13 @@
   {
    "id": "codes/code-petrolier",
    "kind": "loi",
-   "number": "99/13",
-   "date": "1999-12-22",
-   "title": "Loi n° 99/13 du 22 décembre 1999 portant code pétrolier",
-   "source": "https://faolex.fao.org/en/documents/LEX-FAOC050031/loi-n-99-13-portant-code-petrolier-cmr-1999",
-   "file": "https://faolex.fao.org/docs/pdf/cmr50031.pdf",
-   "text_layer": "born-digital",
-   "articles": 124
+   "number": "2019/008",
+   "date": "2019-04-25",
+   "title": "Loi n. 2019/008 du 25 Avril 2019 portant Code Pétrolier",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC219159/loi-n-2019-008-du-25-avril-2019-portant-code-petrolier-cmr-2019",
+   "file": "https://faolex.fao.org/docs/pdf/cmr219159.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 106
   },
   {
    "id": "decisions/1992/0052-fixant-les-conditions-d-importation-des-viandes",
@@ -2983,6 +3005,28 @@
    "file": "https://faolex.fao.org/docs/pdf/cmr240485.pdf",
    "text_layer": "publisher-ocr",
    "articles": 2
+  },
+  {
+   "id": "decrets/2020/2020-2233-pm-portant-reorganisation-et-fonctionnement-du",
+   "kind": "decret",
+   "number": "2020/2233/PM",
+   "date": "2020-06-01",
+   "title": "DECRET n° 2020/2233/PM du 01 JUIN 2020 portant réorganisation et fonctionnement du compte d'affectation spéciale pour la production des documents de transport sécurisés",
+   "source": "https://www.spm.gov.cm/site/?q=fr/content/decret-n%C2%B0-20202233pm-du-01-juin-2020-portant-r%C3%A9organisation-et-fonctionnement-du-compte",
+   "file": "https://www.spm.gov.cm/site/sites/default/files/dpm_2020_2233.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 27
+  },
+  {
+   "id": "decrets/2020/2020-2592-pm-fixant-les-modalites-de-creation-d-organisation",
+   "kind": "decret",
+   "number": "2020/2592/CAB/PM",
+   "date": "2020-06-19",
+   "title": "DÉCRET N° 2020/2592/CAB/PM DU 19 Juin 2020 fixant les modalités de création, d'organisation et de fonctionnement des centres de formation professionnelle et d'apprentissage",
+   "source": "https://www.spm.gov.cm/site/?q=fr/content/d%C3%A9cret-n%C2%B0-20202592cabpm-du-19-juin-2020-fixant-les-modalit%C3%A9s-de-cr%C3%A9ation-dorganisation-et-de",
+   "file": "https://www.spm.gov.cm/site/sites/default/files/decret_ndeg_2020_2592.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 46
   },
   {
    "id": "decrets/2020/2020-749-portant-creation-de-la-societe-nationale-des-mines",
