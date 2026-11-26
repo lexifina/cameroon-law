@@ -21,6 +21,21 @@ texts were each retained as one file with source paragraph and rendered line bou
 as git commits. The wording of the laws was not changed. Neither the Chambre des comptes, the Présidence de la
 République nor any other institution of Cameroon endorses this repository.
 
+Further texts (added 2026-11-26 onwards; each act's README.md and commit trailers name its source):
+
+  Services du Premier Ministre du Cameroun (spm.gov.cm), "Lois et Règlements": official HTML texts and PDFs. No licence
+  stated; official legislative and regulatory texts.
+
+  FAOLEX, the FAO legal database (faolex.fao.org): copies of Cameroonian legislation. FAO terms: reuse for
+  non-commercial purposes with acknowledgement of FAO as the source (https://www.fao.org/contact-us/terms/en/).
+  Source: FAOLEX, Food and Agriculture Organization of the United Nations.
+
+  WIPO Lex (wipo.int/wipolex): copies of Cameroonian laws, World Intellectual Property Organization; terms of use
+  https://www.wipo.int/tools/en/disclaim.html.
+
+  Under the Bangui Agreement (OAPI), Annex VII, article 6, official texts of a legislative, administrative or
+  judicial nature are not protected by copyright.
+
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
 dedicated to the public domain under CC0 1.0 Universal:
 https://creativecommons.org/publicdomain/zero/1.0/legalcode

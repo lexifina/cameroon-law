@@ -81,3 +81,7 @@ The commit messages are written by `build.py` from the source data.
 Model use at data-build time:
 - none at data-build time
 - Codex GPT-5 orchestrated deterministic extraction and checks; no model generated or corrected law text.
+
+## Runner (2026-11-26 onwards)
+
+New acts are added by `scripts/cameroon-law/runner/cm_build.py` (Lexifina's private tooling): it reads the Prime Minister's "Lois et Règlements" listing (50 pages), the FAOLEX records for Cameroon (from FAOLEX's public sitemaps), WIPO Lex records, and the Hugging Face `endomorphosis/ipfs_cameroon_laws` dataset as a list of official URLs only; fetches each text from its source at about one request per second per host; keeps HTML text or a PDF's own text layer (no OCR of our own; publisher OCR layers only when they read as clean text); splits it one file per article; and commits one version per act at noon Africa/Douala on the date of the text, with `In-force`, `In-force-basis`, `Source` and, for copies, `Source-status` trailers. Commits are appended on top of `main` and pushed fast-forward. `corpus.json` lists every act.
