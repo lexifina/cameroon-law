@@ -1,0 +1,106 @@
+{
+ "corpus": "cm/national/acts",
+ "jurisdiction": "Cameroon",
+ "generated_from": "runner state",
+ "acts": [
+  {
+   "id": "codes/code-de-la-marine-marchande",
+   "kind": "ordonnance",
+   "number": "62/OF/30",
+   "date": "1962-03-31",
+   "title": "Ordonnance n° 62/OF/30 du 31 mars 1962 portant Code de la marine marchande. (Extraits)",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC004386/ordonnance-n-62-of-30-portant-code-de-la-marine-marchande-ex-cmr-1962",
+   "file": "https://faolex.fao.org/docs/pdf/cmr4386.pdf",
+   "text_layer": "born-digital",
+   "articles": 26
+  },
+  {
+   "id": "codes/code-de-procedure-penale",
+   "kind": "loi",
+   "number": "2005/007",
+   "date": "2005-07-27",
+   "title": "Loi n° 2005/007 du 27 juillet 2005 portant Code de procédure pénale",
+   "source": "https://www.spm.gov.cm/site/?q=fr/content/loi-n%C2%B0-2005007-du-27-juillet-2005-portant-code-de-proc%C3%A9dure-p%C3%A9nale-livre-deuxi%C3%A8me-1%C3%A8re",
+   "file": "https://www.spm.gov.cm/site/?q=fr/content/loi-n%C2%B0-2005007-du-27-juillet-2005-portant-code-de-proc%C3%A9dure-p%C3%A9nale-livre-deuxi%C3%A8me-1%C3%A8re",
+   "text_layer": "html",
+   "articles": 612
+  },
+  {
+   "id": "codes/code-du-travail",
+   "kind": "loi",
+   "number": "92-007",
+   "date": "1992-08-14",
+   "title": "Loi n° 92-007 du 14 août 1992 portant Code du Travail",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC198304/loi-n-92-007-du-14-aout-1992-portant-code-du-travail-cmr-1992",
+   "file": "https://faolex.fao.org/docs/pdf/cmr198304.pdf",
+   "text_layer": "born-digital",
+   "articles": 176
+  },
+  {
+   "id": "codes/code-gazier",
+   "kind": "loi",
+   "number": "2002-013",
+   "date": "2002-12-30",
+   "title": "Loi n° 2002-013 du 30 décembre 2002 portant code gazier",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC078299/loi-n-2002-013-portant-code-gazier-cmr-2002",
+   "file": "https://faolex.fao.org/docs/pdf/cmr78299.pdf",
+   "text_layer": "born-digital",
+   "articles": 61
+  },
+  {
+   "id": "codes/code-minier",
+   "kind": "loi",
+   "number": "001",
+   "date": "2001-04-16",
+   "title": "Loi n° 001 du 16 avril 2001 portant code minier",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC039391/loi-n-001-portant-code-minier-cmr-2001",
+   "file": "https://faolex.fao.org/docs/pdf/cmr39391.pdf",
+   "text_layer": "born-digital",
+   "articles": 116
+  },
+  {
+   "id": "codes/code-penal",
+   "kind": "loi",
+   "number": "2016/007",
+   "date": "2016-07-12",
+   "title": "Loi nº 2016/007 du 12 juil 2016 portant Code Penal",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC209758/loi-n-2016-007-du-12-juil-2016-portant-code-penal-cmr-2016",
+   "file": "https://faolex.fao.org/docs/pdf/cmr209758.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 361
+  },
+  {
+   "id": "codes/code-petrolier",
+   "kind": "loi",
+   "number": "99/13",
+   "date": "1999-12-22",
+   "title": "Loi n° 99/13 du 22 décembre 1999 portant code pétrolier",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC050031/loi-n-99-13-portant-code-petrolier-cmr-1999",
+   "file": "https://faolex.fao.org/docs/pdf/cmr50031.pdf",
+   "text_layer": "born-digital",
+   "articles": 124
+  },
+  {
+   "id": "decrets/2000/2000-465-d-application-du-code-petrolier",
+   "kind": "decret",
+   "number": "2000/465",
+   "date": "2000-06-30",
+   "title": "Décret n° 2000/465 du 30 juin 2000 d'application du code pétrolier",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC078298/decret-n-2000-465-d-application-du-code-petrolier-cmr-2000",
+   "file": "https://faolex.fao.org/docs/pdf/cmr78298.pdf",
+   "text_layer": "born-digital",
+   "articles": 121
+  },
+  {
+   "id": "decrets/2018/2018-366-portant-code-des-marches-publics",
+   "kind": "decret",
+   "number": "2018/366",
+   "date": "2018-06-20",
+   "title": "Décret n 2018/366 du 20 juin 2018 portant Code des Marchés Publics",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC230638/decret-n-2018-366-du-20-juin-2018-portant-code-des-marches-p-cmr-2018",
+   "file": "https://faolex.fao.org/docs/pdf/cmr230638.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 169
+  }
+ ]
+}
