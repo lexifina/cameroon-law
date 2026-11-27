@@ -4140,6 +4140,17 @@
    "articles": 48
   },
   {
+   "id": "lois/1999/99-016-portant-statut-general-des-etablissements-publics",
+   "kind": "loi",
+   "number": "99/016",
+   "date": "1999-12-22",
+   "title": "LOI N° 99/016 DU 22 DECEMBRE 1999 PORTANT STATUT GENERAL DES ETABLISSEMENTS PUBLICS ET DES ENTREPRISES DU SECTEUR PUBLIC ET PARAPUBLIC",
+   "source": "https://www.coursupreme.cm/publication/detail/textes-et-lois/loi-n°-99016-du-22-decembre-1999-portant-statut-general-des-etablissements-publics-et-des-entreprises-du-secteur-public-et-parapublic",
+   "file": "https://www.coursupreme.cm/images/webcsc_medias/files/Loi_n°_99-016_du_22_decembre_1999_statut_general_des_ets_et_eises_du_public.pdf",
+   "text_layer": "born-digital",
+   "articles": 114
+  },
+  {
    "id": "lois/1999/99-017-regissant-le-controle-de-qualite-des-sols-des",
    "kind": "loi",
    "number": "99/017",
@@ -4237,6 +4248,17 @@
    "file": "https://faolex.fao.org/docs/pdf/cmr50036.pdf",
    "text_layer": "born-digital",
    "articles": 39
+  },
+  {
+   "id": "lois/2003/2003-005-fixant-les-attributions-lorganisation-et-le",
+   "kind": "loi",
+   "number": "2003/005",
+   "date": "2003-04-21",
+   "title": "LOI N° 2003/005 DU 21 AVRIL 2003 FIXANT LES ATTRIBUTIONS, L’ORGANISATION ET LE FONCTIONNEMENT DE LA CHAMBRE DES COMPTES DE LA COUR SUPREME",
+   "source": "https://www.coursupreme.cm/publication/detail/textes-et-lois/loi-n°-2003005-du-21-avril-2003-fixant-les-attributions-l’organisation-et-le-fonctionnement-de-la-chambre-des-comptes-de-la-cour-supreme",
+   "file": "https://www.coursupreme.cm/images/webcsc_medias/files/Loi_n°_2003-005_du_21_Avril_2003_fixant_les_attributions_l_organisation_et_le_fonctionnement_de_la_Chambre_des_Comptes_de_la_Cour_Suprême.pdf",
+   "text_layer": "born-digital",
+   "articles": 81
   },
   {
    "id": "lois/2003/2003-007-regissant-les-activites-du-sous-secteur-engrais",
@@ -4413,6 +4435,39 @@
    "file": "https://faolex.fao.org/docs/pdf/cmr184490.pdf",
    "text_layer": "born-digital",
    "articles": 22
+  },
+  {
+   "id": "lois/2006/2006-015-portant-organisation-judiciaire",
+   "kind": "loi",
+   "number": "2006/015",
+   "date": "2006-12-29",
+   "title": "LOI N°2006/015 DU 29 DECEMBRE 2006 PORTANT ORGANISATION JUDICIAIRE",
+   "source": "https://www.coursupreme.cm/publication/detail/textes-et-lois/loi-n°2006015-du-29-decembre-2006-portant-organisation-judiciaire",
+   "file": "https://www.coursupreme.cm/images/webcsc_medias/files/LOI_N_2006-015_29_DEC_2006(Organisation_judiciaire).pdf",
+   "text_layer": "born-digital",
+   "articles": 36
+  },
+  {
+   "id": "lois/2006/2006-016-fixant-l-organisation-et-le-fonctionnement-de-la",
+   "kind": "loi",
+   "number": "2006/016",
+   "date": "2006-12-29",
+   "title": "LOI N°2006/016 DU 29 DECEMBRE 2006 FIXANT L'ORGANISATION ET LE FONCTIONNEMENT DE LA COUR SUPREME",
+   "source": "https://www.coursupreme.cm/publication/detail/textes-et-lois/loi-n°2006016-du-29-decembre-2006-fixant-lorganisation-et-le-fonctionnement-de-la-cour-supreme",
+   "file": "https://www.coursupreme.cm/images/webcsc_medias/files/loi_n2006-016_29_dec_2008(organisation_de_la_cour).pdf",
+   "text_layer": "born-digital",
+   "articles": 144
+  },
+  {
+   "id": "lois/2006/2006-017-fixant-lorganisation-les-attributions-et-le",
+   "kind": "loi",
+   "number": "2006/017",
+   "date": "2006-12-29",
+   "title": "LOI N°2006/017 DU 29 DECEMBRE 2006 FIXANT L’ORGANISATION, LES ATTRIBUTIONS ET LE FONCTIONNEMENT DES TRIBUNAUX REGIONAUX DES COMPTES",
+   "source": "https://www.coursupreme.cm/publication/detail/textes-et-lois/loi-n°2006017-du-29-decembre-2006-fixant-l’organisation-les-attributions-et-le-fonctionnement-des-tribunaux-regionaux-des-comptes",
+   "file": "https://www.coursupreme.cm/images/webcsc_medias/files/Loi_n°_2006-017_29_DEC_2006_organisation_des_tribunaux_de_comptes.pdf",
+   "text_layer": "born-digital",
+   "articles": 66
   },
   {
    "id": "lois/2006/2006-022-fixant-lorganisation-et-le-fonctionnement-des",
