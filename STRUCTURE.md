@@ -12,6 +12,9 @@ Folder names are in French, the language people search Cameroonian law in.
 | `decrets/<année>/<numéro>-<objet>/` | Les décrets du Président de la République et du Premier Ministre (`-pm` : décret du Premier Ministre) |
 | `arretes/<année>/<numéro>-<objet>/` | Les arrêtés (du Premier Ministre et des ministres) |
 | `decisions/<année>/<numéro>-<objet>/` | Les décisions réglementaires (Premier Ministre, ministres) |
+| `<dossier d’un texte>/en/` | La version anglaise officielle du texte (anglais et français sont langues officielles, Constitution art. 1er al. 3) |
+| `cemac/<nature>/<année>/<numéro>-<objet>/` | Droit communautaire CEMAC : `reglements/`, `directives/`, `actes-additionnels/`, `decisions/` |
+| `ohada/actes-uniformes/<objet>/` | Actes uniformes de l’OHADA (droit uniforme applicable au Cameroun) |
 
 Dans chaque dossier d'acte : `README.md` (intitulé, source, date, nature du texte), `visas.md` (visas et préambule),
 `art-NNN.md` (un fichier par article ; `art-012-bis.md` pour un article bis), `signatures.md` (formule finale et

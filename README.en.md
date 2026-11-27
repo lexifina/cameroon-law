@@ -11,7 +11,7 @@ The law of Cameroon as a git history: one file per article, each version committ
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Cameroon's national law, which global-law reads at `cameroon/national/acts/`.
 
-**What is in it now:** 434 texts, each as its source publishes it: the Constitution; 8 codes ([code-de-la-marine-marchande](codes/code-de-la-marine-marchande/), [code-de-procedure-penale](codes/code-de-procedure-penale/), [code-du-travail](codes/code-du-travail/), [code-electoral](codes/code-electoral/), [code-gazier](codes/code-gazier/), [code-minier](codes/code-minier/), [code-penal](codes/code-penal/), [code-petrolier](codes/code-petrolier/)); 71 laws, 6 ordinances, 203 decrees, 115 orders (arrêtés) and 30 decisions, filed by kind and year ([STRUCTURE.md](STRUCTURE.md); the full list is [`corpus.json`](corpus.json)). Court decisions (OHADA) are in a separate repository.
+**What is in it now:** 449 texts, each as its source publishes it: the Constitution; 9 codes ([code-de-la-marine-marchande](codes/code-de-la-marine-marchande/), [code-de-procedure-penale](codes/code-de-procedure-penale/), [code-du-travail](codes/code-du-travail/), [code-electoral](codes/code-electoral/), [code-gazier](codes/code-gazier/), [code-minier](codes/code-minier/), [code-penal](codes/code-penal/), [code-petrolier](codes/code-petrolier/)); 83 laws, 7 ordinances, 204 decrees, 115 orders (arrêtés) and 30 decisions, filed by kind and year ([STRUCTURE.md](STRUCTURE.md); the full list is [`corpus.json`](corpus.json)). There are also 0 official English versions (an `en/` subfolder of the text) and 2 community-law texts applicable in Cameroon (`cemac/`, `ohada/`). Court decisions (OHADA) are in a separate repository.
 
 **Not today's text.** Loi n°2026/002 of 14 April 2026 amended the Constitution again and is not applied (see [What it does not show](#what-it-does-not-show)), so for any day after 14 April 2008 this record gives the 2008 text.
 
@@ -86,14 +86,13 @@ Each first commit is credited to its publisher as the oldest version available, 
 | [FAOLEX](https://www.fao.org/faolex/) (FAO) | PDF copies of the published texts, with their text layer | no | Secondary copy (`Source-status` trailer): Labour Code, Penal Code, mining, petroleum, forestry, land and state-property codes, etc.; non-commercial reuse with credit to FAO |
 | [WIPO Lex](https://www.wipo.int/wipolex/) (WIPO) | PDF copies of a few laws | no | Secondary copy (`Source-status` trailer) |
 | Hugging Face `endomorphosis/ipfs_cameroon_laws` | A list of addresses only | – | Used only as a URL list: every text is read again from its official source; no text from this dataset is used |
-| [Services du Premier Ministre](https://www.spm.gov.cm/site/?q=fr/documentation/lois-et-r%C3%A8glements) | "Lois et Règlements": HTML texts and PDFs (laws, decrees, orders, decisions) | no, each text as published | Official source; the Code de procédure pénale (articles 59 to 672) as HTML; scanned PDFs without a text layer are left out |
-| [FAOLEX](https://www.fao.org/faolex/) (FAO) | PDF copies of the published texts, with their text layer | no | Secondary copy (`Source-status` trailer): Labour Code, Penal Code, mining, petroleum, forestry, land and state-property codes, etc.; non-commercial reuse with credit to FAO |
-| [WIPO Lex](https://www.wipo.int/wipolex/) (WIPO) | PDF copies of a few laws | no | Secondary copy (`Source-status` trailer) |
-| Hugging Face `endomorphosis/ipfs_cameroon_laws` | A list of addresses only | – | Used only as a URL list: every text is read again from its official source; no text from this dataset is used |
-| [Services du Premier Ministre](https://www.spm.gov.cm/site/?q=fr/documentation/lois-et-r%C3%A8glements) | "Lois et Règlements": HTML texts and PDFs (laws, decrees, orders, decisions) | no, each text as published | Official source; the Code de procédure pénale (articles 59 to 672) as HTML; scanned PDFs without a text layer are left out |
-| [FAOLEX](https://www.fao.org/faolex/) (FAO) | PDF copies of the published texts, with their text layer | no | Secondary copy (`Source-status` trailer): Labour Code, Penal Code, mining, petroleum, forestry, land and state-property codes, etc.; non-commercial reuse with credit to FAO |
-| [WIPO Lex](https://www.wipo.int/wipolex/) (WIPO) | PDF copies of a few laws | no | Secondary copy (`Source-status` trailer) |
-| Hugging Face `endomorphosis/ipfs_cameroon_laws` | A list of addresses only | – | Used only as a URL list: every text is read again from its official source; no text from this dataset is used |
+| [National Assembly](https://www.assnat.cm/index.php/en/laws-menu/adopted-laws) | "Adopted laws": PDFs of promulgated laws, French and English | no | Official; most PDFs are scans without a text layer and are left out |
+| [Ministry of Justice](http://www.minjustice.gov.cm/index.php/en/legalis/instruments-and-laws) | "Textes et lois" (French) and "Instruments and laws" (English): PDFs | no | Official; scans left out |
+| [Supreme Court](https://www.coursupreme.cm/publication/textes-et-lois) | "Textes et lois": born-digital PDFs | no | Official |
+| Ministries and regulators (MINDDEVEL, MINPROFF, MINEDUB, MINMIDT, MINEE, ARSEL, ART, ARMP, CNPS, CNC, DGI) | Legal-text pages: PDFs | no | Official; individual measures (appointments, authorisations, sanctions) left out |
+| [Directorate General of Taxation](https://www.impots.cm/fr/documents/39) | Official editions of the General Tax Code (2019 to 2026), finance laws | yes: one version per dated edition ("mis à jour au 1er janvier …") | Official; `codes/code-general-des-impots/` |
+| [CEMAC Commission](https://cemac.int/reglements-directives/), [BEAC](https://www.beac.int/) | CEMAC regulations, directives and additional acts (community law applicable in Cameroon) | no | Official; `cemac/`; scans left out |
+| [OHADA](https://www.ohada.org/) | OHADA Official Journal: Uniform Acts (secured transactions; cooperatives) | no | Official; `ohada/actes-uniformes/`; the other JO issues are scans |
 
 ## Licence
 
