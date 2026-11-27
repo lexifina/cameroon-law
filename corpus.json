@@ -1302,6 +1302,17 @@
    "articles": 176
   },
   {
+   "id": "codes/code-electoral-lassemblee-nationale-a-delibere-et-adopte",
+   "kind": "loi",
+   "number": "2012/001",
+   "date": "2012-04-19",
+   "title": "Loi N°2012/001 du 19 avril 2012 portant code électoral L’Assemblée nationale a délibéré et adopté, le président de la République promulgue la loi dont la teneur suit : TITRE PREMIER DISPOSITIONS GENERALES ARTICLE 1er.- (1) La présente loi porte code électoral",
+   "source": "https://www.assnat.cm/images/lois-adoptees/code-electoral.pdf",
+   "file": "https://www.assnat.cm/images/lois-adoptees/code-electoral.pdf",
+   "text_layer": "born-digital",
+   "articles": 299
+  },
+  {
    "id": "codes/code-gazier",
    "kind": "loi",
    "number": "2002-013",
@@ -2301,6 +2312,17 @@
    "file": "https://faolex.fao.org/docs/pdf/cmr33979.pdf",
    "text_layer": "born-digital",
    "articles": 19
+  },
+  {
+   "id": "decrets/2001/2001-956-pm-fixant-les-modalites-dapplication-de-la-loi-n",
+   "kind": "decret",
+   "number": "2001/956/PM",
+   "date": "2001-11-01",
+   "title": "Décret n° 2001/956/PM du 1er Novembre 2001 fixant les modalités d’application de la loi n° 2000/11 du 19 décembre 2000 relative au droit d’auteur et aux droits voisins",
+   "source": "https://www.wipo.int/wipolex/en/legislation/details/7757",
+   "file": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/fr/cm/cm008fr.pdf",
+   "text_layer": "born-digital",
+   "articles": 23
   },
   {
    "id": "decrets/2002/2002-07-pm-fixant-les-normes-de-conditionnement-et-de",
@@ -3898,6 +3920,17 @@
    "articles": 167
   },
   {
+   "id": "lois/1973/73-1-portant-reglement-de-lassemblee-nationale-modifie",
+   "kind": "loi",
+   "number": "73/1",
+   "date": "1973-06-08",
+   "title": "Loi n° 73/1 du 08 juin 1973 portant Règlement de l’Assemblée Nationale modifié par : - la loi n° 89/13 du 28 juillet 1989 - la loi n° 92/004 du 14 août 1992 - la loi n° 93/001 du 16 août 1993 - la loi n° 2002/005 du 02 décembre 2002 - la loi n° 2014/016 du 09 septembre 2014 co",
+   "source": "https://www.assnat.cm/images/Assembl%C3%A9e_r%C3%A8glement_fran%C3%A7ais.pdf",
+   "file": "https://www.assnat.cm/images/Assembl%C3%A9e_r%C3%A8glement_fran%C3%A7ais.pdf",
+   "text_layer": "born-digital",
+   "articles": 125
+  },
+  {
    "id": "lois/1977/77-11-portant-reparation-et-prevention-des-accidents-du",
    "kind": "loi",
    "number": "77-11",
@@ -4116,6 +4149,17 @@
    "file": "https://faolex.fao.org/docs/pdf/cmr36320.pdf",
    "text_layer": "born-digital",
    "articles": 11
+  },
+  {
+   "id": "lois/2000/2000-011-relative-au-droit-dauteur-et-aux-droits-voisins",
+   "kind": "loi",
+   "number": "2000/011",
+   "date": "2000-12-19",
+   "title": "Loi n° 2000/011 du 19 décembre 2000 relative au droit d’auteur et aux droits voisins* TABLE DES MATIÈRES** Articles [Sans titre]",
+   "source": "https://www.wipo.int/wipolex/en/legislation/details/836",
+   "file": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/fr/cm/cm001fr_1.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 0
   },
   {
    "id": "lois/2000/2000-017-portant-reglementation-de-l-inspection-sanitaire",
@@ -4666,6 +4710,17 @@
    "file": "https://faolex.fao.org/docs/pdf/cmr218023.pdf",
    "text_layer": "born-digital",
    "articles": 2
+  },
+  {
+   "id": "ordonnances/2009/2009-001-modifiant-certaines-dispositions-de-la-loi-n2002",
+   "kind": "ordonnance",
+   "number": "2009/001",
+   "date": "2009-05-13",
+   "title": "Ordonnance n°2009/001 du 13 mai 2009 modifiant certaines dispositions de la loi n°2002/004 du 19 avril 2002 portant Charte des Investissements en République du Cameroun Le président de la République ordonne: Art",
+   "source": "https://www.wipo.int/wipolex/en/legislation/details/11617",
+   "file": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/fr/cm/cm012fr.pdf",
+   "text_layer": "born-digital",
+   "articles": 3
   },
   {
    "id": "ordonnances/2014/2014-001-portant-reduction-de-la-taxe-speciale-sur-les",
